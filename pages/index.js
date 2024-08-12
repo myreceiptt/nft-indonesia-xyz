@@ -90,22 +90,23 @@ export default function Home() {
       </main>
 
       <footer>
-        <a
+        <h4><a
           href="https://x.com/NFTindonesia_/status/1446378297516982274"
           target="_blank"
           rel="noopener noreferrer"
           title="Link to the first tweet of NFT Indonesia."
         >
-          <h4>NFT Indonesia - Since 2021</h4>
-        </a>
-        <a
+          NFT Indonesia - Since 2021
+        </a></h4>
+       <h6> <a
           href="mailto: zortan@nftindonesia.xyz"
           target="_blank"
           rel="noopener noreferrer"
           title="A link to send message to official email address of NFT Indonesia."
         >
-            <h6>zortan [at] nftindonesia [dot] xyz</h6>
+            zortan [at] nftindonesia [dot] xyz
         </a>
+            </h6>
       </footer>
 
       <style jsx>{`
