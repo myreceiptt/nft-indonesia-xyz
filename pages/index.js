@@ -86,6 +86,15 @@ export default function Home() {
             <h3>HUG Collective &rarr;</h3>
             <p>A link to NFT Indonesia artist collective on HUG.</p>
           </a>
+
+          <a
+            href="mailto: zortan@nftindonesia.xyz"
+            className={styles.card}
+            target="_blank"
+          >
+            <h3>Email Address &rarr;</h3>
+            <p>A link to send message to official email address of NFT Indonesia.</p>
+          </a>
         </div>
       </main>
 
@@ -97,13 +106,6 @@ export default function Home() {
           title="Link to the first tweet of NFT Indonesia."
         >
           NFT Indonesia - Since 2021
-        </a><br><a
-          href="mailto: zortan@nftindonesia.xyz"
-          target="_blank"
-          rel="noopener noreferrer"
-          title="A link to send message to official email address of NFT Indonesia."
-        >
-            zortan [at] nftindonesia [dot] xyz
         </a>
       </footer>
 
