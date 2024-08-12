@@ -95,17 +95,16 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <img src="/nft-indonesia-logo.webp" alt="Logo NFT Indonesia" className={styles.logo} />
-          {" "}NFT Indonesia - Since 2021{" "}
-          <img src="/nft-indonesia-logo.webp" alt="Logo NFT Indonesia" className={styles.logo} />
+          <p>NFT Indonesia - Since 2021</p>
         </a>
-            <br />
         <a
           href="mailto: zortan@nftindonesia.xyz"
           target="_blank"
           rel="noopener noreferrer"
           title="A link to send message to official email address of NFT Indonesia."
-        >zortan [at] nftindonesia [dot] xyz</a>
+        >
+            <p>zortan [at] nftindonesia [dot] xyz</p>
+        </a>
       </footer>
 
       <style jsx>{`
