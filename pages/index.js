@@ -42,67 +42,49 @@ export default function Home() {
           </a>
 
           <a
-            href="#"
+            href="https://x.com/NFTindonesia_"
             className={styles.card}
             target="_blank"
           >
-            <h3>Link #2 &rarr;</h3>
-            <p>A link #2 is a link to some where on the Internet.</p>
+            <h3>X - Twitter &rarr;</h3>
+            <p>A link to official X - Twitter account of NFT Indonesia.</p>
           </a>
 
           <a
-            href="#"
+            href="https://www.instagram.com/nftindonesia_/"
             className={styles.card}
             target="_blank"
           >
-            <h3>Link #3 &rarr;</h3>
-            <p>A link #3 is a link to some where on the Internet.</p>
+            <h3>Instgram &rarr;</h3>
+            <p>A link to official Instagram account of NFT Indonesia.</p>
           </a>
 
           <a
-            href="#"
+            href="https://discord.gg/3AvJSYPJK6"
             className={styles.card}
             target="_blank"
           >
-            <h3>Link #4 &rarr;</h3>
-            <p>A link #4 is a link to some where on the Internet.</p>
+            <h3>Discord Server &rarr;</h3>
+            <p>An invitation link to Discord server of NFT Indonesia.</p>
           </a>
 
           <a
-            href="#"
+            href="https://warpcast.com/nftindonesia"
             className={styles.card}
             target="_blank"
           >
-            <h3>Link #5 &rarr;</h3>
+            <h3>Farcaster &rarr;</h3>
             <p>
-              A link #5 is a link to some where on the Internet.</p>
+              A link to official Farcaster account of NFT Indonesia.</p>
           </a>
 
           <a
-            href="#"
+            href="https://thehug.xyz/collectives/NFTindonesia_"
             className={styles.card}
             target="_blank"
           >
-            <h3>Link #6 &rarr;</h3>
-            <p>A link #6 is a link to some where on the Internet.</p>
-          </a>
-
-          <a
-            href="#"
-            className={styles.card}
-            target="_blank"
-          >
-            <h3>Link #7 &rarr;</h3>
-            <p>A link #7 is a link to some where on the Internet.</p>
-          </a>
-
-          <a
-            href="#"
-            className={styles.card}
-            target="_blank"
-          >
-            <h3>Link #8 &rarr;</h3>
-            <p>A link #8 is a link to some where on the Internet.</p>
+            <h3>HUG Collective &rarr;</h3>
+            <p>A link to NFT Indonesia artist collective on HUG.</p>
           </a>
         </div>
       </main>
@@ -117,6 +99,12 @@ export default function Home() {
           {" "}NFT Indonesia - Since 2021{" "}
           <img src="/nft-indonesia-logo.webp" alt="Logo NFT Indonesia" className={styles.logo} />
         </a>
+        <a
+          href="mailto: zortan@nftindonesia.xyz"
+          target="_blank"
+          rel="noopener noreferrer"
+          title="A link to send message to official email address of NFT Indonesia."
+        >zortan [at] nftindonesia [dot] xyz</a>
       </footer>
 
       <style jsx>{`
