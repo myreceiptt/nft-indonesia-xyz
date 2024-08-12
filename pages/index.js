@@ -33,7 +33,7 @@ export default function Home() {
 
         <div className={styles.grid}>
           <a
-            href="https://www.nftindonesia.xyz/"
+            href="#"
             className={styles.card}
             target="_blank"
           >
@@ -55,7 +55,7 @@ export default function Home() {
             className={styles.card}
             target="_blank"
           >
-            <h3>Instgram &rarr;</h3>
+            <h3>Instagram &rarr;</h3>
             <p>A link to official Instagram account of NFT Indonesia.</p>
           </a>
 
@@ -99,6 +99,7 @@ export default function Home() {
           {" "}NFT Indonesia - Since 2021{" "}
           <img src="/nft-indonesia-logo.webp" alt="Logo NFT Indonesia" className={styles.logo} />
         </a>
+            <br />
         <a
           href="mailto: zortan@nftindonesia.xyz"
           target="_blank"
