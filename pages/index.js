@@ -109,7 +109,7 @@ export default function Home() {
 
       <footer>
         <a
-          href="https://www.nftindonesia.xyz/"
+          href="https://x.com/NFTindonesia_/status/1446378297516982274"
           target="_blank"
           rel="noopener noreferrer"
         >
