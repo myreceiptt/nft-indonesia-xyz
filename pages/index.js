@@ -7,9 +7,9 @@ export default function Home() {
     <div className={styles.container}>
       <Head>
         <title>NFT Indonesia: Initialization Page!</title>
-        <link rel="icon" href="/1.47.png" />
-        <link rel="apple-touch-icon" href="/1.47.png" />
-        <link rel="shortcut icon" href="/1.47.png" />
+        <link rel="icon" href="/nft-indonesia-logo.webp" />
+        <link rel="apple-touch-icon" href="/nft-indonesia-logo.webp" />
+        <link rel="shortcut icon" href="/nft-indonesia-logo.webp" />
         <link rel="canonical" href="https://www.nftindonesia.xyz/" />
 
         <meta
@@ -33,89 +33,89 @@ export default function Home() {
 
         <div className={styles.grid}>
           <a
-            href="https://www.straight-line.org/"
+            href="https://www.nftindonesia.xyz/"
             className={styles.card}
             target="_blank"
           >
-            <h3>MyReceipt Home &rarr;</h3>
-            <p>A home is all MyReceipt wanted to be, even a straight line.</p>
+            <h3>This Page &rarr;</h3>
+            <p>An init page contain a link list related to NFT Indonesia.</p>
           </a>
 
           <a
-            href="https://prompt.straight-line.org/"
+            href="#"
             className={styles.card}
             target="_blank"
           >
-            <h3>Console Prompts &rarr;</h3>
-            <p>A window in which the text-mode programs are active.</p>
+            <h3>Link #2 &rarr;</h3>
+            <p>A link #2 is a link to some where on the Internet.</p>
           </a>
 
           <a
-            href="https://iqraa.straight-line.org/tutor-x-educator/"
+            href="#"
             className={styles.card}
             target="_blank"
           >
-            <h3>Tutors X Educators &rarr;</h3>
-            <p>A collection of educational materials by Prof. NOTA.</p>
+            <h3>Link #3 &rarr;</h3>
+            <p>A link #3 is a link to some where on the Internet.</p>
           </a>
 
           <a
-            href="https://iqraa.straight-line.org/the-kings/"
+            href="#"
             className={styles.card}
             target="_blank"
           >
-            <h3>The KING's NFTs &rarr;</h3>
-            <p>All the information about The KING's NFTs project.</p>
+            <h3>Link #4 &rarr;</h3>
+            <p>A link #4 is a link to some where on the Internet.</p>
           </a>
 
           <a
-            href="https://wp.straight-line.org/"
+            href="#"
             className={styles.card}
             target="_blank"
           >
-            <h3>Working Progress &rarr;</h3>
+            <h3>Link #5 &rarr;</h3>
             <p>
-              It’s a working progress, it's not a work in progress.</p>
+              A link #5 is a link to some where on the Internet.</p>
           </a>
 
           <a
-            href="https://deeplinks.straight-line.org/"
+            href="#"
             className={styles.card}
             target="_blank"
           >
-            <h3>The Deep Links &rarr;</h3>
-            <p>Does not facilitate the access to or use of the links.</p>
+            <h3>Link #6 &rarr;</h3>
+            <p>A link #6 is a link to some where on the Internet.</p>
           </a>
 
           <a
-            href="https://store.endhonesa.com/"
+            href="#"
             className={styles.card}
             target="_blank"
           >
-            <h3>Online Store &rarr;</h3>
-            <p>Trade according to the resulting revenue and formed value.</p>
+            <h3>Link #7 &rarr;</h3>
+            <p>A link #7 is a link to some where on the Internet.</p>
           </a>
 
           <a
-            href="https://shop.skateshop.id/"
+            href="#"
             className={styles.card}
             target="_blank"
           >
-            <h3>Skateboards Shop &rarr;</h3>
-            <p>Will bring you all the best skateboarding goods.</p>
+            <h3>Link #8 &rarr;</h3>
+            <p>A link #8 is a link to some where on the Internet.</p>
           </a>
         </div>
       </main>
 
       <footer>
         <a
-          href="https://www.straight-line.org/"
+          href="https://www.nftindonesia.xyz/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          <img src="/1.47.svg" alt="Prof. NOTA v.1.47" className={styles.logo} />
-          {" "}MyReceipt Rest in Proxy (R.I.P.) - 1983/2023{" "}
-          <img src="/1.47.svg" alt="Prof. NOTA v.1.47" className={styles.logo} />
+          <img src="/nft-indonesia-logo.webp" alt="Logo NFT Indonesia" className={styles.logo} />
+          {" "}NFT Indonesia - Since 2021{" "}
+          <img src="/nft-indonesia-logo.webp" alt="Logo NFT Indonesia" className={styles.logo} />
         </a>
       </footer>
 
