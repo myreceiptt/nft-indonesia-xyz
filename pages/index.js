@@ -7,9 +7,10 @@ export default function Home() {
     <div className={styles.container}>
       <Head>
         <title>NFT Indonesia: Initialization Page!</title>
+        <link href="/logo32.png" rel="shortcut icon" />
         <link rel="icon" href="/nft-indonesia-logo.webp" />
         <link rel="apple-touch-icon" href="/nft-indonesia-logo.webp" />
-        <link rel="shortcut icon" href="/nft-indonesia-logo.webp" />
+        // <link rel="shortcut icon" href="/nft-indonesia-logo.webp" />
         <link rel="canonical" href="https://www.nftindonesia.xyz/" />
 
         <meta
