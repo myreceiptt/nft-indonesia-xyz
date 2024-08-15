@@ -2,11 +2,11 @@
 const siteMetadata = {
     title: 'NFT Indonesia dot XYZ',
     author: 'ZORTAN',
-    headerTitle: 'NFT Indonesia Contents',
-    description: 'Contents created by NFT Indonesia based on all this time activities.',
+    headerTitle: 'NFT Indonesia Website',
+    description: 'Website created by NFT Indonesia with contents based on all this time activities.',
     language: 'en-us',
     theme: 'dark', // system, dark or light
-    siteUrl: 'https://blog.nftindonesia.xyz', // your website URL
+    siteUrl: 'https://beta.nftindonesia.xyz', // your website URL
     siteLogo: '/logo.png',
     socialBanner: '/social-banner.png', // add social banner in the public folder
     email: 'zortan@nftindonesia.xyz', 
@@ -15,7 +15,7 @@ const siteMetadata = {
     discord: 'https://discord.gg/3AvJSYPJK6',
     farcaster: 'https://warpcast.com/nftindonesia',
     thehugxyz: 'https://thehug.xyz/collectives/NFTindonesia_',
-    // youtube: 'https://youtube.com/codebucks',
+    // youtube: 'https://youtube.com/nftindonesia_',
     locale: 'en-US',
   }
   
