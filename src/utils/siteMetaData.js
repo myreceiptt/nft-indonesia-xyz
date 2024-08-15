@@ -12,13 +12,10 @@ const siteMetadata = {
     email: 'zortan@nftindonesia.xyz', 
     twitter: 'https://x.com/NFTindonesia_',
     instagram: 'https://www.instagram.com/nftindonesia_/',
-    // discord: 'https://discord.gg/3AvJSYPJK6',
-    // farcaster: 'https://warpcast.com/nftindonesia',
-    // hug-collective: 'https://thehug.xyz/collectives/NFTindonesia_',
-    // facebook: 'https://facebook.com',
+    discord: 'https://discord.gg/3AvJSYPJK6',
+    farcaster: 'https://warpcast.com/nftindonesia',
+    thehugxyz: 'https://thehug.xyz/collectives/NFTindonesia_',
     // youtube: 'https://youtube.com/codebucks',
-    // linkedin: 'https://www.linkedin.com/in/codebucks/',
-    // dribbble: 'https://www.dribbble.com',
     locale: 'en-US',
   }
   
