@@ -4,8 +4,8 @@ import Link from "next/link";
 
 
 export const metadata = {
-  title: "About Me",
-  description: `Here are some details about my self.`,
+  title: "About NFT Indoneisa",
+  description: `What is NFT Indonesia? What They Want? What They Do? What They Have? Who Are Their Team?`,
 };
 
 export default function About() {
