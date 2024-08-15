@@ -77,7 +77,7 @@ const Header = () => {
         <Link href="/about" className="mr-2">
           About Us
         </Link>
-        <Link href="/#" className="mx-2">
+        <Link href="/categories/all" className="mx-2">
           Activities
         </Link>
         <Link href="/contact" className="mx-2">
@@ -106,7 +106,7 @@ const Header = () => {
         <Link href="/about" className="mr-2">
           About Us
         </Link>
-        <Link href="/#" className="mx-2">
+        <Link href="/categories/all" className="mx-2">
           Activities
         </Link>
         <Link href="/contact" className="mx-2">
