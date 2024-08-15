@@ -1,6 +1,6 @@
 // please update required information
 const siteMetadata = {
-    title: 'NFT Indonesia dot XYZ',
+    title: 'NFT Indonesia - Decentrally Independence',
     author: 'ZORTAN',
     headerTitle: 'NFT Indonesia Website',
     description: 'Website created by NFT Indonesia with contents based on all this time activities.',

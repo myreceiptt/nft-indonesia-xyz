@@ -1,8 +1,8 @@
 export default function manifest() {
     return {
-      name: 'Next.js App',
-      short_name: 'Next.js App',
-      description: 'Next.js App',
+      name: 'NFT Indonesia Website',
+      short_name: 'NFT Indonesia',
+      description: 'NFT Indonesia - Decentrally Independence',
       start_url: '/',
       display: 'standalone',
     //   background_color: '#fff',
