@@ -32,15 +32,21 @@ export default function Home() {
           Get started by editing <code>pages/index.js</code>
         </p>
 
+        <iframe
+      src="https://www.youtube.com/watch?v=EbneWlPGRtU"
+      frameborder="0"
+      allowfullscreen
+    />
+
         <div className={styles.grid}>
-          <a
-            href="#"
-            className={styles.card}
-            target="_blank"
-          >
-            <h3>This Page &rarr;</h3>
-            <p>An init page contain a link list related to NFT Indonesia.</p>
-          </a>
+          // <a
+          //   href="#"
+          //   className={styles.card}
+          //   target="_blank"
+          // >
+          //   <h3>This Page &rarr;</h3>
+          //   <p>An init page contain a link list related to NFT Indonesia.</p>
+          // </a>
 
           <a
             href="https://x.com/NFTindonesia_"
