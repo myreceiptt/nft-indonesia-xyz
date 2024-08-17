@@ -31,6 +31,9 @@ export default function Home() {
         <p className={styles.description}>
           An init page contain a link list related to NFT Indonesia.
         </p>
+        <p className={styles.description}>
+          Below is our declaration. Join us now!
+        </p>
 
         <iframe
           className={styles.video}
