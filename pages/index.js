@@ -100,7 +100,7 @@ export default function Home() {
             target="_blank"
           >
             <h3>Email Address &rarr;</h3>
-            <p>A link to send message to official email address of NFT Indonesia.</p>
+            <p>A link to send email to official address of NFT Indonesia.</p>
           </a>
         </div>
       </main>
