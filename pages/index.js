@@ -33,15 +33,16 @@ export default function Home() {
         </p>
 
         <iframe
-      src="https://www.youtube.com/embed/EbneWlPGRtU?si=d-9VNmgYcGlGuPIB"
-  title="The New NFT Indonesia (A Declaration)"
-      width="100%"
-  height="450"
-      frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-  referrerpolicy="strict-origin-when-cross-origin"
-      allowfullscreen
-    />
+          {styles.video}
+          src="https://www.youtube.com/embed/EbneWlPGRtU?si=d-9VNmgYcGlGuPIB"
+          title="The New NFT Indonesia (A Declaration)"
+          width="100%"
+          height="450"
+          
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          referrerpolicy="strict-origin-when-cross-origin"
+          allowfullscreen
+        />
 
         <div className={styles.grid}>
           <a
