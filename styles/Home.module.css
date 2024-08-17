@@ -42,6 +42,11 @@
   font-size: 1.5rem;
 }
 
+.video {
+  border: 1px solid #eaeaea;
+  border-radius: 10px;
+}
+
 .grid {
   display: flex;
   align-items: center;
