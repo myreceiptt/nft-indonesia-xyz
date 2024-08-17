@@ -34,7 +34,7 @@ export default function Home() {
 
         <iframe
       src="https://www.youtube.com/watch?v=EbneWlPGRtU"
-      width="320" />
+      width="100%"
       frameborder="0"
       allowfullscreen
     />
