@@ -33,9 +33,12 @@ export default function Home() {
         </p>
 
         <iframe
-      src="https://www.youtube.com/watch?v=EbneWlPGRtU"
+      src="https://www.youtube.com/embed/EbneWlPGRtU?si=d-9VNmgYcGlGuPIB"
+  title="The New NFT Indonesia (A Declaration)"
       width="100%"
       frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  referrerpolicy="strict-origin-when-cross-origin"
       allowfullscreen
     />
 
