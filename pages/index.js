@@ -33,7 +33,7 @@ export default function Home() {
         </p>
 
         <iframe
-          {styles.video}
+          className={styles.video}
           src="https://www.youtube.com/embed/EbneWlPGRtU?si=d-9VNmgYcGlGuPIB"
           title="The New NFT Indonesia (A Declaration)"
           width="100%"
