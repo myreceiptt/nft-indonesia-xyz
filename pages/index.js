@@ -32,6 +32,12 @@ export default function Home() {
           An init page contain a link list related to NFT Indonesia.
         </p>
 
+        <iframe
+      src="https://www.youtube.com/watch?v=gfU1iZnjRZM"
+      frameborder="0"
+      allowfullscreen
+    />
+
         <div className={styles.grid}>
           <a
             href="https://x.com/NFTindonesia_"
