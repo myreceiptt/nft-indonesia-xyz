@@ -33,7 +33,8 @@ export default function Home() {
         </p>
 
         <iframe
-      src="https://www.youtube.com/watch?v=gfU1iZnjRZM"
+      src="https://www.youtube.com/watch?v=EbneWlPGRtU"
+      width="75%" />
       frameborder="0"
       allowfullscreen
     />
