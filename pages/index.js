@@ -36,6 +36,7 @@ export default function Home() {
       src="https://www.youtube.com/embed/EbneWlPGRtU?si=d-9VNmgYcGlGuPIB"
   title="The New NFT Indonesia (A Declaration)"
       width="100%"
+  height="450"
       frameborder="0"
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
   referrerpolicy="strict-origin-when-cross-origin"
