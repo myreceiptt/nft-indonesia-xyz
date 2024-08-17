@@ -29,7 +29,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          An init page contain a link list related to NFT Indonesia.</code>
+          An init page contain a link list related to NFT Indonesia.
         </p>
 
         <div className={styles.grid}>
