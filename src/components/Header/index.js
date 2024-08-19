@@ -14,9 +14,10 @@ const Header = () => {
     setClick(!click);
   };
   return (
-    <header className="w-full p-4 px-5 sm:px-10 flex flex-wrap items-center justify-between">
+    <header className="w-full p-4 px-5 sm:px-10 flex flex-wrap items-center justify-between fixed z-50 top-0 start-0 dark:bg-dark/80 bg-light/80 backdrop-blur-sm">
+      <Logo />
       <button
-        className="inline-block lg:hidden z-50"
+        className="inline-block lg:hidden"
         onClick={toggle}
         aria-label="Hamburger Menu"
       >
@@ -53,15 +54,14 @@ const Header = () => {
           </div>
         </div>
       </button>
-
       <nav
-        className="py-3 px-6 sm:px-8 dark:bg-light/80 bg-dark/80 backdrop-blur-sm border border-solid border-dark dark:border-light rounded-lg text-light dark:text-dark font-medium capitalize items-center flex flex-col lg:hidden fixed top-6 translate-x-1/2 z-50 transition-all ease duration-300"
+        className="dark:bg-light/80 bg-dark/80 backdrop-blur-sm border border-solid border-dark dark:border-light rounded-lg text-light dark:text-dark font-medium capitalize items-center flex flex-col lg:hidden fixed z-50 transition-all ease duration-300"
         style={{
-          top: click ? "2rem" : "-11rem",
+          top: click ? "5rem" : "-11rem",
         }}
       >
-        <div className="w-full md:w-auto">
-          <ul>
+        <div className="">
+          <ul className="">
             <li>
               <Link href="/about-us" className="mx-2">
                 About Us
@@ -77,99 +77,45 @@ const Header = () => {
                 Collaborate
               </Link>
             </li>
-            <li></li>
           </ul>
-        </div>
-        <div className="relative border-t-2 border-solid dark:border-dark border-light py-6 px-8 flex  flex-col md:flex-row items-center justify-between">
-          <button
-            onClick={() => setMode(mode === "light" ? "dark" : "light")}
-            className={cx(
-              "w-6 h-6 ease ml-2 flex items-center justify-center rounded-full p-1",
-              mode === "light" ? "bg-dark text-light" : "bg-light text-dark"
-            )}
-            aria-label="theme-switcher"
-          >
-            {mode === "light" ? (
-              <MoonIcon className={"fill-dark"} />
-            ) : (
-              <SunIcon className={"fill-dark"} />
-            )}
-          </button>
         </div>
       </nav>
-
-      <nav className="w-max py-3 px-8 dark:bg-light/80 bg-dark/80 backdrop-blur-sm border border-solid border-dark dark:border-light rounded-lg text-light dark:text-dark font-medium capitalize items-center hidden lg:flex lg:flex-row fixed translate-x-1/2 z-50 transition-all ease duration-300">
-        <div className="w-full md:w-auto">
-          <ul>
-            <li>
-              <Link
-                href="/about-us"
-                className="mr-4 hover:text-dark hover:dark:text-light"
-              >
-                About Us
-              </Link>
-              <Link href="/about-us" className="mx-2">
-                About Us
-              </Link>
-            </li>
-            <li>
-              <Link href="/categories/all" className="mx-2">
-                Activities
-              </Link>
-            </li>
-            <li>
-              <Link href="/collaborate" className="mx-2">
-                Collaborate
-              </Link>
-            </li>
-            <li></li>
-          </ul>
-        </div>
-        <div className="relative border-t-2 border-solid dark:border-dark border-light py-6 px-8 flex  flex-col md:flex-row items-center justify-between">
-          <button
-            onClick={() => setMode(mode === "light" ? "dark" : "light")}
-            className={cx(
-              "w-6 h-6 ease ml-2 flex items-center justify-center rounded-full p-1",
-              mode === "light" ? "bg-dark text-light" : "bg-light text-dark"
-            )}
-            aria-label="theme-switcher"
-          >
-            {mode === "light" ? (
-              <MoonIcon className={"fill-dark"} />
-            ) : (
-              <SunIcon className={"fill-dark"} />
-            )}
-          </button>
-        </div>
-
+      <nav className="hidden lg:flex lg:flex-row z-50">
+        <Link
+          href="/about-us"
+          className="m-2 block py-2 px-10 rounded-full border-2 border-solid border-dark dark:border-light hover:scale-105 transition-all ease duration-200 text-dark dark:text-light font-medium capitalize items-center"
+        >
+          About Us
+        </Link>
         <Link
           href="/categories/all"
-          className="mx-4 hover:text-dark hover:dark:text-light"
+          className="m-2 block py-2 px-10 rounded-full border-2 border-solid border-dark dark:border-light hover:scale-105 transition-all ease duration-200 text-dark dark:text-light font-medium capitalize items-center"
         >
           Activities
         </Link>
         <Link
           href="/collaborate"
-          className="mx-4 hover:text-dark hover:dark:text-light"
+          className="m-2 block py-2 px-10 rounded-full border-2 border-solid border-dark dark:border-light hover:scale-105 transition-all ease duration-200 text-dark dark:text-light font-medium capitalize items-center"
         >
           Collaborate
         </Link>
-        <button
-          onClick={() => setMode(mode === "light" ? "dark" : "light")}
-          className={cx(
-            "w-6 h-6 ease ml-4 flex items-center justify-center rounded-full p-1",
-            mode === "light" ? "bg-dark text-light" : "bg-light text-dark"
-          )}
-          aria-label="theme-switcher"
-        >
-          {mode === "light" ? (
-            <MoonIcon className={"fill-dark"} />
-          ) : (
-            <SunIcon className={"fill-dark"} />
-          )}
-        </button>
+        <div className="m-2 block py-2 px-2 rounded-full hover:scale-105 transition-all ease duration-200 items-center">
+          <button
+            onClick={() => setMode(mode === "light" ? "dark" : "light")}
+            className={cx(
+              "w-6 h-6 ease flex items-center justify-center rounded-full p-1",
+              mode === "light" ? "bg-dark text-light" : "bg-light text-dark"
+            )}
+            aria-label="theme-switcher"
+          >
+            {mode === "light" ? (
+              <MoonIcon className={"fill-dark"} />
+            ) : (
+              <SunIcon className={"fill-dark"} />
+            )}
+          </button>
+        </div>
       </nav>
-      <Logo />
     </header>
   );
 };

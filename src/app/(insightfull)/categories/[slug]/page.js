@@ -58,27 +58,24 @@ const CategoryPage = ({ params }) => {
   });
 
   return (
-    <main className="flex flex-col items-center justify-between">
-      <RiSoll />
-      <article className="flex flex-col text-dark dark:text-light mb-16 sm:mb-24">
-        <div className="px-5 sm:px-10 md:px-24 sxl:px-32 flex flex-col">
-          <h1 className="mt-6 font-semibold text-2xl md:text-4xl lg:text-5xl">
-            #{params.slug}
-          </h1>
-          <span className="mt-2 inline-block">
-            Discover more activities and expand your experiences!
-          </span>
-        </div>
-        <Categories categories={allCategories} currentSlug={params.slug} />
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 grid-rows-2 gap-16 pt-5 sm:pt-10 md:pt-24 sxl:pt-32 px-5 sm:px-10 md:px-24 sxl:px-32 border-t-2 border-solid border-dark dark:border-light">
-          {blogs.map((blog, index) => (
-            <article key={index} className="col-span-1 row-span-1 relative">
-              <BlogLayoutThree blog={blog} />
-            </article>
-          ))}
-        </div>
-      </article>
-    </main>
+    <article className="flex flex-col text-dark dark:text-light mb-16 sm:mb-24">
+      <div className="px-5 sm:px-10 md:px-24 sxl:px-32 flex flex-col">
+        <h1 className="mt-6 font-semibold text-2xl md:text-4xl lg:text-5xl">
+          #{params.slug}
+        </h1>
+        <span className="mt-2 inline-block">
+          Discover more activities and expand your experiences!
+        </span>
+      </div>
+      <Categories categories={allCategories} currentSlug={params.slug} />
+      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 grid-rows-2 gap-16 pt-5 sm:pt-10 md:pt-24 sxl:pt-32 px-5 sm:px-10 md:px-24 sxl:px-32 border-t-2 border-solid border-dark dark:border-light">
+        {blogs.map((blog, index) => (
+          <article key={index} className="col-span-1 row-span-1 relative">
+            <BlogLayoutThree blog={blog} />
+          </article>
+        ))}
+      </div>
+    </article>
   );
 };
 

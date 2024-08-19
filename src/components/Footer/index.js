@@ -112,6 +112,7 @@ const Footer = () => {
           <Link
             href="/sitemap.xml"
             className="font-bold hover:underline-offset-8 transition-all ease duration-300 underline underline-offset-2"
+            target="_blank"
           >
             decentrally
           </Link>

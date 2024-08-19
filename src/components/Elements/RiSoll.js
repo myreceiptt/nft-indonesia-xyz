@@ -1,3 +1,5 @@
+import React from "react";
+
 const RiSollList = [
   "3+ Years Since Day One", // The years of activities.
   "200+ Activities Completed", // The number of activities.

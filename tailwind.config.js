@@ -20,11 +20,14 @@ module.exports = {
         in: ["var(--font-in)"],
       },
       animation: {
-        roll: "roll 24s linear infinite",
+        roll: "roll 20s linear infinite",
       },
       keyframes: {
         roll: {
           "0%": { transform: "translateX(100%)" },
+          "25%": { transform: "translateX(50%)" },
+          "50%": { transform: "translateX(0%)" },
+          "75%": { transform: "translateX(-50%)" },
           "100%": { transform: "translateX(-100%)" },
         },
       },
