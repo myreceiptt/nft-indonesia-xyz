@@ -96,17 +96,23 @@ const Footer = () => {
         </a>
       </div>
 
-      <div className="w-full  mt-16 md:mt-24 relative font-medium border-t-2 border-solid dark:border-dark border-light py-6 px-8 flex  flex-col md:flex-row items-center justify-between">
+      <div className="w-full  mt-16 md:mt-24 relative font-medium border-t-2 border-solid dark:border-dark border-light py-6 px-8 flex flex-col md:flex-row items-center justify-between">
         <div className="text-center">
           &copy; Since 2021{" "}
-          <Link href="/" className="font-bold hover:text-purple-500">
+          <Link
+            href="/"
+            className="font-bold hover:underline-offset-8 transition-all ease duration-300 underline underline-offset-2"
+          >
             NFT Indonesia
           </Link>
           .
         </div>
         <div className="text-center">
           All rights reserved{" "}
-          <Link href="/sitemap.xml" className="font-bold hover:text-purple-500">
+          <Link
+            href="/sitemap.xml"
+            className="font-bold hover:underline-offset-8 transition-all ease duration-300 underline underline-offset-2"
+          >
             decentrally
           </Link>
           .
@@ -115,7 +121,7 @@ const Footer = () => {
           Fueled by{" "}
           <Link
             href="https://x.com/zortan_"
-            className="capitalize font-bold hover:text-purple-500"
+            className="capitalize font-bold hover:underline-offset-8 transition-all ease duration-300 underline underline-offset-2"
             target="_blank"
           >
             ZORTAN

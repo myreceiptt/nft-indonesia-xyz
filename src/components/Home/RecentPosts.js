@@ -27,7 +27,7 @@ const RecentPosts = ({ blogs }) => {
           href="/categories/all"
           className="inline-block font-bold text-dark dark:text-light hover:underline-offset-8 transition-all ease duration-300 underline underline-offset-2 text-xl md:text-2xl"
         >
-          read all
+          read all...
         </Link>
       </div>
     </section>
