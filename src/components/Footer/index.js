@@ -33,7 +33,7 @@ const Footer = () => {
 
       <form
         onSubmit={handleSubmit(onSubmit)}
-        className="mt-6 w-fit sm:min-w-[384px] flex items-stretch bg-light dark:bg-dark p-1 sm:p-2 rounded mx04"
+        className="mt-6 w-fit sm:min-w-[384px] flex items-stretch bg-light dark:bg-dark py-3 px-10 md:px-12 rounded-full mx-4"
       >
         <input
           type="email"
@@ -42,7 +42,7 @@ const Footer = () => {
           className="w-full bg-transparent pl-2 sm:pl-0 text-dark dark:text-light focus:border-dark dark:focus:border-light focus:ring-0 border-0 border-b-2 mr-2 pb-1"
         />
         <button
-          className="bg-dark text-light dark:text-dark dark:bg-light hover:bg-gray dark:hover:bg-gray dark:hover:text-light duration-300 cursor-pointer font-medium rounded px-3 sm:px-5 py-1"
+          className="bg-dark text-light dark:text-dark dark:bg-light hover:bg-gray hover:text-dark dark:hover:bg-gray dark:hover:text-light duration-300 cursor-pointer font-medium rounded-full px-8 py-1"
           type="submit"
         >
           Subscribe

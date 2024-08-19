@@ -55,29 +55,46 @@ const Header = () => {
         </div>
       </button>
       <nav
-        className="dark:bg-light/80 bg-dark/80 backdrop-blur-sm border border-solid border-dark dark:border-light rounded-lg text-light dark:text-dark font-medium capitalize items-center flex flex-col lg:hidden fixed z-50 transition-all ease duration-300"
+        className="dark:bg-dark/80 bg-light/80 backdrop-blur-sm border-2 border-solid border-dark dark:border-light rounded-lg items-center flex flex-col lg:hidden fixed z-50 transition-all ease duration-300"
         style={{
-          top: click ? "5rem" : "-11rem",
+          top: click ? "5rem" : "-13rem",
         }}
       >
-        <div className="">
-          <ul className="">
-            <li>
-              <Link href="/about-us" className="mx-2">
-                About Us
-              </Link>
-            </li>
-            <li>
-              <Link href="/categories/all" className="mx-2">
-                Activities
-              </Link>
-            </li>
-            <li>
-              <Link href="/collaborate" className="mx-2">
-                Collaborate
-              </Link>
-            </li>
-          </ul>
+        <Link
+          href="/about-us"
+          className="m-1 block py-2 px-10 rounded-full border-2 border-solid border-dark dark:border-light bg-light dark:bg-dark hover:scale-105 transition-all ease duration-200 text-dark dark:text-light text-sm md:text-base font-medium capitalize"
+        >
+          About Us
+        </Link>
+
+        <Link
+          href="/categories/all"
+          className="m-1 block py-2 px-10 rounded-full border-2 border-solid border-dark dark:border-light bg-light dark:bg-dark hover:scale-105 transition-all ease duration-200 text-dark dark:text-light text-sm md:text-base font-medium capitalize"
+        >
+          Activities
+        </Link>
+
+        <Link
+          href="/collaborate"
+          className="m-1 block py-2 px-10 rounded-full border-2 border-solid border-dark dark:border-light bg-light dark:bg-dark hover:scale-105 transition-all ease duration-200 text-dark dark:text-light text-sm md:text-base font-medium capitalize"
+        >
+          Collaborate
+        </Link>
+        <div className="m-1 block p-2 rounded-full hover:scale-105 transition-all ease duration-200">
+          <button
+            onClick={() => setMode(mode === "light" ? "dark" : "light")}
+            className={cx(
+              "w-6 h-6 ease flex items-center justify-center rounded-full p-1",
+              mode === "light" ? "bg-dark text-light" : "bg-light text-dark"
+            )}
+            aria-label="theme-switcher"
+          >
+            {mode === "light" ? (
+              <MoonIcon className={"fill-dark"} />
+            ) : (
+              <SunIcon className={"fill-dark"} />
+            )}
+          </button>
         </div>
       </nav>
       <nav className="hidden lg:flex lg:flex-row z-50">
