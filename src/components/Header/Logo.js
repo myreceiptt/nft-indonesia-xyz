@@ -6,7 +6,7 @@ const Logo = () => {
   return (
     <div className="block pr-4 md:pr-6 lg:pr-8 xl:pr-10 rounded-full border-2 border-solid border-dark dark:border-light hover:scale-105 transition-all ease duration-200">
       <Link href="/" className="flex items-center">
-        <div className="bg-dark rounded-full overflow-hidden border-2 border-solid border-dark dark:border-light -ml-px mr-2 md:mr-3 lg:mr-4 xl:mr-5 w-6 md:w-8 lg:w-10 xl:w-12">
+        <div className="bg-dark rounded-full overflow-hidden border-2 border-solid border-dark dark:border-light -ml-px mr-2 md:mr-3 lg:mr-4 xl:mr-5 w-8 md:w-9 lg:w-10 xl:w-11">
           <Image
             src={profileImg}
             alt="NFT Indonesia Logo"
