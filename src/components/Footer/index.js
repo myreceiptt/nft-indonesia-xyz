@@ -15,10 +15,39 @@ const Footer = () => {
   const {
     register,
     handleSubmit,
+    reset,
     formState: { errors },
   } = useForm();
-  const onSubmit = (data) => console.log(data);
-  console.log(errors);
+  const onSubmit = async (data) => {
+    console.log(data);
+    await fetch("https://api.web3forms.com/submit", {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+        Accept: "application/json",
+      },
+      body: JSON.stringify(data, null, 2),
+    }).then(async (response) => {
+      let json = await response.json();
+      if (json.success) {
+        // React.useState(true);
+        // React.useState(json.message);
+        // e.target.reset();
+        reset();
+      } else {
+        // React.useState(false);
+        // React.useState(json.message);
+        console.log(error);
+      }
+    });
+    // .catch((error) => {
+    // React.useState(false);
+    // React.useState(
+    //   "Client Error. Please check the console.log for more info"
+    // );
+    // console.log(error);
+    // });
+  };
 
   return (
     <footer className="mt-16 rounded-2xl bg-dark dark:bg-light m-2 sm:m-10 flex flex-col items-center text-light dark:text-dark">
@@ -36,10 +65,36 @@ const Footer = () => {
         className="mt-6 w-fit sm:min-w-[384px] flex items-stretch bg-light dark:bg-dark py-3 px-10 md:px-12 rounded-full mx-4"
       >
         <input
+          type="hidden"
+          value={process.env.NEXT_PUBLIC_FORM_CONTACT_API}
+          {...register("access_key")}
+        />
+        <input
+          type="hidden"
+          value="SubSubscription on NFTIndonesia.XYZ"
+          {...register("subject")}
+        />
+        <input
+          type="hidden"
+          value="NFTIndonesia.XYZ"
+          {...register("from_name")}
+        />
+        <input
+          type="checkbox"
+          className="hidden"
+          style={{ display: "none" }}
+          {...register("botcheck")}
+        />
+        <input
           type="email"
           placeholder="Your email address..."
           {...register("email", { required: true, maxLength: 80 })}
           className="w-full bg-transparent pl-2 sm:pl-0 text-dark dark:text-light focus:border-dark dark:focus:border-light focus:ring-0 border-0 border-b-2 mr-2 pb-1"
+        />
+        <input
+          type="hidden"
+          value="There is another new email address subscribed to NFTIndonesia.XYZ, congrats! Please save the email address above to your newsletter email list record."
+          {...register("message")}
         />
         <button
           className="bg-dark text-light dark:text-dark dark:bg-light hover:bg-gray hover:text-dark dark:hover:bg-gray dark:hover:text-light duration-300 cursor-pointer font-medium rounded-full px-8 py-1"

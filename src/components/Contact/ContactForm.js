@@ -6,6 +6,7 @@ export default function ContactForm() {
   const {
     register,
     handleSubmit,
+    reset,
     formState: { errors },
   } = useForm();
   const onSubmit = async (data) => {
@@ -17,8 +18,26 @@ export default function ContactForm() {
         Accept: "application/json",
       },
       body: JSON.stringify(data, null, 2),
+    }).then(async (response) => {
+      let json = await response.json();
+      if (json.success) {
+        // React.useState(true);
+        // React.useState(json.message);
+        // e.target.reset();
+        reset();
+      } else {
+        // React.useState(false);
+        // React.useState(json.message);
+        console.log(error);
+      }
     });
-    console.log(errors);
+    // .catch((error) => {
+    // React.useState(false);
+    // React.useState(
+    //   "Client Error. Please check the console.log for more info"
+    // );
+    // console.log(error);
+    // });
   };
 
   return (
