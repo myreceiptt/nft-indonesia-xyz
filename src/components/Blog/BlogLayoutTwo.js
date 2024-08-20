@@ -2,6 +2,7 @@ import { format } from "date-fns";
 import Image from "next/image";
 import Link from "next/link";
 import React from "react";
+import { slug } from "github-slugger";
 
 const BlogLayoutTwo = ({ blog }) => {
   return (
@@ -22,9 +23,9 @@ const BlogLayoutTwo = ({ blog }) => {
         />
       </Link>
 
-      <div className="col-span-12  lg:col-span-8 w-full">
-        <span className="inline-block w-full uppercase text-dark dark:text-light font-bold text-xs sm:text-sm">
-          {blog.tags[0]}
+      <div className="col-span-12 lg:col-span-8 w-full">
+        <span className="inline-block w-full text-dark dark:text-light underline underline-offset-2 font-bold text-xs sm:text-sm">
+          #{slug(blog.tags[0])}
         </span>
         <Link href={blog.url} className="inline-block my-1">
           <h2 className="font-semibold capitalize text-base sm:text-lg">

@@ -25,7 +25,7 @@ const RecentPosts = ({ blogs }) => {
       <div className="w-full flex justify-end">
         <Link
           href="/categories/all"
-          className="inline-block font-bold text-dark dark:text-light hover:underline-offset-8 transition-all ease duration-300 underline underline-offset-2 text-xl md:text-2xl"
+          className="inline-block font-semibold text-dark dark:text-light hover:underline-offset-8 transition-all ease duration-300 underline underline-offset-2 text-lg md:text-xl"
         >
           read all...
         </Link>
