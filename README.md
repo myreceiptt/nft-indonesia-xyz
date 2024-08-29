@@ -19,4 +19,5 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 Regards,
 
 Prof. NOTA
+
 ==== 47 =======
