@@ -7,7 +7,7 @@ const siteMetadata = {
     "This website created by NFT Indonesia with contents based on activities all this time.",
   language: "en-us",
   theme: "dark", // system, dark or light
-  siteUrl: "https://beta.nftindonesia.xyz", // your website URL
+  siteUrl: "https://www.nftindonesia.xyz", // your website URL
   siteLogo: "/logo.png",
   socialBanner: "/social-banner.png", // add social banner in the public folder
   email: "zortan@nftindonesia.xyz",
