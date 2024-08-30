@@ -24,14 +24,14 @@ const BlogLayoutTwo = ({ blog }) => {
       </Link>
 
       <div className="col-span-12 lg:col-span-8 w-full">
-        <span className="inline-block w-full text-dark dark:text-light underline underline-offset-2 font-bold text-xs sm:text-sm">
-          #{slug(blog.tags[0])}
+        <span className="inline-block w-full text-dark dark:text-light underline underline-offset-2 hover:underline-offset-4 font-bold text-xs sm:text-sm transition-all ease duration-300">
+          <Link href={`/categories/${slug(blog.tags[0])}`}>
+            #{slug(blog.tags[0])}
+          </Link>
         </span>
         <Link href={blog.url} className="inline-block my-1">
           <h2 className="font-semibold capitalize text-base sm:text-lg">
-            <span
-              className="bg-gradient-to-r from-dark/50 dark:from-light/50 to-dark/50 dark:to-light/50 bg-[length:0px_2px] group-hover:bg-[length:100%_2px] bg-left-bottom bg-no-repeat transition-[background-size] duration-500"
-            >
+            <span className="bg-gradient-to-r from-dark/50 dark:from-light/50 to-dark/50 dark:to-light/50 bg-[length:0px_2px] group-hover:bg-[length:100%_2px] bg-left-bottom bg-no-repeat transition-[background-size] duration-500">
               {blog.title}
             </span>
           </h2>

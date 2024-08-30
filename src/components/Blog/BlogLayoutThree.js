@@ -21,8 +21,10 @@ const BlogLayoutThree = ({ blog }) => {
       </Link>
 
       <div className="flex flex-col w-full mt-4">
-        <span className="text-dark dark:text-light underline underline-offset-2 font-bold text-xs sm:text-sm">
-          #{slug(blog.tags[0])}
+        <span className="text-dark dark:text-light underline underline-offset-2 hover:underline-offset-4 font-bold text-xs sm:text-sm transition-all ease duration-300">
+          <Link href={`/categories/${slug(blog.tags[0])}`}>
+            #{slug(blog.tags[0])}
+          </Link>
         </span>
         <Link href={blog.url} className="inline-block my-1">
           <h2 className="font-semibold capitalize text-base sm:text-lg">
