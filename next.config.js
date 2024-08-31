@@ -2,15 +2,10 @@
 
 const { withContentlayer } = require("next-contentlayer");
 
-const nextConfig = {
+const nextConfig = withContentlayer({
   compiler: {
     removeConsole: true,
   },
-};
-
-module.exports = withContentlayer({ ...nextConfig });
-
-module.exports = {
   images: {
     remotePatterns: [
       {
@@ -21,4 +16,6 @@ module.exports = {
       },
     ],
   },
-};
+});
+
+module.exports = nextConfig;
