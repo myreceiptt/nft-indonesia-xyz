@@ -4,11 +4,15 @@ import { useMDXComponent } from "next-contentlayer/hooks";
 import Image from "next/image";
 import VideoSource from "./VideoSource";
 import YouTube from "./YouTube";
+import AudioSource from "./AudioSource";
+import CustomLink from "./CustomLink";
 
 const mdxComponents = {
   Image,
   VideoSource,
   YouTube,
+  AudioSource,
+  a: CustomLink,
 };
 
 const RenderMdx = ({ blog }) => {

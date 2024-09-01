@@ -135,8 +135,8 @@ Selanjutnya kalau ingin menampilkan sebuah image atau gambar atau foto di dalam 
 ```
 <Image
   src="https://ipfs.io/ipfs/Qme4RHiGt6CoreJd6aeBiZ9K1avsN89uwVWcE1WJzodMJd/judul-artikel-ditulis-di-sini-saja.jpg"
-  width="747"
-  height="404"
+  width="3840"
+  height="2560"
   alt="Image"
   sizes="100vw"
 />
@@ -146,15 +146,39 @@ Hasilnya akan nampak seperti berikut ini:
 
 <Image
   src="https://ipfs.io/ipfs/Qme4RHiGt6CoreJd6aeBiZ9K1avsN89uwVWcE1WJzodMJd/judul-artikel-ditulis-di-sini-saja.jpg"
-  width="747"
-  height="404"
+  width="3840"
+  height="2560"
   alt="Image"
   sizes="100vw"
 />
 
 ---
 
-Yang terakhir dan yang tidak kalah pentingnya adalah menampilkan video dari **YouTube**. Jika ingin menampilkan video dari **YouTube** di dalam artikel, cukup dengan menggunakan cara berikut ini:
+Lalu untuk menampilkan audio player di dalam artikel bisa digunakan cara seperti berikut ini:
+
+```
+<AudioSource yyy="/mp3/nft-indonesia-progressive-web-app.mp3" />
+```
+
+Hasilnya akan nampak seperti berikut ini:
+
+<AudioSource yyy="/mp3/nft-indonesia-progressive-web-app.mp3" />
+
+---
+
+Yang terakhir dan yang tidak kalah pentingnya adalah menampilkan video. Jika ingin menampilkan video di dalam artikel, cukup dengan menggunakan beberapa cara berikut ini:
+
+Untuk video dari **IPFS**...
+
+```
+<VideoSource xxx="https://ipfs.io/ipfs/QmcVxQcFhHY86vhsBdLzZgWkG2ivPYfhQy4L7YHY2RcRr5/collective-update-december-2023-13.mp4" />
+```
+
+Hasilnya akan nampak seperti berikut ini:
+
+<VideoSource xxx="https://ipfs.io/ipfs/QmcVxQcFhHY86vhsBdLzZgWkG2ivPYfhQy4L7YHY2RcRr5/collective-update-december-2023-13.mp4" />
+
+Sedangkan untuk video dari **YouTube**...
 
 ```
 <YouTube id="EbneWlPGRtU" />
