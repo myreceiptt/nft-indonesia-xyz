@@ -2,10 +2,12 @@
 import React from "react";
 import { useMDXComponent } from "next-contentlayer/hooks";
 import Image from "next/image";
+import VideoSource from "./VideoSource";
 import YouTube from "./YouTube";
 
 const mdxComponents = {
   Image,
+  VideoSource,
   YouTube,
 };
 
