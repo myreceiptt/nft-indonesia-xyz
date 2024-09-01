@@ -31,5 +31,5 @@ yarn-error.log*
 .env
 
 # ipfs
-/public/on-ipfs
-public/on-ipfs
+/public/ipfs
+public/ipfs
