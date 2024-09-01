@@ -31,4 +31,4 @@ yarn-error.log*
 .env
 
 # ipfs
-/original
+public/blogs/original/ipfs
