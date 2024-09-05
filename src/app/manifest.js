@@ -5,8 +5,8 @@ export default function manifest() {
     description: "NFT Indonesia - Decentrally Independence",
     start_url: "/",
     display: "standalone",
-    //   background_color: '#fff',
-    //   theme_color: '#fff',
+      background_color: '#000',
+      theme_color: '#000',
     icons: [
       {
         src: "/favicon-32x32.png",
