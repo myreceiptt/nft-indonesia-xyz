@@ -36,6 +36,8 @@ module.exports = {
         // @media (min-width: 1180px){...}
         xs: "480px",
         // @media (min-width: 480px){...}
+        xxs: "320px",
+        // @media (min-width: 320px){...}
       },
     },
   },

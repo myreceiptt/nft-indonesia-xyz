@@ -1,18 +1,29 @@
-import ChatAnimation from "@/src/components/Contact/ChatAnimation";
 import Image from "next/image";
 import React from "react";
-import profileCharacter from "../../../public/character.png";
+import logoDark from "../../../public/logo-nft-indonesia-light.png";
+import logoLight from "../../../public/logo-nft-indonesia-dark.png";
 
 const AboutCoverSection = () => {
   return (
     <section className="w-full h-auto md:h-[75vh] border-b-2 border-solid border-dark dark:border-light flex flex-col md:flex-row items-center justify-center text-dark dark:text-light">
-      <div className="inline-block w-full sm:w-4/5 md:w-2/5 h-full md:border-r-2 border-solid border-dark dark:border-light">
-        <ChatAnimation />
-        {/* <Image src={profileCharacter} alt="CodeBucks" 
-            className='w-4/5 xs:w-3/4 md:w-full h-full object-contain object-center'
-            priority
-            sizes="(max-width: 768px) 100vw,(max-width: 1180px) 50vw, 50vw"
-            /> */}
+      <div className="inline-block dark:hidden w-full p-10 md:p-5 md:w-2/5 h-full md:border-r-2 border-solid border-dark dark:border-light">
+        <Image
+          src={logoLight}
+          alt="Logo NFT Indonesia"
+          className="md:w-full h-full object-contain object-center"
+          priority
+          sizes="(max-width: 768px) 100vw,(max-width: 1180px) 50vw, 50vw"
+        />
+      </div>
+
+      <div className="hidden dark:inline-block w-full p-10 md:p-5 md:w-2/5 h-full md:border-r-2 border-solid border-dark dark:border-light">
+        <Image
+          src={logoDark}
+          alt="Logo NFT Indonesia"
+          className="md:w-full h-full object-contain object-center"
+          priority
+          sizes="(max-width: 768px) 100vw,(max-width: 1180px) 50vw, 50vw"
+        />
       </div>
 
       <div className="w-full md:w-3/5 flex flex-col items-start justify-center px-5 xs:px-10 md:px-16 pb-8">

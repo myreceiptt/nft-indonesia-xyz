@@ -10,6 +10,9 @@ import {
 } from "../Icons";
 import Link from "next/link";
 import siteMetadata from "@/src/utils/siteMetaData";
+import Image from "next/image";
+import logoDark from "../../../public/logo-nft-indonesia-light.png";
+import logoLight from "../../../public/logo-nft-indonesia-dark.png";
 
 const Footer = () => {
   const {
@@ -51,10 +54,36 @@ const Footer = () => {
 
   return (
     <footer className="mt-16 rounded-2xl bg-dark dark:bg-light m-2 sm:m-10 flex flex-col items-center text-light dark:text-dark">
-      <h3 className="mt-16 font-bold text-center capitalize text-2xl sm:text-3xl lg:text-4xl px-4">
+      <div className="hidden dark:flex items-center mt-16">
+        <Image
+          src={logoLight}
+          alt="Logo NFT Indonesia"
+          title="NFT Indonesia - Decentrally Independence"
+          className="object-contain object-center"
+          sizes="20vw"
+          style={{
+            width: "100%",
+            height: "100%",
+          }}
+        />
+      </div>
+      <div className="flex dark:hidden items-center mt-16">
+        <Image
+          src={logoDark}
+          alt="Logo NFT Indonesia"
+          title="NFT Indonesia - Decentrally Independence"
+          className="object-contain object-center"
+          sizes="20vw"
+          style={{
+            width: "100%",
+            height: "100%",
+          }}
+        />
+      </div>
+      <h3 className="mt-4 font-bold text-center capitalize text-l xs:text-xl sm:text-2xl md:text-3xl lg:text-4xl px-4">
         Never Ending Activities & Updates
       </h3>
-      <p className="mt-5 px-4 text-center w-full sm:w-3/5 font-medium text-sm sm:text-base">
+      <p className="mt-5 px-4 text-center w-full sm:w-3/5 font-medium text-xs xs:text-sm sm:text-base md:text-lg lg:text-xl">
         Subscribe to stay up to date with our latest activities. Join to be one
         of the 281,603,800 Indonesians, who always follow and learn the latest
         updates.
@@ -62,7 +91,7 @@ const Footer = () => {
 
       <form
         onSubmit={handleSubmit(onSubmit)}
-        className="mt-6 w-fit sm:min-w-[384px] flex items-stretch bg-light dark:bg-dark py-3 px-10 md:px-12 rounded-full mx-4"
+        className="mt-6 w-fit sm:min-w-[384px] flex items-stretch bg-light dark:bg-dark py-3 px-8 sm:px-10 md:px-12 rounded-full mx-4"
       >
         <input
           type="hidden"
@@ -89,7 +118,7 @@ const Footer = () => {
           type="email"
           placeholder="Your email address..."
           {...register("email", { required: true, maxLength: 80 })}
-          className="w-full bg-transparent pl-2 sm:pl-0 text-dark dark:text-light focus:border-dark dark:focus:border-light focus:ring-0 border-0 border-b-2 mr-2 pb-1"
+          className="w-full bg-transparent pl-2 sm:pl-0 text-dark dark:text-light focus:border-dark dark:focus:border-light focus:ring-0 border-0 border-b-2 mr-2 pb-1 text-xs xs:text-base"
         />
         <input
           type="hidden"
@@ -97,7 +126,7 @@ const Footer = () => {
           {...register("message")}
         />
         <button
-          className="bg-dark text-light dark:text-dark dark:bg-light hover:bg-gray hover:text-dark dark:hover:bg-gray dark:hover:text-light duration-300 cursor-pointer font-medium rounded-full px-8 py-1"
+          className="bg-dark text-light dark:text-dark dark:bg-light hover:bg-gray hover:text-dark dark:hover:bg-gray dark:hover:text-light duration-300 cursor-pointer font-medium rounded-full px-4 xs:px-8 py-1"
           type="submit"
         >
           Subscribe
@@ -150,8 +179,7 @@ const Footer = () => {
           <ThehugxyzIcon className="fill-light dark:fill-dark hover:scale-125 transition-all ease duration-200" />
         </a>
       </div>
-
-      <div className="w-full  mt-16 md:mt-24 relative font-medium border-t-2 border-solid dark:border-dark border-light py-6 px-8 flex flex-col md:flex-row items-center justify-between">
+      <div className="w-full mt-16 md:mt-24 relative font-medium border-t-2 border-solid dark:border-dark border-light py-6 px-8 flex flex-col md:flex-row items-center justify-between text-xs lg:text-base">
         <div className="text-center">
           &copy; Since 2021{" "}
           <Link
