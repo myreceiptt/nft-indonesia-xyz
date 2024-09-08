@@ -51,18 +51,6 @@ export const metadata = {
     title: siteMetadata.title,
     images: [siteMetadata.socialBanner],
   },
-  icon: [
-    {
-      media: "(prefers-color-scheme: light)",
-      url: "/favidark.ico",
-      href: "/favidark.ico",
-    },
-    {
-      media: "(prefers-color-scheme: dark)",
-      url: "/favilight.ico",
-      href: "/favilight.ico",
-    },
-  ],
 };
 
 export default function RootLayout({ children }) {
