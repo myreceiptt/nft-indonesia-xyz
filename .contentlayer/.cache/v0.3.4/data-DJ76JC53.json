@@ -139,68 +139,6 @@
       "hasWarnings": false,
       "documentTypeName": "Blog"
     },
-    "ama-with-ajaib-kripto/index.mdx": {
-      "document": {
-        "title": "AMA with Ajaib Kripto",
-        "publishedAt": "2022-11-08T00:00:00.000Z",
-        "updatedAt": "2022-11-08T00:00:00.000Z",
-        "description": "X Space oleh NFT Indonesia bersama I Nyoman Bagus dari Ajaib Kripto.",
-        "image": {
-          "filePath": "../public/blogs/ama-with-ajaib-kripto.png",
-          "relativeFilePath": "../../public/blogs/ama-with-ajaib-kripto.png",
-          "format": "png",
-          "height": 1333,
-          "width": 2000,
-          "aspectRatio": 1.5003750937734435,
-          "blurhashDataUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAMAAADz0U65AAAAIVBMVEVISEg7OzsyMjJYWFhBQUErKytnZ2eDg4OOjo5ycnJtbW1/P3gpAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAANUlEQVR4nB3Gxw3AQBADsZE2X/8FGzBfxI7dyUCyIZoO0J9U5r7gwDkNkUgIquyqKuakeTcfHksA64FqcGUAAAAASUVORK5CYII="
-        },
-        "isPublished": true,
-        "author": "zortan",
-        "tags": [
-          "ask me anything"
-        ],
-        "body": {
-          "raw": "\n## Ajaib Kripto\n\nAMA with Ajaib Kripto\n\nBagi yang belum punya akun di **Ajaib Kripto** bisa download aplikasinya di Playstore atau Applestore, dan daftar sekarang untuk akan dapat bonus saldo Rp25 ribu.\n\nS&K: [http://bit.ly/deposit-kripto](http://bit.ly/deposit-kripto)\n\n### Rekaman X Space\n\nSesi AMA bisa didengarkan ulang di sini:\n\n<AudioSource yyy=\"https://ipfs.io/ipfs/QmS4LEuU4Z1SjK5ae2Dk1xvfwBYhcGdzWgkzjyR2JWinxU/ama-with-ajaib-kripto.mp3\" />\n\n[https://x.com/i/spaces/1kvJpmwNLLkxE](https://x.com/i/spaces/1kvJpmwNLLkxE)\n\n---\n\n### Foto Galeri\n\n<Image\n  src=\"https://ipfs.io/ipfs/QmZioRXFq4vEtyFFMGb8mw8VgJ2pLcN8ToV1EEQ8PTGaUf/ama-with-ajaib-kripto.jpeg\"\n  width=\"3840\"\n  height=\"2560\"\n  alt=\"Image\"\n  sizes=\"100vw\"\n/>\n\n---",
-          "code": "var Component=(()=>{var l=Object.create;var o=Object.defineProperty;var m=Object.getOwnPropertyDescriptor;var u=Object.getOwnPropertyNames;var b=Object.getPrototypeOf,g=Object.prototype.hasOwnProperty;var k=(e,i)=>()=>(i||e((i={exports:{}}).exports,i),i.exports),f=(e,i)=>{for(var n in i)o(e,n,{get:i[n],enumerable:!0})},s=(e,i,n,t)=>{if(i&&typeof i==\"object\"||typeof i==\"function\")for(let r of u(i))!g.call(e,r)&&r!==n&&o(e,r,{get:()=>i[r],enumerable:!(t=m(i,r))||t.enumerable});return e};var x=(e,i,n)=>(n=e!=null?l(b(e)):{},s(i||!e||!e.__esModule?o(n,\"default\",{value:e,enumerable:!0}):n,e)),j=e=>s(o({},\"__esModule\",{value:!0}),e);var d=k((M,p)=>{p.exports=_jsx_runtime});var E={};f(E,{default:()=>w,frontmatter:()=>y});var a=x(d()),y={title:\"AMA with Ajaib Kripto\",description:\"X Space oleh NFT Indonesia bersama I Nyoman Bagus dari Ajaib Kripto.\",image:\"../../public/blogs/ama-with-ajaib-kripto.png\",publishedAt:\"2022-11-08\",updatedAt:\"2022-11-08\",author:\"zortan\",isPublished:!0,tags:[\"ask me anything\"]};function c(e){let i=Object.assign({h2:\"h2\",a:\"a\",span:\"span\",p:\"p\",strong:\"strong\",h3:\"h3\",hr:\"hr\"},e.components),{AudioSource:n,Image:t}=i;return n||h(\"AudioSource\",!0),t||h(\"Image\",!0),(0,a.jsxs)(a.Fragment,{children:[(0,a.jsxs)(i.h2,{id:\"ajaib-kripto\",children:[\"Ajaib Kripto\",(0,a.jsx)(i.a,{\"aria-hidden\":\"true\",tabIndex:\"-1\",href:\"#ajaib-kripto\",children:(0,a.jsx)(i.span,{className:\"icon icon-link\"})})]}),`\n`,(0,a.jsx)(i.p,{children:\"AMA with Ajaib Kripto\"}),`\n`,(0,a.jsxs)(i.p,{children:[\"Bagi yang belum punya akun di \",(0,a.jsx)(i.strong,{children:\"Ajaib Kripto\"}),\" bisa download aplikasinya di Playstore atau Applestore, dan daftar sekarang untuk akan dapat bonus saldo Rp25 ribu.\"]}),`\n`,(0,a.jsxs)(i.p,{children:[\"S&K: \",(0,a.jsx)(i.a,{href:\"http://bit.ly/deposit-kripto\",children:\"http://bit.ly/deposit-kripto\"})]}),`\n`,(0,a.jsxs)(i.h3,{id:\"rekaman-x-space\",children:[\"Rekaman X Space\",(0,a.jsx)(i.a,{\"aria-hidden\":\"true\",tabIndex:\"-1\",href:\"#rekaman-x-space\",children:(0,a.jsx)(i.span,{className:\"icon icon-link\"})})]}),`\n`,(0,a.jsx)(i.p,{children:\"Sesi AMA bisa didengarkan ulang di sini:\"}),`\n`,(0,a.jsx)(n,{yyy:\"https://ipfs.io/ipfs/QmS4LEuU4Z1SjK5ae2Dk1xvfwBYhcGdzWgkzjyR2JWinxU/ama-with-ajaib-kripto.mp3\"}),`\n`,(0,a.jsx)(i.p,{children:(0,a.jsx)(i.a,{href:\"https://x.com/i/spaces/1kvJpmwNLLkxE\",children:\"https://x.com/i/spaces/1kvJpmwNLLkxE\"})}),`\n`,(0,a.jsx)(i.hr,{}),`\n`,(0,a.jsxs)(i.h3,{id:\"foto-galeri\",children:[\"Foto Galeri\",(0,a.jsx)(i.a,{\"aria-hidden\":\"true\",tabIndex:\"-1\",href:\"#foto-galeri\",children:(0,a.jsx)(i.span,{className:\"icon icon-link\"})})]}),`\n`,(0,a.jsx)(t,{src:\"https://ipfs.io/ipfs/QmZioRXFq4vEtyFFMGb8mw8VgJ2pLcN8ToV1EEQ8PTGaUf/ama-with-ajaib-kripto.jpeg\",width:\"3840\",height:\"2560\",alt:\"Image\",sizes:\"100vw\"}),`\n`,(0,a.jsx)(i.hr,{})]})}function A(e={}){let{wrapper:i}=e.components||{};return i?(0,a.jsx)(i,Object.assign({},e,{children:(0,a.jsx)(c,e)})):c(e)}var w=A;function h(e,i){throw new Error(\"Expected \"+(i?\"component\":\"object\")+\" `\"+e+\"` to be defined: you likely forgot to import, pass, or provide it.\")}return j(E);})();\n;return Component;"
-        },
-        "_id": "ama-with-ajaib-kripto/index.mdx",
-        "_raw": {
-          "sourceFilePath": "ama-with-ajaib-kripto/index.mdx",
-          "sourceFileName": "index.mdx",
-          "sourceFileDir": "ama-with-ajaib-kripto",
-          "contentType": "mdx",
-          "flattenedPath": "ama-with-ajaib-kripto"
-        },
-        "type": "Blog",
-        "url": "/blogs/ama-with-ajaib-kripto",
-        "readingTime": {
-          "text": "1 min read",
-          "minutes": 0.305,
-          "time": 18300,
-          "words": 61
-        },
-        "toc": [
-          {
-            "level": "two",
-            "text": "Ajaib Kripto",
-            "slug": "ajaib-kripto"
-          },
-          {
-            "level": "three",
-            "text": "Rekaman X Space",
-            "slug": "rekaman-x-space"
-          },
-          {
-            "level": "three",
-            "text": "Foto Galeri",
-            "slug": "foto-galeri"
-          }
-        ]
-      },
-      "documentHash": "1766324702317",
-      "hasWarnings": false,
-      "documentTypeName": "Blog"
-    },
     "ama-bangkit-dan-bertahan-event/index.mdx": {
       "document": {
         "title": "AMA Bangkit dan Bertahan Event",
@@ -258,20 +196,20 @@
       "hasWarnings": false,
       "documentTypeName": "Blog"
     },
-    "ama-with-bananow-land/index.mdx": {
+    "ama-with-ajaib-kripto/index.mdx": {
       "document": {
-        "title": "AMA with BANANOW Land",
-        "publishedAt": "2022-11-20T00:00:00.000Z",
-        "updatedAt": "2022-11-20T00:00:00.000Z",
-        "description": "X Space oleh NFT Indonesia bersama team dari proyek NFT BANANOW Land.",
+        "title": "AMA with Ajaib Kripto",
+        "publishedAt": "2022-11-08T00:00:00.000Z",
+        "updatedAt": "2022-11-08T00:00:00.000Z",
+        "description": "X Space oleh NFT Indonesia bersama I Nyoman Bagus dari Ajaib Kripto.",
         "image": {
-          "filePath": "../public/blogs/bananow-land.png",
-          "relativeFilePath": "../../public/blogs/bananow-land.png",
+          "filePath": "../public/blogs/ama-with-ajaib-kripto.png",
+          "relativeFilePath": "../../public/blogs/ama-with-ajaib-kripto.png",
           "format": "png",
           "height": 1333,
           "width": 2000,
           "aspectRatio": 1.5003750937734435,
-          "blurhashDataUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAMAAADz0U65AAAAJFBMVEW8vLy2trbCwsKkpKSvr6+Dg4OMjIyUlJSrq6ttbW1FRUUoKCgxQP8IAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAN0lEQVR4nBXKQRKAMAwDsXUcpyn8/78MOovqNbSASYaiSJIC1zaZ4uqceR8YbN35s4Qk2r1e9wcesgDfoyUyGgAAAABJRU5ErkJggg=="
+          "blurhashDataUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAMAAADz0U65AAAAIVBMVEVISEg7OzsyMjJYWFhBQUErKytnZ2eDg4OOjo5ycnJtbW1/P3gpAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAANUlEQVR4nB3Gxw3AQBADsZE2X/8FGzBfxI7dyUCyIZoO0J9U5r7gwDkNkUgIquyqKuakeTcfHksA64FqcGUAAAAASUVORK5CYII="
         },
         "isPublished": true,
         "author": "zortan",
@@ -279,45 +217,35 @@
           "ask me anything"
         ],
         "body": {
-          "raw": "\n## BANANOW Land\n\n**BANANOW** adalah sebuah proyek NFT bermotokan **playing**, **learning**, dan **working**, yang dibentuk oleh empat orang, yaitu **V**, **Pung**, **Prof NOTA**, dan **HMS**. \n\nProyek ini mengandalkan blockchain sebagai sarana bersosialisasi dan menciptakan ruang interaksi baru dalam berkomunitas, sambil bermain, belajar, dan bekerja. \n\n### Dermaga Web3\n\nHadirnya kesempatan itu, membuahkan sebuah program bernama **Dermaga Web3** yang menjadi \"melting pot\", yakni tempat berkumpulnya lintas komunitas, baik komunitas Web3 maupun Web2, yang sama-sama ingin saling memahami akan kebutuhannya, dan mencari tahu seperti apa teknologi blockchain itu, apa manfaat serta peluang ekonomi yang bisa dimunculkan kemudian.\n\n---\n\n### Rekaman X Space\n\nSesi AMA bisa didengarkan ulang di sini:\n\n<AudioSource yyy=\"https://ipfs.io/ipfs/QmS4LEuU4Z1SjK5ae2Dk1xvfwBYhcGdzWgkzjyR2JWinxU/bananow-land.mp3\" />\n\n[https://x.com/i/spaces/1ynJOaXvjyqKR/](https://x.com/i/spaces/1ynJOaXvjyqKR/)\n\n---\n\n### Link Website Resmi\n\nWebsite resmi BANANOW Land di sini: [https://www.bananow.land/](https://www.bananow.land/)\n\n---\n\n### Foto Galeri\n\n<Image\n  src=\"https://ipfs.io/ipfs/Qme4RHiGt6CoreJd6aeBiZ9K1avsN89uwVWcE1WJzodMJd/bananow-land-0.jpg\"\n  width=\"3840\"\n  height=\"2560\"\n  alt=\"Image\"\n  sizes=\"100vw\"\n/>\n\n<Image\n  src=\"https://ipfs.io/ipfs/Qme4RHiGt6CoreJd6aeBiZ9K1avsN89uwVWcE1WJzodMJd/bananow-land-1.jpg\"\n  width=\"3840\"\n  height=\"2560\"\n  alt=\"Image\"\n  sizes=\"100vw\"\n/>\n\n<Image\n  src=\"https://ipfs.io/ipfs/Qme4RHiGt6CoreJd6aeBiZ9K1avsN89uwVWcE1WJzodMJd/bananow-land-2.jpg\"\n  width=\"3840\"\n  height=\"2560\"\n  alt=\"Image\"\n  sizes=\"100vw\"\n/>\n\n<Image\n  src=\"https://ipfs.io/ipfs/Qme4RHiGt6CoreJd6aeBiZ9K1avsN89uwVWcE1WJzodMJd/bananow-land-3.png\"\n  width=\"3840\"\n  height=\"2560\"\n  alt=\"Image\"\n  sizes=\"100vw\"\n/>\n\n---",
-          "code": "var Component=(()=>{var m=Object.create;var s=Object.defineProperty;var p=Object.getOwnPropertyDescriptor;var g=Object.getOwnPropertyNames;var u=Object.getPrototypeOf,b=Object.prototype.hasOwnProperty;var k=(e,a)=>()=>(a||e((a={exports:{}}).exports,a),a.exports),w=(e,a)=>{for(var i in a)s(e,i,{get:a[i],enumerable:!0})},d=(e,a,i,r)=>{if(a&&typeof a==\"object\"||typeof a==\"function\")for(let t of g(a))!b.call(e,t)&&t!==i&&s(e,t,{get:()=>a[t],enumerable:!(r=p(a,t))||r.enumerable});return e};var f=(e,a,i)=>(i=e!=null?m(u(e)):{},d(a||!e||!e.__esModule?s(i,\"default\",{value:e,enumerable:!0}):i,e)),y=e=>d(s({},\"__esModule\",{value:!0}),e);var h=k((J,o)=>{o.exports=_jsx_runtime});var A={};w(A,{default:()=>W,frontmatter:()=>N});var n=f(h()),N={title:\"AMA with BANANOW Land\",description:\"X Space oleh NFT Indonesia bersama team dari proyek NFT BANANOW Land.\",image:\"../../public/blogs/bananow-land.png\",publishedAt:\"2022-11-20\",updatedAt:\"2022-11-20\",author:\"zortan\",isPublished:!0,tags:[\"ask me anything\"]};function c(e){let a=Object.assign({h2:\"h2\",a:\"a\",span:\"span\",p:\"p\",strong:\"strong\",h3:\"h3\",hr:\"hr\"},e.components),{AudioSource:i,Image:r}=a;return i||l(\"AudioSource\",!0),r||l(\"Image\",!0),(0,n.jsxs)(n.Fragment,{children:[(0,n.jsxs)(a.h2,{id:\"bananow-land\",children:[\"BANANOW Land\",(0,n.jsx)(a.a,{\"aria-hidden\":\"true\",tabIndex:\"-1\",href:\"#bananow-land\",children:(0,n.jsx)(a.span,{className:\"icon icon-link\"})})]}),`\n`,(0,n.jsxs)(a.p,{children:[(0,n.jsx)(a.strong,{children:\"BANANOW\"}),\" adalah sebuah proyek NFT bermotokan \",(0,n.jsx)(a.strong,{children:\"playing\"}),\", \",(0,n.jsx)(a.strong,{children:\"learning\"}),\", dan \",(0,n.jsx)(a.strong,{children:\"working\"}),\", yang dibentuk oleh empat orang, yaitu \",(0,n.jsx)(a.strong,{children:\"V\"}),\", \",(0,n.jsx)(a.strong,{children:\"Pung\"}),\", \",(0,n.jsx)(a.strong,{children:\"Prof NOTA\"}),\", dan \",(0,n.jsx)(a.strong,{children:\"HMS\"}),\".\"]}),`\n`,(0,n.jsx)(a.p,{children:\"Proyek ini mengandalkan blockchain sebagai sarana bersosialisasi dan menciptakan ruang interaksi baru dalam berkomunitas, sambil bermain, belajar, dan bekerja.\"}),`\n`,(0,n.jsxs)(a.h3,{id:\"dermaga-web3\",children:[\"Dermaga Web3\",(0,n.jsx)(a.a,{\"aria-hidden\":\"true\",tabIndex:\"-1\",href:\"#dermaga-web3\",children:(0,n.jsx)(a.span,{className:\"icon icon-link\"})})]}),`\n`,(0,n.jsxs)(a.p,{children:[\"Hadirnya kesempatan itu, membuahkan sebuah program bernama \",(0,n.jsx)(a.strong,{children:\"Dermaga Web3\"}),' yang menjadi \"melting pot\", yakni tempat berkumpulnya lintas komunitas, baik komunitas Web3 maupun Web2, yang sama-sama ingin saling memahami akan kebutuhannya, dan mencari tahu seperti apa teknologi blockchain itu, apa manfaat serta peluang ekonomi yang bisa dimunculkan kemudian.']}),`\n`,(0,n.jsx)(a.hr,{}),`\n`,(0,n.jsxs)(a.h3,{id:\"rekaman-x-space\",children:[\"Rekaman X Space\",(0,n.jsx)(a.a,{\"aria-hidden\":\"true\",tabIndex:\"-1\",href:\"#rekaman-x-space\",children:(0,n.jsx)(a.span,{className:\"icon icon-link\"})})]}),`\n`,(0,n.jsx)(a.p,{children:\"Sesi AMA bisa didengarkan ulang di sini:\"}),`\n`,(0,n.jsx)(i,{yyy:\"https://ipfs.io/ipfs/QmS4LEuU4Z1SjK5ae2Dk1xvfwBYhcGdzWgkzjyR2JWinxU/bananow-land.mp3\"}),`\n`,(0,n.jsx)(a.p,{children:(0,n.jsx)(a.a,{href:\"https://x.com/i/spaces/1ynJOaXvjyqKR/\",children:\"https://x.com/i/spaces/1ynJOaXvjyqKR/\"})}),`\n`,(0,n.jsx)(a.hr,{}),`\n`,(0,n.jsxs)(a.h3,{id:\"link-website-resmi\",children:[\"Link Website Resmi\",(0,n.jsx)(a.a,{\"aria-hidden\":\"true\",tabIndex:\"-1\",href:\"#link-website-resmi\",children:(0,n.jsx)(a.span,{className:\"icon icon-link\"})})]}),`\n`,(0,n.jsxs)(a.p,{children:[\"Website resmi BANANOW Land di sini: \",(0,n.jsx)(a.a,{href:\"https://www.bananow.land/\",children:\"https://www.bananow.land/\"})]}),`\n`,(0,n.jsx)(a.hr,{}),`\n`,(0,n.jsxs)(a.h3,{id:\"foto-galeri\",children:[\"Foto Galeri\",(0,n.jsx)(a.a,{\"aria-hidden\":\"true\",tabIndex:\"-1\",href:\"#foto-galeri\",children:(0,n.jsx)(a.span,{className:\"icon icon-link\"})})]}),`\n`,(0,n.jsx)(r,{src:\"https://ipfs.io/ipfs/Qme4RHiGt6CoreJd6aeBiZ9K1avsN89uwVWcE1WJzodMJd/bananow-land-0.jpg\",width:\"3840\",height:\"2560\",alt:\"Image\",sizes:\"100vw\"}),`\n`,(0,n.jsx)(r,{src:\"https://ipfs.io/ipfs/Qme4RHiGt6CoreJd6aeBiZ9K1avsN89uwVWcE1WJzodMJd/bananow-land-1.jpg\",width:\"3840\",height:\"2560\",alt:\"Image\",sizes:\"100vw\"}),`\n`,(0,n.jsx)(r,{src:\"https://ipfs.io/ipfs/Qme4RHiGt6CoreJd6aeBiZ9K1avsN89uwVWcE1WJzodMJd/bananow-land-2.jpg\",width:\"3840\",height:\"2560\",alt:\"Image\",sizes:\"100vw\"}),`\n`,(0,n.jsx)(r,{src:\"https://ipfs.io/ipfs/Qme4RHiGt6CoreJd6aeBiZ9K1avsN89uwVWcE1WJzodMJd/bananow-land-3.png\",width:\"3840\",height:\"2560\",alt:\"Image\",sizes:\"100vw\"}),`\n`,(0,n.jsx)(a.hr,{})]})}function x(e={}){let{wrapper:a}=e.components||{};return a?(0,n.jsx)(a,Object.assign({},e,{children:(0,n.jsx)(c,e)})):c(e)}var W=x;function l(e,a){throw new Error(\"Expected \"+(a?\"component\":\"object\")+\" `\"+e+\"` to be defined: you likely forgot to import, pass, or provide it.\")}return y(A);})();\n;return Component;"
+          "raw": "\n## Ajaib Kripto\n\nAMA with Ajaib Kripto\n\nBagi yang belum punya akun di **Ajaib Kripto** bisa download aplikasinya di Playstore atau Applestore, dan daftar sekarang untuk akan dapat bonus saldo Rp25 ribu.\n\nS&K: [http://bit.ly/deposit-kripto](http://bit.ly/deposit-kripto)\n\n### Rekaman X Space\n\nSesi AMA bisa didengarkan ulang di sini:\n\n<AudioSource yyy=\"https://ipfs.io/ipfs/QmS4LEuU4Z1SjK5ae2Dk1xvfwBYhcGdzWgkzjyR2JWinxU/ama-with-ajaib-kripto.mp3\" />\n\n[https://x.com/i/spaces/1kvJpmwNLLkxE](https://x.com/i/spaces/1kvJpmwNLLkxE)\n\n---\n\n### Foto Galeri\n\n<Image\n  src=\"https://ipfs.io/ipfs/QmZioRXFq4vEtyFFMGb8mw8VgJ2pLcN8ToV1EEQ8PTGaUf/ama-with-ajaib-kripto.jpeg\"\n  width=\"3840\"\n  height=\"2560\"\n  alt=\"Image\"\n  sizes=\"100vw\"\n/>\n\n---",
+          "code": "var Component=(()=>{var l=Object.create;var o=Object.defineProperty;var m=Object.getOwnPropertyDescriptor;var u=Object.getOwnPropertyNames;var b=Object.getPrototypeOf,g=Object.prototype.hasOwnProperty;var k=(e,i)=>()=>(i||e((i={exports:{}}).exports,i),i.exports),f=(e,i)=>{for(var n in i)o(e,n,{get:i[n],enumerable:!0})},s=(e,i,n,t)=>{if(i&&typeof i==\"object\"||typeof i==\"function\")for(let r of u(i))!g.call(e,r)&&r!==n&&o(e,r,{get:()=>i[r],enumerable:!(t=m(i,r))||t.enumerable});return e};var x=(e,i,n)=>(n=e!=null?l(b(e)):{},s(i||!e||!e.__esModule?o(n,\"default\",{value:e,enumerable:!0}):n,e)),j=e=>s(o({},\"__esModule\",{value:!0}),e);var d=k((M,p)=>{p.exports=_jsx_runtime});var E={};f(E,{default:()=>w,frontmatter:()=>y});var a=x(d()),y={title:\"AMA with Ajaib Kripto\",description:\"X Space oleh NFT Indonesia bersama I Nyoman Bagus dari Ajaib Kripto.\",image:\"../../public/blogs/ama-with-ajaib-kripto.png\",publishedAt:\"2022-11-08\",updatedAt:\"2022-11-08\",author:\"zortan\",isPublished:!0,tags:[\"ask me anything\"]};function c(e){let i=Object.assign({h2:\"h2\",a:\"a\",span:\"span\",p:\"p\",strong:\"strong\",h3:\"h3\",hr:\"hr\"},e.components),{AudioSource:n,Image:t}=i;return n||h(\"AudioSource\",!0),t||h(\"Image\",!0),(0,a.jsxs)(a.Fragment,{children:[(0,a.jsxs)(i.h2,{id:\"ajaib-kripto\",children:[\"Ajaib Kripto\",(0,a.jsx)(i.a,{\"aria-hidden\":\"true\",tabIndex:\"-1\",href:\"#ajaib-kripto\",children:(0,a.jsx)(i.span,{className:\"icon icon-link\"})})]}),`\n`,(0,a.jsx)(i.p,{children:\"AMA with Ajaib Kripto\"}),`\n`,(0,a.jsxs)(i.p,{children:[\"Bagi yang belum punya akun di \",(0,a.jsx)(i.strong,{children:\"Ajaib Kripto\"}),\" bisa download aplikasinya di Playstore atau Applestore, dan daftar sekarang untuk akan dapat bonus saldo Rp25 ribu.\"]}),`\n`,(0,a.jsxs)(i.p,{children:[\"S&K: \",(0,a.jsx)(i.a,{href:\"http://bit.ly/deposit-kripto\",children:\"http://bit.ly/deposit-kripto\"})]}),`\n`,(0,a.jsxs)(i.h3,{id:\"rekaman-x-space\",children:[\"Rekaman X Space\",(0,a.jsx)(i.a,{\"aria-hidden\":\"true\",tabIndex:\"-1\",href:\"#rekaman-x-space\",children:(0,a.jsx)(i.span,{className:\"icon icon-link\"})})]}),`\n`,(0,a.jsx)(i.p,{children:\"Sesi AMA bisa didengarkan ulang di sini:\"}),`\n`,(0,a.jsx)(n,{yyy:\"https://ipfs.io/ipfs/QmS4LEuU4Z1SjK5ae2Dk1xvfwBYhcGdzWgkzjyR2JWinxU/ama-with-ajaib-kripto.mp3\"}),`\n`,(0,a.jsx)(i.p,{children:(0,a.jsx)(i.a,{href:\"https://x.com/i/spaces/1kvJpmwNLLkxE\",children:\"https://x.com/i/spaces/1kvJpmwNLLkxE\"})}),`\n`,(0,a.jsx)(i.hr,{}),`\n`,(0,a.jsxs)(i.h3,{id:\"foto-galeri\",children:[\"Foto Galeri\",(0,a.jsx)(i.a,{\"aria-hidden\":\"true\",tabIndex:\"-1\",href:\"#foto-galeri\",children:(0,a.jsx)(i.span,{className:\"icon icon-link\"})})]}),`\n`,(0,a.jsx)(t,{src:\"https://ipfs.io/ipfs/QmZioRXFq4vEtyFFMGb8mw8VgJ2pLcN8ToV1EEQ8PTGaUf/ama-with-ajaib-kripto.jpeg\",width:\"3840\",height:\"2560\",alt:\"Image\",sizes:\"100vw\"}),`\n`,(0,a.jsx)(i.hr,{})]})}function A(e={}){let{wrapper:i}=e.components||{};return i?(0,a.jsx)(i,Object.assign({},e,{children:(0,a.jsx)(c,e)})):c(e)}var w=A;function h(e,i){throw new Error(\"Expected \"+(i?\"component\":\"object\")+\" `\"+e+\"` to be defined: you likely forgot to import, pass, or provide it.\")}return j(E);})();\n;return Component;"
         },
-        "_id": "ama-with-bananow-land/index.mdx",
+        "_id": "ama-with-ajaib-kripto/index.mdx",
         "_raw": {
-          "sourceFilePath": "ama-with-bananow-land/index.mdx",
+          "sourceFilePath": "ama-with-ajaib-kripto/index.mdx",
           "sourceFileName": "index.mdx",
-          "sourceFileDir": "ama-with-bananow-land",
+          "sourceFileDir": "ama-with-ajaib-kripto",
           "contentType": "mdx",
-          "flattenedPath": "ama-with-bananow-land"
+          "flattenedPath": "ama-with-ajaib-kripto"
         },
         "type": "Blog",
-        "url": "/blogs/ama-with-bananow-land",
+        "url": "/blogs/ama-with-ajaib-kripto",
         "readingTime": {
           "text": "1 min read",
-          "minutes": 0.775,
-          "time": 46500,
-          "words": 155
+          "minutes": 0.305,
+          "time": 18300,
+          "words": 61
         },
         "toc": [
           {
             "level": "two",
-            "text": "BANANOW Land",
-            "slug": "bananow-land"
-          },
-          {
-            "level": "three",
-            "text": "Dermaga Web3",
-            "slug": "dermaga-web3"
+            "text": "Ajaib Kripto",
+            "slug": "ajaib-kripto"
           },
           {
             "level": "three",
             "text": "Rekaman X Space",
             "slug": "rekaman-x-space"
-          },
-          {
-            "level": "three",
-            "text": "Link Website Resmi",
-            "slug": "link-website-resmi"
           },
           {
             "level": "three",
@@ -410,68 +338,6 @@
             "level": "three",
             "text": "@BlotterNFT",
             "slug": "blotternft"
-          }
-        ]
-      },
-      "documentHash": "1766324702317",
-      "hasWarnings": false,
-      "documentTypeName": "Blog"
-    },
-    "ask-me-on-friday-with-mek-txt/index.mdx": {
-      "document": {
-        "title": "Ask Me On Friday With MEK.TXT",
-        "publishedAt": "2024-09-17T00:00:00.000Z",
-        "updatedAt": "2024-09-17T00:00:00.000Z",
-        "description": "X Space Ask Me On Friday NFT Indonesia. Ngobrol santai dan sharing bareng MEK.txt tentang Doggo Dog Lab.",
-        "image": {
-          "filePath": "../public/blogs/ask-me-on-friday-mex-txt.png",
-          "relativeFilePath": "../../public/blogs/ask-me-on-friday-mex-txt.png",
-          "format": "png",
-          "height": 1333,
-          "width": 2000,
-          "aspectRatio": 1.5003750937734435,
-          "blurhashDataUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAMAAADz0U65AAAABlBMVEUzMzM/Pz/iGfx5AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAGElEQVR4nGNggAFGGAVlQHgwDiYDRR0DAAG8AAsSDruYAAAAAElFTkSuQmCC"
-        },
-        "isPublished": true,
-        "author": "zortan",
-        "tags": [
-          "ask me on friday"
-        ],
-        "body": {
-          "raw": "\n## Gabut Nih!!!!\n\nGM! \n\nHalo, men-temen! **Ask Me On Friday** kali ini akan menghadirkan mas MEK.txt dan kita akan ngobrol-ngobrol santai sambil sharing-sharing seputar \"[**Doggo Dog Lab**](https://x.com/DOGGODOG_lab)\".\n\nYoks, di-bookmark dan di-schedule dulu X-Space-nya biar nanti hari Jum'at tanggal 20 September 2024 gak ketinggalan dan bisa mendengarkan ngobrol santai kita, serta kalau men-temen kalau ada pertanyaan juga bisa langsung ditanyakan.\n\nX account MEK.txt: [@michaelmicasso](https://x.com/michaelmicasso)\nX account NFT Indonesia: [@NFTindonesia_](https://x.com/NFTindonesia_)\n\n---\n\n### Link X Space\n\nSesi **Ask Me On Friday** akan berlangsung hari Jum'at, 20 September 2024. Berikut ini link X-Space yang sudah dijadwalkan:\n\n[https://x.com/i/spaces/1LyxBgkgdeOKN](https://x.com/i/spaces/1LyxBgkgdeOKN)\n\n---\n\n### Poster Publikasi\n\n<Image\n  src=\"https://ipfs.io/ipfs/QmZMD6VyjwRAt69rbTXravqSQoXzwNsg1FeTr9rt6DF7X8/ask-me-on-friday-mex-txt-0.png\"\n  width=\"3840\"\n  height=\"2560\"\n  alt=\"Image\"\n  sizes=\"100vw\"\n/>\n\n<Image\n  src=\"https://ipfs.io/ipfs/QmZMD6VyjwRAt69rbTXravqSQoXzwNsg1FeTr9rt6DF7X8/ask-me-on-friday-mex-txt-1.png\"\n  width=\"3840\"\n  height=\"2560\"\n  alt=\"Image\"\n  sizes=\"100vw\"\n/>\n\n---",
-          "code": "var Component=(()=>{var l=Object.create;var r=Object.defineProperty;var g=Object.getOwnPropertyDescriptor;var p=Object.getOwnPropertyNames;var m=Object.getPrototypeOf,u=Object.prototype.hasOwnProperty;var k=(e,n)=>()=>(n||e((n={exports:{}}).exports,n),n.exports),b=(e,n)=>{for(var i in n)r(e,i,{get:n[i],enumerable:!0})},o=(e,n,i,s)=>{if(n&&typeof n==\"object\"||typeof n==\"function\")for(let t of p(n))!u.call(e,t)&&t!==i&&r(e,t,{get:()=>n[t],enumerable:!(s=g(n,t))||s.enumerable});return e};var x=(e,n,i)=>(i=e!=null?l(m(e)):{},o(n||!e||!e.__esModule?r(i,\"default\",{value:e,enumerable:!0}):i,e)),f=e=>o(r({},\"__esModule\",{value:!0}),e);var h=k((w,d)=>{d.exports=_jsx_runtime});var N={};b(N,{default:()=>X,frontmatter:()=>y});var a=x(h()),y={title:\"Ask Me On Friday With MEK.TXT\",description:\"X Space Ask Me On Friday NFT Indonesia. Ngobrol santai dan sharing bareng MEK.txt tentang Doggo Dog Lab.\",image:\"../../public/blogs/ask-me-on-friday-mex-txt.png\",publishedAt:\"2024-09-17\",updatedAt:\"2024-09-17\",author:\"zortan\",isPublished:!0,tags:[\"ask me on friday\"]};function c(e){let n=Object.assign({h2:\"h2\",a:\"a\",span:\"span\",p:\"p\",strong:\"strong\",hr:\"hr\",h3:\"h3\"},e.components),{Image:i}=n;return i||F(\"Image\",!0),(0,a.jsxs)(a.Fragment,{children:[(0,a.jsxs)(n.h2,{id:\"gabut-nih\",children:[\"Gabut Nih!!!!\",(0,a.jsx)(n.a,{\"aria-hidden\":\"true\",tabIndex:\"-1\",href:\"#gabut-nih\",children:(0,a.jsx)(n.span,{className:\"icon icon-link\"})})]}),`\n`,(0,a.jsx)(n.p,{children:\"GM!\"}),`\n`,(0,a.jsxs)(n.p,{children:[\"Halo, men-temen! \",(0,a.jsx)(n.strong,{children:\"Ask Me On Friday\"}),' kali ini akan menghadirkan mas MEK.txt dan kita akan ngobrol-ngobrol santai sambil sharing-sharing seputar \"',(0,a.jsx)(n.a,{href:\"https://x.com/DOGGODOG_lab\",children:(0,a.jsx)(n.strong,{children:\"Doggo Dog Lab\"})}),'\".']}),`\n`,(0,a.jsx)(n.p,{children:\"Yoks, di-bookmark dan di-schedule dulu X-Space-nya biar nanti hari Jum'at tanggal 20 September 2024 gak ketinggalan dan bisa mendengarkan ngobrol santai kita, serta kalau men-temen kalau ada pertanyaan juga bisa langsung ditanyakan.\"}),`\n`,(0,a.jsxs)(n.p,{children:[\"X account MEK.txt: \",(0,a.jsx)(n.a,{href:\"https://x.com/michaelmicasso\",children:\"@michaelmicasso\"}),`\nX account NFT Indonesia: `,(0,a.jsx)(n.a,{href:\"https://x.com/NFTindonesia_\",children:\"@NFTindonesia_\"})]}),`\n`,(0,a.jsx)(n.hr,{}),`\n`,(0,a.jsxs)(n.h3,{id:\"link-x-space\",children:[\"Link X Space\",(0,a.jsx)(n.a,{\"aria-hidden\":\"true\",tabIndex:\"-1\",href:\"#link-x-space\",children:(0,a.jsx)(n.span,{className:\"icon icon-link\"})})]}),`\n`,(0,a.jsxs)(n.p,{children:[\"Sesi \",(0,a.jsx)(n.strong,{children:\"Ask Me On Friday\"}),\" akan berlangsung hari Jum'at, 20 September 2024. Berikut ini link X-Space yang sudah dijadwalkan:\"]}),`\n`,(0,a.jsx)(n.p,{children:(0,a.jsx)(n.a,{href:\"https://x.com/i/spaces/1LyxBgkgdeOKN\",children:\"https://x.com/i/spaces/1LyxBgkgdeOKN\"})}),`\n`,(0,a.jsx)(n.hr,{}),`\n`,(0,a.jsxs)(n.h3,{id:\"poster-publikasi\",children:[\"Poster Publikasi\",(0,a.jsx)(n.a,{\"aria-hidden\":\"true\",tabIndex:\"-1\",href:\"#poster-publikasi\",children:(0,a.jsx)(n.span,{className:\"icon icon-link\"})})]}),`\n`,(0,a.jsx)(i,{src:\"https://ipfs.io/ipfs/QmZMD6VyjwRAt69rbTXravqSQoXzwNsg1FeTr9rt6DF7X8/ask-me-on-friday-mex-txt-0.png\",width:\"3840\",height:\"2560\",alt:\"Image\",sizes:\"100vw\"}),`\n`,(0,a.jsx)(i,{src:\"https://ipfs.io/ipfs/QmZMD6VyjwRAt69rbTXravqSQoXzwNsg1FeTr9rt6DF7X8/ask-me-on-friday-mex-txt-1.png\",width:\"3840\",height:\"2560\",alt:\"Image\",sizes:\"100vw\"}),`\n`,(0,a.jsx)(n.hr,{})]})}function M(e={}){let{wrapper:n}=e.components||{};return n?(0,a.jsx)(n,Object.assign({},e,{children:(0,a.jsx)(c,e)})):c(e)}var X=M;function F(e,n){throw new Error(\"Expected \"+(n?\"component\":\"object\")+\" `\"+e+\"` to be defined: you likely forgot to import, pass, or provide it.\")}return f(N);})();\n;return Component;"
-        },
-        "_id": "ask-me-on-friday-with-mek-txt/index.mdx",
-        "_raw": {
-          "sourceFilePath": "ask-me-on-friday-with-mek-txt/index.mdx",
-          "sourceFileName": "index.mdx",
-          "sourceFileDir": "ask-me-on-friday-with-mek-txt",
-          "contentType": "mdx",
-          "flattenedPath": "ask-me-on-friday-with-mek-txt"
-        },
-        "type": "Blog",
-        "url": "/blogs/ask-me-on-friday-with-mek-txt",
-        "readingTime": {
-          "text": "1 min read",
-          "minutes": 0.56,
-          "time": 33600,
-          "words": 112
-        },
-        "toc": [
-          {
-            "level": "two",
-            "text": "Gabut Nih!!!!",
-            "slug": "gabut-nih"
-          },
-          {
-            "level": "three",
-            "text": "Link X Space",
-            "slug": "link-x-space"
-          },
-          {
-            "level": "three",
-            "text": "Poster Publikasi",
-            "slug": "poster-publikasi"
           }
         ]
       },
@@ -601,6 +467,140 @@
             "level": "three",
             "text": "Foto Galeri",
             "slug": "foto-galeri"
+          }
+        ]
+      },
+      "documentHash": "1766324702317",
+      "hasWarnings": false,
+      "documentTypeName": "Blog"
+    },
+    "ama-with-bananow-land/index.mdx": {
+      "document": {
+        "title": "AMA with BANANOW Land",
+        "publishedAt": "2022-11-20T00:00:00.000Z",
+        "updatedAt": "2022-11-20T00:00:00.000Z",
+        "description": "X Space oleh NFT Indonesia bersama team dari proyek NFT BANANOW Land.",
+        "image": {
+          "filePath": "../public/blogs/bananow-land.png",
+          "relativeFilePath": "../../public/blogs/bananow-land.png",
+          "format": "png",
+          "height": 1333,
+          "width": 2000,
+          "aspectRatio": 1.5003750937734435,
+          "blurhashDataUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAMAAADz0U65AAAAJFBMVEW8vLy2trbCwsKkpKSvr6+Dg4OMjIyUlJSrq6ttbW1FRUUoKCgxQP8IAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAN0lEQVR4nBXKQRKAMAwDsXUcpyn8/78MOovqNbSASYaiSJIC1zaZ4uqceR8YbN35s4Qk2r1e9wcesgDfoyUyGgAAAABJRU5ErkJggg=="
+        },
+        "isPublished": true,
+        "author": "zortan",
+        "tags": [
+          "ask me anything"
+        ],
+        "body": {
+          "raw": "\n## BANANOW Land\n\n**BANANOW** adalah sebuah proyek NFT bermotokan **playing**, **learning**, dan **working**, yang dibentuk oleh empat orang, yaitu **V**, **Pung**, **Prof NOTA**, dan **HMS**. \n\nProyek ini mengandalkan blockchain sebagai sarana bersosialisasi dan menciptakan ruang interaksi baru dalam berkomunitas, sambil bermain, belajar, dan bekerja. \n\n### Dermaga Web3\n\nHadirnya kesempatan itu, membuahkan sebuah program bernama **Dermaga Web3** yang menjadi \"melting pot\", yakni tempat berkumpulnya lintas komunitas, baik komunitas Web3 maupun Web2, yang sama-sama ingin saling memahami akan kebutuhannya, dan mencari tahu seperti apa teknologi blockchain itu, apa manfaat serta peluang ekonomi yang bisa dimunculkan kemudian.\n\n---\n\n### Rekaman X Space\n\nSesi AMA bisa didengarkan ulang di sini:\n\n<AudioSource yyy=\"https://ipfs.io/ipfs/QmS4LEuU4Z1SjK5ae2Dk1xvfwBYhcGdzWgkzjyR2JWinxU/bananow-land.mp3\" />\n\n[https://x.com/i/spaces/1ynJOaXvjyqKR/](https://x.com/i/spaces/1ynJOaXvjyqKR/)\n\n---\n\n### Link Website Resmi\n\nWebsite resmi BANANOW Land di sini: [https://www.bananow.land/](https://www.bananow.land/)\n\n---\n\n### Foto Galeri\n\n<Image\n  src=\"https://ipfs.io/ipfs/Qme4RHiGt6CoreJd6aeBiZ9K1avsN89uwVWcE1WJzodMJd/bananow-land-0.jpg\"\n  width=\"3840\"\n  height=\"2560\"\n  alt=\"Image\"\n  sizes=\"100vw\"\n/>\n\n<Image\n  src=\"https://ipfs.io/ipfs/Qme4RHiGt6CoreJd6aeBiZ9K1avsN89uwVWcE1WJzodMJd/bananow-land-1.jpg\"\n  width=\"3840\"\n  height=\"2560\"\n  alt=\"Image\"\n  sizes=\"100vw\"\n/>\n\n<Image\n  src=\"https://ipfs.io/ipfs/Qme4RHiGt6CoreJd6aeBiZ9K1avsN89uwVWcE1WJzodMJd/bananow-land-2.jpg\"\n  width=\"3840\"\n  height=\"2560\"\n  alt=\"Image\"\n  sizes=\"100vw\"\n/>\n\n<Image\n  src=\"https://ipfs.io/ipfs/Qme4RHiGt6CoreJd6aeBiZ9K1avsN89uwVWcE1WJzodMJd/bananow-land-3.png\"\n  width=\"3840\"\n  height=\"2560\"\n  alt=\"Image\"\n  sizes=\"100vw\"\n/>\n\n---",
+          "code": "var Component=(()=>{var m=Object.create;var s=Object.defineProperty;var p=Object.getOwnPropertyDescriptor;var g=Object.getOwnPropertyNames;var u=Object.getPrototypeOf,b=Object.prototype.hasOwnProperty;var k=(e,a)=>()=>(a||e((a={exports:{}}).exports,a),a.exports),w=(e,a)=>{for(var i in a)s(e,i,{get:a[i],enumerable:!0})},d=(e,a,i,r)=>{if(a&&typeof a==\"object\"||typeof a==\"function\")for(let t of g(a))!b.call(e,t)&&t!==i&&s(e,t,{get:()=>a[t],enumerable:!(r=p(a,t))||r.enumerable});return e};var f=(e,a,i)=>(i=e!=null?m(u(e)):{},d(a||!e||!e.__esModule?s(i,\"default\",{value:e,enumerable:!0}):i,e)),y=e=>d(s({},\"__esModule\",{value:!0}),e);var h=k((J,o)=>{o.exports=_jsx_runtime});var A={};w(A,{default:()=>W,frontmatter:()=>N});var n=f(h()),N={title:\"AMA with BANANOW Land\",description:\"X Space oleh NFT Indonesia bersama team dari proyek NFT BANANOW Land.\",image:\"../../public/blogs/bananow-land.png\",publishedAt:\"2022-11-20\",updatedAt:\"2022-11-20\",author:\"zortan\",isPublished:!0,tags:[\"ask me anything\"]};function c(e){let a=Object.assign({h2:\"h2\",a:\"a\",span:\"span\",p:\"p\",strong:\"strong\",h3:\"h3\",hr:\"hr\"},e.components),{AudioSource:i,Image:r}=a;return i||l(\"AudioSource\",!0),r||l(\"Image\",!0),(0,n.jsxs)(n.Fragment,{children:[(0,n.jsxs)(a.h2,{id:\"bananow-land\",children:[\"BANANOW Land\",(0,n.jsx)(a.a,{\"aria-hidden\":\"true\",tabIndex:\"-1\",href:\"#bananow-land\",children:(0,n.jsx)(a.span,{className:\"icon icon-link\"})})]}),`\n`,(0,n.jsxs)(a.p,{children:[(0,n.jsx)(a.strong,{children:\"BANANOW\"}),\" adalah sebuah proyek NFT bermotokan \",(0,n.jsx)(a.strong,{children:\"playing\"}),\", \",(0,n.jsx)(a.strong,{children:\"learning\"}),\", dan \",(0,n.jsx)(a.strong,{children:\"working\"}),\", yang dibentuk oleh empat orang, yaitu \",(0,n.jsx)(a.strong,{children:\"V\"}),\", \",(0,n.jsx)(a.strong,{children:\"Pung\"}),\", \",(0,n.jsx)(a.strong,{children:\"Prof NOTA\"}),\", dan \",(0,n.jsx)(a.strong,{children:\"HMS\"}),\".\"]}),`\n`,(0,n.jsx)(a.p,{children:\"Proyek ini mengandalkan blockchain sebagai sarana bersosialisasi dan menciptakan ruang interaksi baru dalam berkomunitas, sambil bermain, belajar, dan bekerja.\"}),`\n`,(0,n.jsxs)(a.h3,{id:\"dermaga-web3\",children:[\"Dermaga Web3\",(0,n.jsx)(a.a,{\"aria-hidden\":\"true\",tabIndex:\"-1\",href:\"#dermaga-web3\",children:(0,n.jsx)(a.span,{className:\"icon icon-link\"})})]}),`\n`,(0,n.jsxs)(a.p,{children:[\"Hadirnya kesempatan itu, membuahkan sebuah program bernama \",(0,n.jsx)(a.strong,{children:\"Dermaga Web3\"}),' yang menjadi \"melting pot\", yakni tempat berkumpulnya lintas komunitas, baik komunitas Web3 maupun Web2, yang sama-sama ingin saling memahami akan kebutuhannya, dan mencari tahu seperti apa teknologi blockchain itu, apa manfaat serta peluang ekonomi yang bisa dimunculkan kemudian.']}),`\n`,(0,n.jsx)(a.hr,{}),`\n`,(0,n.jsxs)(a.h3,{id:\"rekaman-x-space\",children:[\"Rekaman X Space\",(0,n.jsx)(a.a,{\"aria-hidden\":\"true\",tabIndex:\"-1\",href:\"#rekaman-x-space\",children:(0,n.jsx)(a.span,{className:\"icon icon-link\"})})]}),`\n`,(0,n.jsx)(a.p,{children:\"Sesi AMA bisa didengarkan ulang di sini:\"}),`\n`,(0,n.jsx)(i,{yyy:\"https://ipfs.io/ipfs/QmS4LEuU4Z1SjK5ae2Dk1xvfwBYhcGdzWgkzjyR2JWinxU/bananow-land.mp3\"}),`\n`,(0,n.jsx)(a.p,{children:(0,n.jsx)(a.a,{href:\"https://x.com/i/spaces/1ynJOaXvjyqKR/\",children:\"https://x.com/i/spaces/1ynJOaXvjyqKR/\"})}),`\n`,(0,n.jsx)(a.hr,{}),`\n`,(0,n.jsxs)(a.h3,{id:\"link-website-resmi\",children:[\"Link Website Resmi\",(0,n.jsx)(a.a,{\"aria-hidden\":\"true\",tabIndex:\"-1\",href:\"#link-website-resmi\",children:(0,n.jsx)(a.span,{className:\"icon icon-link\"})})]}),`\n`,(0,n.jsxs)(a.p,{children:[\"Website resmi BANANOW Land di sini: \",(0,n.jsx)(a.a,{href:\"https://www.bananow.land/\",children:\"https://www.bananow.land/\"})]}),`\n`,(0,n.jsx)(a.hr,{}),`\n`,(0,n.jsxs)(a.h3,{id:\"foto-galeri\",children:[\"Foto Galeri\",(0,n.jsx)(a.a,{\"aria-hidden\":\"true\",tabIndex:\"-1\",href:\"#foto-galeri\",children:(0,n.jsx)(a.span,{className:\"icon icon-link\"})})]}),`\n`,(0,n.jsx)(r,{src:\"https://ipfs.io/ipfs/Qme4RHiGt6CoreJd6aeBiZ9K1avsN89uwVWcE1WJzodMJd/bananow-land-0.jpg\",width:\"3840\",height:\"2560\",alt:\"Image\",sizes:\"100vw\"}),`\n`,(0,n.jsx)(r,{src:\"https://ipfs.io/ipfs/Qme4RHiGt6CoreJd6aeBiZ9K1avsN89uwVWcE1WJzodMJd/bananow-land-1.jpg\",width:\"3840\",height:\"2560\",alt:\"Image\",sizes:\"100vw\"}),`\n`,(0,n.jsx)(r,{src:\"https://ipfs.io/ipfs/Qme4RHiGt6CoreJd6aeBiZ9K1avsN89uwVWcE1WJzodMJd/bananow-land-2.jpg\",width:\"3840\",height:\"2560\",alt:\"Image\",sizes:\"100vw\"}),`\n`,(0,n.jsx)(r,{src:\"https://ipfs.io/ipfs/Qme4RHiGt6CoreJd6aeBiZ9K1avsN89uwVWcE1WJzodMJd/bananow-land-3.png\",width:\"3840\",height:\"2560\",alt:\"Image\",sizes:\"100vw\"}),`\n`,(0,n.jsx)(a.hr,{})]})}function x(e={}){let{wrapper:a}=e.components||{};return a?(0,n.jsx)(a,Object.assign({},e,{children:(0,n.jsx)(c,e)})):c(e)}var W=x;function l(e,a){throw new Error(\"Expected \"+(a?\"component\":\"object\")+\" `\"+e+\"` to be defined: you likely forgot to import, pass, or provide it.\")}return y(A);})();\n;return Component;"
+        },
+        "_id": "ama-with-bananow-land/index.mdx",
+        "_raw": {
+          "sourceFilePath": "ama-with-bananow-land/index.mdx",
+          "sourceFileName": "index.mdx",
+          "sourceFileDir": "ama-with-bananow-land",
+          "contentType": "mdx",
+          "flattenedPath": "ama-with-bananow-land"
+        },
+        "type": "Blog",
+        "url": "/blogs/ama-with-bananow-land",
+        "readingTime": {
+          "text": "1 min read",
+          "minutes": 0.775,
+          "time": 46500,
+          "words": 155
+        },
+        "toc": [
+          {
+            "level": "two",
+            "text": "BANANOW Land",
+            "slug": "bananow-land"
+          },
+          {
+            "level": "three",
+            "text": "Dermaga Web3",
+            "slug": "dermaga-web3"
+          },
+          {
+            "level": "three",
+            "text": "Rekaman X Space",
+            "slug": "rekaman-x-space"
+          },
+          {
+            "level": "three",
+            "text": "Link Website Resmi",
+            "slug": "link-website-resmi"
+          },
+          {
+            "level": "three",
+            "text": "Foto Galeri",
+            "slug": "foto-galeri"
+          }
+        ]
+      },
+      "documentHash": "1766324702317",
+      "hasWarnings": false,
+      "documentTypeName": "Blog"
+    },
+    "ask-me-on-friday-with-mek-txt/index.mdx": {
+      "document": {
+        "title": "Ask Me On Friday With MEK.TXT",
+        "publishedAt": "2024-09-17T00:00:00.000Z",
+        "updatedAt": "2024-09-17T00:00:00.000Z",
+        "description": "X Space Ask Me On Friday NFT Indonesia. Ngobrol santai dan sharing bareng MEK.txt tentang Doggo Dog Lab.",
+        "image": {
+          "filePath": "../public/blogs/ask-me-on-friday-mex-txt.png",
+          "relativeFilePath": "../../public/blogs/ask-me-on-friday-mex-txt.png",
+          "format": "png",
+          "height": 1333,
+          "width": 2000,
+          "aspectRatio": 1.5003750937734435,
+          "blurhashDataUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAMAAADz0U65AAAABlBMVEUzMzM/Pz/iGfx5AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAGElEQVR4nGNggAFGGAVlQHgwDiYDRR0DAAG8AAsSDruYAAAAAElFTkSuQmCC"
+        },
+        "isPublished": true,
+        "author": "zortan",
+        "tags": [
+          "ask me on friday"
+        ],
+        "body": {
+          "raw": "\n## Gabut Nih!!!!\n\nGM! \n\nHalo, men-temen! **Ask Me On Friday** kali ini akan menghadirkan mas MEK.txt dan kita akan ngobrol-ngobrol santai sambil sharing-sharing seputar \"[**Doggo Dog Lab**](https://x.com/DOGGODOG_lab)\".\n\nYoks, di-bookmark dan di-schedule dulu X-Space-nya biar nanti hari Jum'at tanggal 20 September 2024 gak ketinggalan dan bisa mendengarkan ngobrol santai kita, serta kalau men-temen kalau ada pertanyaan juga bisa langsung ditanyakan.\n\nX account MEK.txt: [@michaelmicasso](https://x.com/michaelmicasso)\nX account NFT Indonesia: [@NFTindonesia_](https://x.com/NFTindonesia_)\n\n---\n\n### Link X Space\n\nSesi **Ask Me On Friday** akan berlangsung hari Jum'at, 20 September 2024. Berikut ini link X-Space yang sudah dijadwalkan:\n\n[https://x.com/i/spaces/1LyxBgkgdeOKN](https://x.com/i/spaces/1LyxBgkgdeOKN)\n\n---\n\n### Poster Publikasi\n\n<Image\n  src=\"https://ipfs.io/ipfs/QmZMD6VyjwRAt69rbTXravqSQoXzwNsg1FeTr9rt6DF7X8/ask-me-on-friday-mex-txt-0.png\"\n  width=\"3840\"\n  height=\"2560\"\n  alt=\"Image\"\n  sizes=\"100vw\"\n/>\n\n<Image\n  src=\"https://ipfs.io/ipfs/QmZMD6VyjwRAt69rbTXravqSQoXzwNsg1FeTr9rt6DF7X8/ask-me-on-friday-mex-txt-1.png\"\n  width=\"3840\"\n  height=\"2560\"\n  alt=\"Image\"\n  sizes=\"100vw\"\n/>\n\n---",
+          "code": "var Component=(()=>{var l=Object.create;var r=Object.defineProperty;var g=Object.getOwnPropertyDescriptor;var p=Object.getOwnPropertyNames;var m=Object.getPrototypeOf,u=Object.prototype.hasOwnProperty;var k=(e,n)=>()=>(n||e((n={exports:{}}).exports,n),n.exports),b=(e,n)=>{for(var i in n)r(e,i,{get:n[i],enumerable:!0})},o=(e,n,i,s)=>{if(n&&typeof n==\"object\"||typeof n==\"function\")for(let t of p(n))!u.call(e,t)&&t!==i&&r(e,t,{get:()=>n[t],enumerable:!(s=g(n,t))||s.enumerable});return e};var x=(e,n,i)=>(i=e!=null?l(m(e)):{},o(n||!e||!e.__esModule?r(i,\"default\",{value:e,enumerable:!0}):i,e)),f=e=>o(r({},\"__esModule\",{value:!0}),e);var h=k((w,d)=>{d.exports=_jsx_runtime});var N={};b(N,{default:()=>X,frontmatter:()=>y});var a=x(h()),y={title:\"Ask Me On Friday With MEK.TXT\",description:\"X Space Ask Me On Friday NFT Indonesia. Ngobrol santai dan sharing bareng MEK.txt tentang Doggo Dog Lab.\",image:\"../../public/blogs/ask-me-on-friday-mex-txt.png\",publishedAt:\"2024-09-17\",updatedAt:\"2024-09-17\",author:\"zortan\",isPublished:!0,tags:[\"ask me on friday\"]};function c(e){let n=Object.assign({h2:\"h2\",a:\"a\",span:\"span\",p:\"p\",strong:\"strong\",hr:\"hr\",h3:\"h3\"},e.components),{Image:i}=n;return i||F(\"Image\",!0),(0,a.jsxs)(a.Fragment,{children:[(0,a.jsxs)(n.h2,{id:\"gabut-nih\",children:[\"Gabut Nih!!!!\",(0,a.jsx)(n.a,{\"aria-hidden\":\"true\",tabIndex:\"-1\",href:\"#gabut-nih\",children:(0,a.jsx)(n.span,{className:\"icon icon-link\"})})]}),`\n`,(0,a.jsx)(n.p,{children:\"GM!\"}),`\n`,(0,a.jsxs)(n.p,{children:[\"Halo, men-temen! \",(0,a.jsx)(n.strong,{children:\"Ask Me On Friday\"}),' kali ini akan menghadirkan mas MEK.txt dan kita akan ngobrol-ngobrol santai sambil sharing-sharing seputar \"',(0,a.jsx)(n.a,{href:\"https://x.com/DOGGODOG_lab\",children:(0,a.jsx)(n.strong,{children:\"Doggo Dog Lab\"})}),'\".']}),`\n`,(0,a.jsx)(n.p,{children:\"Yoks, di-bookmark dan di-schedule dulu X-Space-nya biar nanti hari Jum'at tanggal 20 September 2024 gak ketinggalan dan bisa mendengarkan ngobrol santai kita, serta kalau men-temen kalau ada pertanyaan juga bisa langsung ditanyakan.\"}),`\n`,(0,a.jsxs)(n.p,{children:[\"X account MEK.txt: \",(0,a.jsx)(n.a,{href:\"https://x.com/michaelmicasso\",children:\"@michaelmicasso\"}),`\nX account NFT Indonesia: `,(0,a.jsx)(n.a,{href:\"https://x.com/NFTindonesia_\",children:\"@NFTindonesia_\"})]}),`\n`,(0,a.jsx)(n.hr,{}),`\n`,(0,a.jsxs)(n.h3,{id:\"link-x-space\",children:[\"Link X Space\",(0,a.jsx)(n.a,{\"aria-hidden\":\"true\",tabIndex:\"-1\",href:\"#link-x-space\",children:(0,a.jsx)(n.span,{className:\"icon icon-link\"})})]}),`\n`,(0,a.jsxs)(n.p,{children:[\"Sesi \",(0,a.jsx)(n.strong,{children:\"Ask Me On Friday\"}),\" akan berlangsung hari Jum'at, 20 September 2024. Berikut ini link X-Space yang sudah dijadwalkan:\"]}),`\n`,(0,a.jsx)(n.p,{children:(0,a.jsx)(n.a,{href:\"https://x.com/i/spaces/1LyxBgkgdeOKN\",children:\"https://x.com/i/spaces/1LyxBgkgdeOKN\"})}),`\n`,(0,a.jsx)(n.hr,{}),`\n`,(0,a.jsxs)(n.h3,{id:\"poster-publikasi\",children:[\"Poster Publikasi\",(0,a.jsx)(n.a,{\"aria-hidden\":\"true\",tabIndex:\"-1\",href:\"#poster-publikasi\",children:(0,a.jsx)(n.span,{className:\"icon icon-link\"})})]}),`\n`,(0,a.jsx)(i,{src:\"https://ipfs.io/ipfs/QmZMD6VyjwRAt69rbTXravqSQoXzwNsg1FeTr9rt6DF7X8/ask-me-on-friday-mex-txt-0.png\",width:\"3840\",height:\"2560\",alt:\"Image\",sizes:\"100vw\"}),`\n`,(0,a.jsx)(i,{src:\"https://ipfs.io/ipfs/QmZMD6VyjwRAt69rbTXravqSQoXzwNsg1FeTr9rt6DF7X8/ask-me-on-friday-mex-txt-1.png\",width:\"3840\",height:\"2560\",alt:\"Image\",sizes:\"100vw\"}),`\n`,(0,a.jsx)(n.hr,{})]})}function M(e={}){let{wrapper:n}=e.components||{};return n?(0,a.jsx)(n,Object.assign({},e,{children:(0,a.jsx)(c,e)})):c(e)}var X=M;function F(e,n){throw new Error(\"Expected \"+(n?\"component\":\"object\")+\" `\"+e+\"` to be defined: you likely forgot to import, pass, or provide it.\")}return f(N);})();\n;return Component;"
+        },
+        "_id": "ask-me-on-friday-with-mek-txt/index.mdx",
+        "_raw": {
+          "sourceFilePath": "ask-me-on-friday-with-mek-txt/index.mdx",
+          "sourceFileName": "index.mdx",
+          "sourceFileDir": "ask-me-on-friday-with-mek-txt",
+          "contentType": "mdx",
+          "flattenedPath": "ask-me-on-friday-with-mek-txt"
+        },
+        "type": "Blog",
+        "url": "/blogs/ask-me-on-friday-with-mek-txt",
+        "readingTime": {
+          "text": "1 min read",
+          "minutes": 0.56,
+          "time": 33600,
+          "words": 112
+        },
+        "toc": [
+          {
+            "level": "two",
+            "text": "Gabut Nih!!!!",
+            "slug": "gabut-nih"
+          },
+          {
+            "level": "three",
+            "text": "Link X Space",
+            "slug": "link-x-space"
+          },
+          {
+            "level": "three",
+            "text": "Poster Publikasi",
+            "slug": "poster-publikasi"
           }
         ]
       },
@@ -1006,73 +1006,6 @@
       "hasWarnings": false,
       "documentTypeName": "Blog"
     },
-    "dewan-perwakilan-drip-nya-indonesia/index.mdx": {
-      "document": {
-        "title": "Dewan Perwakilan DRiP-nya Indonesia",
-        "publishedAt": "2024-08-12T00:00:00.000Z",
-        "updatedAt": "2022-08-12T00:00:00.000Z",
-        "description": "X Space Ask Me Anything NFT Indonesia bersama Fierza Fajri sebagai Dewan Perwakilan DRiP-nya Indonesia.",
-        "image": {
-          "filePath": "../public/blogs/dewan-perwakilan-drip-nya-indonesia.png",
-          "relativeFilePath": "../../public/blogs/dewan-perwakilan-drip-nya-indonesia.png",
-          "format": "png",
-          "height": 1333,
-          "width": 2000,
-          "aspectRatio": 1.5003750937734435,
-          "blurhashDataUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAMAAADz0U65AAAAElBMVEUyMjI5OTlHR0dzc3NeXl6tra07UXklAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAIklEQVR4nGNgQABGOIOJmQnCYmaFMBiZWSCyjEyMcGXIAAAFKwAiIOicogAAAABJRU5ErkJggg=="
-        },
-        "isPublished": true,
-        "author": "zortan",
-        "tags": [
-          "ask me anything"
-        ],
-        "body": {
-          "raw": "\n## DPRD-nya Indonesia\n\nGaes, ikuti X Space Ask Me Anything kali ini! Mimin penasaran soal DRiP nih! Yang penasaran juga soal DRiP, pertanyaan-pertanyaannya dijawab di space kami oleh Dewan Perwakilan DRiP-nya Indonesia, yaitu Fierza Fajri ([@fierzafajri](https://x.com/fierzafajri))\n\n### Daftar Pertanyaan\n\nSetlist pertanyaan yang dijawab oleh Fierza Fajri terkait tentang DRiP:\n\n- Kapan mulai join DRiP?\n- DRiP itu project yang seperti apa?\n- Transaksi aset digital saja atau seperti apa yang terjadi di DRiP?\n- Bagaimana cara join ke DRiP?\n- Ada kurasi atau seperti apa aturan untuk bisa join ke DRiP?\n\n---\n\n### Rekaman X Space\n\nSesi AMA bisa didengarkan ulang di sini:\n\n<AudioSource yyy=\"https://ipfs.io/ipfs/QmS4LEuU4Z1SjK5ae2Dk1xvfwBYhcGdzWgkzjyR2JWinxU/dewan-perwakilan-drip-nya-indonesia.mp3\" />\n\n[https://x.com/i/spaces/1djGXramRvPxZ](https://x.com/i/spaces/1djGXramRvPxZ)\n\n---\n\n### Foto Galeri\n\n<Image\n  src=\"https://ipfs.io/ipfs/Qme4RHiGt6CoreJd6aeBiZ9K1avsN89uwVWcE1WJzodMJd/dewan-perwakilan-drip-nya-indonesia.jpeg\"\n  width=\"3840\"\n  height=\"2560\"\n  alt=\"Image\"\n  sizes=\"100vw\"\n/>\n\n---",
-          "code": "var Component=(()=>{var h=Object.create;var s=Object.defineProperty;var u=Object.getOwnPropertyDescriptor;var m=Object.getOwnPropertyNames;var g=Object.getPrototypeOf,f=Object.prototype.hasOwnProperty;var y=(i,a)=>()=>(a||i((a={exports:{}}).exports,a),a.exports),k=(i,a)=>{for(var e in a)s(i,e,{get:a[e],enumerable:!0})},d=(i,a,e,r)=>{if(a&&typeof a==\"object\"||typeof a==\"function\")for(let t of m(a))!f.call(i,t)&&t!==e&&s(i,t,{get:()=>a[t],enumerable:!(r=u(a,t))||r.enumerable});return i};var j=(i,a,e)=>(e=i!=null?h(g(i)):{},d(a||!i||!i.__esModule?s(e,\"default\",{value:i,enumerable:!0}):e,i)),x=i=>d(s({},\"__esModule\",{value:!0}),i);var c=y((I,o)=>{o.exports=_jsx_runtime});var b={};k(b,{default:()=>P,frontmatter:()=>w});var n=j(c()),w={title:\"Dewan Perwakilan DRiP-nya Indonesia\",description:\"X Space Ask Me Anything NFT Indonesia bersama Fierza Fajri sebagai Dewan Perwakilan DRiP-nya Indonesia.\",image:\"../../public/blogs/dewan-perwakilan-drip-nya-indonesia.png\",publishedAt:\"2024-08-12\",updatedAt:\"2022-08-12\",author:\"zortan\",isPublished:!0,tags:[\"ask me anything\"]};function l(i){let a=Object.assign({h2:\"h2\",a:\"a\",span:\"span\",p:\"p\",h3:\"h3\",ul:\"ul\",li:\"li\",hr:\"hr\"},i.components),{AudioSource:e,Image:r}=a;return e||p(\"AudioSource\",!0),r||p(\"Image\",!0),(0,n.jsxs)(n.Fragment,{children:[(0,n.jsxs)(a.h2,{id:\"dprd-nya-indonesia\",children:[\"DPRD-nya Indonesia\",(0,n.jsx)(a.a,{\"aria-hidden\":\"true\",tabIndex:\"-1\",href:\"#dprd-nya-indonesia\",children:(0,n.jsx)(a.span,{className:\"icon icon-link\"})})]}),`\n`,(0,n.jsxs)(a.p,{children:[\"Gaes, ikuti X Space Ask Me Anything kali ini! Mimin penasaran soal DRiP nih! Yang penasaran juga soal DRiP, pertanyaan-pertanyaannya dijawab di space kami oleh Dewan Perwakilan DRiP-nya Indonesia, yaitu Fierza Fajri (\",(0,n.jsx)(a.a,{href:\"https://x.com/fierzafajri\",children:\"@fierzafajri\"}),\")\"]}),`\n`,(0,n.jsxs)(a.h3,{id:\"daftar-pertanyaan\",children:[\"Daftar Pertanyaan\",(0,n.jsx)(a.a,{\"aria-hidden\":\"true\",tabIndex:\"-1\",href:\"#daftar-pertanyaan\",children:(0,n.jsx)(a.span,{className:\"icon icon-link\"})})]}),`\n`,(0,n.jsx)(a.p,{children:\"Setlist pertanyaan yang dijawab oleh Fierza Fajri terkait tentang DRiP:\"}),`\n`,(0,n.jsxs)(a.ul,{children:[`\n`,(0,n.jsx)(a.li,{children:\"Kapan mulai join DRiP?\"}),`\n`,(0,n.jsx)(a.li,{children:\"DRiP itu project yang seperti apa?\"}),`\n`,(0,n.jsx)(a.li,{children:\"Transaksi aset digital saja atau seperti apa yang terjadi di DRiP?\"}),`\n`,(0,n.jsx)(a.li,{children:\"Bagaimana cara join ke DRiP?\"}),`\n`,(0,n.jsx)(a.li,{children:\"Ada kurasi atau seperti apa aturan untuk bisa join ke DRiP?\"}),`\n`]}),`\n`,(0,n.jsx)(a.hr,{}),`\n`,(0,n.jsxs)(a.h3,{id:\"rekaman-x-space\",children:[\"Rekaman X Space\",(0,n.jsx)(a.a,{\"aria-hidden\":\"true\",tabIndex:\"-1\",href:\"#rekaman-x-space\",children:(0,n.jsx)(a.span,{className:\"icon icon-link\"})})]}),`\n`,(0,n.jsx)(a.p,{children:\"Sesi AMA bisa didengarkan ulang di sini:\"}),`\n`,(0,n.jsx)(e,{yyy:\"https://ipfs.io/ipfs/QmS4LEuU4Z1SjK5ae2Dk1xvfwBYhcGdzWgkzjyR2JWinxU/dewan-perwakilan-drip-nya-indonesia.mp3\"}),`\n`,(0,n.jsx)(a.p,{children:(0,n.jsx)(a.a,{href:\"https://x.com/i/spaces/1djGXramRvPxZ\",children:\"https://x.com/i/spaces/1djGXramRvPxZ\"})}),`\n`,(0,n.jsx)(a.hr,{}),`\n`,(0,n.jsxs)(a.h3,{id:\"foto-galeri\",children:[\"Foto Galeri\",(0,n.jsx)(a.a,{\"aria-hidden\":\"true\",tabIndex:\"-1\",href:\"#foto-galeri\",children:(0,n.jsx)(a.span,{className:\"icon icon-link\"})})]}),`\n`,(0,n.jsx)(r,{src:\"https://ipfs.io/ipfs/Qme4RHiGt6CoreJd6aeBiZ9K1avsN89uwVWcE1WJzodMJd/dewan-perwakilan-drip-nya-indonesia.jpeg\",width:\"3840\",height:\"2560\",alt:\"Image\",sizes:\"100vw\"}),`\n`,(0,n.jsx)(a.hr,{})]})}function D(i={}){let{wrapper:a}=i.components||{};return a?(0,n.jsx)(a,Object.assign({},i,{children:(0,n.jsx)(l,i)})):l(i)}var P=D;function p(i,a){throw new Error(\"Expected \"+(a?\"component\":\"object\")+\" `\"+i+\"` to be defined: you likely forgot to import, pass, or provide it.\")}return x(b);})();\n;return Component;"
-        },
-        "_id": "dewan-perwakilan-drip-nya-indonesia/index.mdx",
-        "_raw": {
-          "sourceFilePath": "dewan-perwakilan-drip-nya-indonesia/index.mdx",
-          "sourceFileName": "index.mdx",
-          "sourceFileDir": "dewan-perwakilan-drip-nya-indonesia",
-          "contentType": "mdx",
-          "flattenedPath": "dewan-perwakilan-drip-nya-indonesia"
-        },
-        "type": "Blog",
-        "url": "/blogs/dewan-perwakilan-drip-nya-indonesia",
-        "readingTime": {
-          "text": "1 min read",
-          "minutes": 0.595,
-          "time": 35700,
-          "words": 119
-        },
-        "toc": [
-          {
-            "level": "two",
-            "text": "DPRD-nya Indonesia",
-            "slug": "dprd-nya-indonesia"
-          },
-          {
-            "level": "three",
-            "text": "Daftar Pertanyaan",
-            "slug": "daftar-pertanyaan"
-          },
-          {
-            "level": "three",
-            "text": "Rekaman X Space",
-            "slug": "rekaman-x-space"
-          },
-          {
-            "level": "three",
-            "text": "Foto Galeri",
-            "slug": "foto-galeri"
-          }
-        ]
-      },
-      "documentHash": "1766324702318",
-      "hasWarnings": false,
-      "documentTypeName": "Blog"
-    },
     "collective-update-we-step-into-september-2024/index.mdx": {
       "document": {
         "title": "We Step Into September 2024",
@@ -1188,6 +1121,73 @@
             "level": "three",
             "text": "Bus Stop",
             "slug": "bus-stop"
+          }
+        ]
+      },
+      "documentHash": "1766324702318",
+      "hasWarnings": false,
+      "documentTypeName": "Blog"
+    },
+    "dewan-perwakilan-drip-nya-indonesia/index.mdx": {
+      "document": {
+        "title": "Dewan Perwakilan DRiP-nya Indonesia",
+        "publishedAt": "2024-08-12T00:00:00.000Z",
+        "updatedAt": "2022-08-12T00:00:00.000Z",
+        "description": "X Space Ask Me Anything NFT Indonesia bersama Fierza Fajri sebagai Dewan Perwakilan DRiP-nya Indonesia.",
+        "image": {
+          "filePath": "../public/blogs/dewan-perwakilan-drip-nya-indonesia.png",
+          "relativeFilePath": "../../public/blogs/dewan-perwakilan-drip-nya-indonesia.png",
+          "format": "png",
+          "height": 1333,
+          "width": 2000,
+          "aspectRatio": 1.5003750937734435,
+          "blurhashDataUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAMAAADz0U65AAAAElBMVEUyMjI5OTlHR0dzc3NeXl6tra07UXklAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAIklEQVR4nGNgQABGOIOJmQnCYmaFMBiZWSCyjEyMcGXIAAAFKwAiIOicogAAAABJRU5ErkJggg=="
+        },
+        "isPublished": true,
+        "author": "zortan",
+        "tags": [
+          "ask me anything"
+        ],
+        "body": {
+          "raw": "\n## DPRD-nya Indonesia\n\nGaes, ikuti X Space Ask Me Anything kali ini! Mimin penasaran soal DRiP nih! Yang penasaran juga soal DRiP, pertanyaan-pertanyaannya dijawab di space kami oleh Dewan Perwakilan DRiP-nya Indonesia, yaitu Fierza Fajri ([@fierzafajri](https://x.com/fierzafajri))\n\n### Daftar Pertanyaan\n\nSetlist pertanyaan yang dijawab oleh Fierza Fajri terkait tentang DRiP:\n\n- Kapan mulai join DRiP?\n- DRiP itu project yang seperti apa?\n- Transaksi aset digital saja atau seperti apa yang terjadi di DRiP?\n- Bagaimana cara join ke DRiP?\n- Ada kurasi atau seperti apa aturan untuk bisa join ke DRiP?\n\n---\n\n### Rekaman X Space\n\nSesi AMA bisa didengarkan ulang di sini:\n\n<AudioSource yyy=\"https://ipfs.io/ipfs/QmS4LEuU4Z1SjK5ae2Dk1xvfwBYhcGdzWgkzjyR2JWinxU/dewan-perwakilan-drip-nya-indonesia.mp3\" />\n\n[https://x.com/i/spaces/1djGXramRvPxZ](https://x.com/i/spaces/1djGXramRvPxZ)\n\n---\n\n### Foto Galeri\n\n<Image\n  src=\"https://ipfs.io/ipfs/Qme4RHiGt6CoreJd6aeBiZ9K1avsN89uwVWcE1WJzodMJd/dewan-perwakilan-drip-nya-indonesia.jpeg\"\n  width=\"3840\"\n  height=\"2560\"\n  alt=\"Image\"\n  sizes=\"100vw\"\n/>\n\n---",
+          "code": "var Component=(()=>{var h=Object.create;var s=Object.defineProperty;var u=Object.getOwnPropertyDescriptor;var m=Object.getOwnPropertyNames;var g=Object.getPrototypeOf,f=Object.prototype.hasOwnProperty;var y=(i,a)=>()=>(a||i((a={exports:{}}).exports,a),a.exports),k=(i,a)=>{for(var e in a)s(i,e,{get:a[e],enumerable:!0})},d=(i,a,e,r)=>{if(a&&typeof a==\"object\"||typeof a==\"function\")for(let t of m(a))!f.call(i,t)&&t!==e&&s(i,t,{get:()=>a[t],enumerable:!(r=u(a,t))||r.enumerable});return i};var j=(i,a,e)=>(e=i!=null?h(g(i)):{},d(a||!i||!i.__esModule?s(e,\"default\",{value:i,enumerable:!0}):e,i)),x=i=>d(s({},\"__esModule\",{value:!0}),i);var c=y((I,o)=>{o.exports=_jsx_runtime});var b={};k(b,{default:()=>P,frontmatter:()=>w});var n=j(c()),w={title:\"Dewan Perwakilan DRiP-nya Indonesia\",description:\"X Space Ask Me Anything NFT Indonesia bersama Fierza Fajri sebagai Dewan Perwakilan DRiP-nya Indonesia.\",image:\"../../public/blogs/dewan-perwakilan-drip-nya-indonesia.png\",publishedAt:\"2024-08-12\",updatedAt:\"2022-08-12\",author:\"zortan\",isPublished:!0,tags:[\"ask me anything\"]};function l(i){let a=Object.assign({h2:\"h2\",a:\"a\",span:\"span\",p:\"p\",h3:\"h3\",ul:\"ul\",li:\"li\",hr:\"hr\"},i.components),{AudioSource:e,Image:r}=a;return e||p(\"AudioSource\",!0),r||p(\"Image\",!0),(0,n.jsxs)(n.Fragment,{children:[(0,n.jsxs)(a.h2,{id:\"dprd-nya-indonesia\",children:[\"DPRD-nya Indonesia\",(0,n.jsx)(a.a,{\"aria-hidden\":\"true\",tabIndex:\"-1\",href:\"#dprd-nya-indonesia\",children:(0,n.jsx)(a.span,{className:\"icon icon-link\"})})]}),`\n`,(0,n.jsxs)(a.p,{children:[\"Gaes, ikuti X Space Ask Me Anything kali ini! Mimin penasaran soal DRiP nih! Yang penasaran juga soal DRiP, pertanyaan-pertanyaannya dijawab di space kami oleh Dewan Perwakilan DRiP-nya Indonesia, yaitu Fierza Fajri (\",(0,n.jsx)(a.a,{href:\"https://x.com/fierzafajri\",children:\"@fierzafajri\"}),\")\"]}),`\n`,(0,n.jsxs)(a.h3,{id:\"daftar-pertanyaan\",children:[\"Daftar Pertanyaan\",(0,n.jsx)(a.a,{\"aria-hidden\":\"true\",tabIndex:\"-1\",href:\"#daftar-pertanyaan\",children:(0,n.jsx)(a.span,{className:\"icon icon-link\"})})]}),`\n`,(0,n.jsx)(a.p,{children:\"Setlist pertanyaan yang dijawab oleh Fierza Fajri terkait tentang DRiP:\"}),`\n`,(0,n.jsxs)(a.ul,{children:[`\n`,(0,n.jsx)(a.li,{children:\"Kapan mulai join DRiP?\"}),`\n`,(0,n.jsx)(a.li,{children:\"DRiP itu project yang seperti apa?\"}),`\n`,(0,n.jsx)(a.li,{children:\"Transaksi aset digital saja atau seperti apa yang terjadi di DRiP?\"}),`\n`,(0,n.jsx)(a.li,{children:\"Bagaimana cara join ke DRiP?\"}),`\n`,(0,n.jsx)(a.li,{children:\"Ada kurasi atau seperti apa aturan untuk bisa join ke DRiP?\"}),`\n`]}),`\n`,(0,n.jsx)(a.hr,{}),`\n`,(0,n.jsxs)(a.h3,{id:\"rekaman-x-space\",children:[\"Rekaman X Space\",(0,n.jsx)(a.a,{\"aria-hidden\":\"true\",tabIndex:\"-1\",href:\"#rekaman-x-space\",children:(0,n.jsx)(a.span,{className:\"icon icon-link\"})})]}),`\n`,(0,n.jsx)(a.p,{children:\"Sesi AMA bisa didengarkan ulang di sini:\"}),`\n`,(0,n.jsx)(e,{yyy:\"https://ipfs.io/ipfs/QmS4LEuU4Z1SjK5ae2Dk1xvfwBYhcGdzWgkzjyR2JWinxU/dewan-perwakilan-drip-nya-indonesia.mp3\"}),`\n`,(0,n.jsx)(a.p,{children:(0,n.jsx)(a.a,{href:\"https://x.com/i/spaces/1djGXramRvPxZ\",children:\"https://x.com/i/spaces/1djGXramRvPxZ\"})}),`\n`,(0,n.jsx)(a.hr,{}),`\n`,(0,n.jsxs)(a.h3,{id:\"foto-galeri\",children:[\"Foto Galeri\",(0,n.jsx)(a.a,{\"aria-hidden\":\"true\",tabIndex:\"-1\",href:\"#foto-galeri\",children:(0,n.jsx)(a.span,{className:\"icon icon-link\"})})]}),`\n`,(0,n.jsx)(r,{src:\"https://ipfs.io/ipfs/Qme4RHiGt6CoreJd6aeBiZ9K1avsN89uwVWcE1WJzodMJd/dewan-perwakilan-drip-nya-indonesia.jpeg\",width:\"3840\",height:\"2560\",alt:\"Image\",sizes:\"100vw\"}),`\n`,(0,n.jsx)(a.hr,{})]})}function D(i={}){let{wrapper:a}=i.components||{};return a?(0,n.jsx)(a,Object.assign({},i,{children:(0,n.jsx)(l,i)})):l(i)}var P=D;function p(i,a){throw new Error(\"Expected \"+(a?\"component\":\"object\")+\" `\"+i+\"` to be defined: you likely forgot to import, pass, or provide it.\")}return x(b);})();\n;return Component;"
+        },
+        "_id": "dewan-perwakilan-drip-nya-indonesia/index.mdx",
+        "_raw": {
+          "sourceFilePath": "dewan-perwakilan-drip-nya-indonesia/index.mdx",
+          "sourceFileName": "index.mdx",
+          "sourceFileDir": "dewan-perwakilan-drip-nya-indonesia",
+          "contentType": "mdx",
+          "flattenedPath": "dewan-perwakilan-drip-nya-indonesia"
+        },
+        "type": "Blog",
+        "url": "/blogs/dewan-perwakilan-drip-nya-indonesia",
+        "readingTime": {
+          "text": "1 min read",
+          "minutes": 0.595,
+          "time": 35700,
+          "words": 119
+        },
+        "toc": [
+          {
+            "level": "two",
+            "text": "DPRD-nya Indonesia",
+            "slug": "dprd-nya-indonesia"
+          },
+          {
+            "level": "three",
+            "text": "Daftar Pertanyaan",
+            "slug": "daftar-pertanyaan"
+          },
+          {
+            "level": "three",
+            "text": "Rekaman X Space",
+            "slug": "rekaman-x-space"
+          },
+          {
+            "level": "three",
+            "text": "Foto Galeri",
+            "slug": "foto-galeri"
           }
         ]
       },
@@ -1511,108 +1511,6 @@
       "hasWarnings": false,
       "documentTypeName": "Blog"
     },
-    "end-of-january-2024-collective-update/index.mdx": {
-      "document": {
-        "title": "Collectives Update: End Of January 2024",
-        "publishedAt": "2024-01-28T00:00:00.000Z",
-        "updatedAt": "2024-01-28T00:00:00.000Z",
-        "description": "Good Morning Legends! Our End Of January 2024 highlight is here! Feel free to check all on this article.",
-        "image": {
-          "filePath": "../public/blogs/collective-update-end-of-january-2024.png",
-          "relativeFilePath": "../../public/blogs/collective-update-end-of-january-2024.png",
-          "format": "png",
-          "height": 1333,
-          "width": 2000,
-          "aspectRatio": 1.5003750937734435,
-          "blurhashDataUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAMAAADz0U65AAAAM1BMVEUqKipwcHCMjIxCQkK9vb12dnZ+fn6np6dhYWEzMzNoaGhOTk6ampqWlpazs7PGxsZVVVVN1qtAAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAO0lEQVR4nAXBiQHAIAgEwVWBA59o/9Vmhqfb00yEedHux5dUhh06VS8kkhrT9yZh2uliQcrDGKtcrfkPP+oBptGvauQAAAAASUVORK5CYII="
-        },
-        "isPublished": true,
-        "author": "zortan",
-        "tags": [
-          "collective update"
-        ],
-        "body": {
-          "raw": "\n## February 2024\n\nGood Morning Legends! 🥊  \nOur End of January highlight is here!  \nMany interesting pieces have been released!\n\n<Image\n  src=\"https://ipfs.io/ipfs/QmPPAxTRWuj9gz4M7oZimAuNU5tYysfyFgx4XwKy9h2MdD/collective-update-end-of-january-2024-0.jpeg\"\n  width=\"3840\"\n  height=\"2560\"\n  alt=\"Image\"\n  sizes=\"100vw\"\n/>\n\n### MIND HANGING\n\n\"MIND HANGING\" by [@beruangbesars](https://x.com/beruangbesars). \n\nFollow Bearbigs updates at:  \n[https://thehug.xyz/artists/bearbigs](https://thehug.xyz/artists/bearbigs)\n\n<Image\n  src=\"https://ipfs.io/ipfs/QmPPAxTRWuj9gz4M7oZimAuNU5tYysfyFgx4XwKy9h2MdD/collective-update-end-of-january-2024-1.gif\"\n  width=\"3840\"\n  height=\"2560\"\n  alt=\"Image\"\n  sizes=\"100vw\"\n/>\n\n---\n\n### VEILED ECHOES\n\n\"VEILED ECHOES\" by [@BlackentheRed](https://x.com/BlackentheRed).\n\nFollow BlackentheRed updates at:  \n[https://thehug.xyz/artists/blackenthered](https://thehug.xyz/artists/blackenthered)\n\n<Image\n  src=\"https://ipfs.io/ipfs/QmPPAxTRWuj9gz4M7oZimAuNU5tYysfyFgx4XwKy9h2MdD/collective-update-end-of-january-2024-2.jpeg\"\n  width=\"3840\"\n  height=\"2560\"\n  alt=\"Image\"\n  sizes=\"100vw\"\n/>\n\n---\n\n### LIGHT HOPE\n\n\"LIGHT HOPE\" by [@Zandista_](https://x.com/Zandista_).\n\nFollow Zandista updates at:  \n[https://thehug.xyz/artists/zandista_](https://thehug.xyz/artists/zandista_)\n\n<Image\n  src=\"https://ipfs.io/ipfs/QmPPAxTRWuj9gz4M7oZimAuNU5tYysfyFgx4XwKy9h2MdD/collective-update-end-of-january-2024-3.jpeg\"\n  width=\"3840\"\n  height=\"2560\"\n  alt=\"Image\"\n  sizes=\"100vw\"\n/>\n\n---\n\n### HEART OF SOLITUDE\n\n\"HEART OF SOLITUDE\" by [@VinceHelen](https://x.com/VinceHelen).\n\nFollow VinceHelen updates at:  \n[https://thehug.xyz/artists/vincehelen](https://thehug.xyz/artists/vincehelen)\n\n<Image\n  src=\"https://ipfs.io/ipfs/QmPPAxTRWuj9gz4M7oZimAuNU5tYysfyFgx4XwKy9h2MdD/collective-update-end-of-january-2024-4.jpeg\"\n  width=\"3840\"\n  height=\"2560\"\n  alt=\"Image\"\n  sizes=\"100vw\"\n/>\n\n---\n\n### KAWAII CHINATOWN\n\n\"KAWAII CHINATOWN\" by [@ponpop_cynn](https://x.com/ponpop_cynn).\n\nFollow Ponpop updates at:  \n[https://thehug.xyz/artists/ponpop](https://thehug.xyz/artists/ponpop)\n\n<Image\n  src=\"https://ipfs.io/ipfs/QmPPAxTRWuj9gz4M7oZimAuNU5tYysfyFgx4XwKy9h2MdD/collective-update-end-of-january-2024-5.jpeg\"\n  width=\"3840\"\n  height=\"2560\"\n  alt=\"Image\"\n  sizes=\"100vw\"\n/>\n\n---\n\n### NEIGHBOURHOOD #4\n\n\"NEIGHBOURHOOD #4\" (Series) by [@hadilocoboy](https://x.com/hadilocoboy).\n\nFollow Hadiloco updates at:  \n[https://thehug.xyz/artists/hadilocoboy](https://thehug.xyz/artists/hadilocoboy)\n\n<Image\n  src=\"https://ipfs.io/ipfs/QmPPAxTRWuj9gz4M7oZimAuNU5tYysfyFgx4XwKy9h2MdD/collective-update-end-of-january-2024-6.jpeg\"\n  width=\"3840\"\n  height=\"2560\"\n  alt=\"Image\"\n  sizes=\"100vw\"\n/>\n\n---\n\n### KING SIMBOLYC\n\n\"KING SIMBOLYC\" by [@jajangstd]\n\nFollow Jajangstd updates at:  \n[https://thehug.xyz/artists/jajangstd](https://thehug.xyz/artists/jajangstd)\n\n<Image\n  src=\"https://ipfs.io/ipfs/QmPPAxTRWuj9gz4M7oZimAuNU5tYysfyFgx4XwKy9h2MdD/collective-update-end-of-january-2024-7.jpeg\"\n  width=\"3840\"\n  height=\"2560\"\n  alt=\"Image\"\n  sizes=\"100vw\"\n/>\n\n---\n\n### BLACK DIMENSION\n\n\"BLACK DIMENSION\" by [@Saintsuffers_](https://x.com/Saintsuffers_).\n\nFollow Saintsuffres updates at:  \n[https://thehug.xyz/artists/Saintsuffers](https://thehug.xyz/artists/Saintsuffers)\n\n<Image\n  src=\"https://ipfs.io/ipfs/QmPPAxTRWuj9gz4M7oZimAuNU5tYysfyFgx4XwKy9h2MdD/collective-update-end-of-january-2024-8.jpeg\"\n  width=\"3840\"\n  height=\"2560\"\n  alt=\"Image\"\n  sizes=\"100vw\"\n/>\n\n---\n\n### DUKUN ABNxRMAL\n\n\"DUKUN ABNxRMAL\" by [@Mismar___](https://x.com/Mismar___).\n\nFollow Mismas updates at:  \n[https://thehug.xyz/artists/mismar](https://thehug.xyz/artists/mismar)\n\n<VideoSource xxx=\"https://ipfs.io/ipfs/QmPPAxTRWuj9gz4M7oZimAuNU5tYysfyFgx4XwKy9h2MdD/collective-update-end-of-january-2024-9.mp4\" />\n\n---\n\n### TENSION HEADACHE\n\n\"TENSION HEADACHE\" by [@tuhanzilla](https://x.com/tuhanzilla).\n\nFollow Feransis updates at:  \n[https://thehug.xyz/artists/feransis](https://thehug.xyz/artists/feransis)\n\n<Image\n  src=\"https://ipfs.io/ipfs/QmPPAxTRWuj9gz4M7oZimAuNU5tYysfyFgx4XwKy9h2MdD/collective-update-end-of-january-2024-10.jpeg\"\n  width=\"3840\"\n  height=\"2560\"\n  alt=\"Image\"\n  sizes=\"100vw\"\n/>\n\n---",
-          "code": "var Component=(()=>{var p=Object.create;var s=Object.defineProperty;var u=Object.getOwnPropertyDescriptor;var g=Object.getOwnPropertyNames;var f=Object.getPrototypeOf,y=Object.prototype.hasOwnProperty;var m=(i,e)=>()=>(e||i((e={exports:{}}).exports,e),e.exports),x=(i,e)=>{for(var t in e)s(i,t,{get:e[t],enumerable:!0})},r=(i,e,t,a)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let h of g(e))!y.call(i,h)&&h!==t&&s(i,h,{get:()=>e[h],enumerable:!(a=u(e,h))||a.enumerable});return i};var b=(i,e,t)=>(t=i!=null?p(f(i)):{},r(e||!i||!i.__esModule?s(t,\"default\",{value:i,enumerable:!0}):t,i)),I=i=>r(s({},\"__esModule\",{value:!0}),i);var c=m((M,d)=>{d.exports=_jsx_runtime});var z={};x(z,{default:()=>j,frontmatter:()=>w});var n=b(c()),w={title:\"Collectives Update: End Of January 2024\",description:\"Good Morning Legends! Our End Of January 2024 highlight is here! Feel free to check all on this article.\",image:\"../../public/blogs/collective-update-end-of-january-2024.png\",publishedAt:\"2024-01-28\",updatedAt:\"2024-01-28\",author:\"zortan\",isPublished:!0,tags:[\"collective update\"]};function o(i){let e=Object.assign({h2:\"h2\",a:\"a\",span:\"span\",p:\"p\",br:\"br\",h3:\"h3\",hr:\"hr\"},i.components),{Image:t,VideoSource:a}=e;return t||l(\"Image\",!0),a||l(\"VideoSource\",!0),(0,n.jsxs)(n.Fragment,{children:[(0,n.jsxs)(e.h2,{id:\"february-2024\",children:[\"February 2024\",(0,n.jsx)(e.a,{\"aria-hidden\":\"true\",tabIndex:\"-1\",href:\"#february-2024\",children:(0,n.jsx)(e.span,{className:\"icon icon-link\"})})]}),`\n`,(0,n.jsxs)(e.p,{children:[\"Good Morning Legends! \\u{1F94A}\",(0,n.jsx)(e.br,{}),`\n`,\"Our End of January highlight is here!\",(0,n.jsx)(e.br,{}),`\n`,\"Many interesting pieces have been released!\"]}),`\n`,(0,n.jsx)(t,{src:\"https://ipfs.io/ipfs/QmPPAxTRWuj9gz4M7oZimAuNU5tYysfyFgx4XwKy9h2MdD/collective-update-end-of-january-2024-0.jpeg\",width:\"3840\",height:\"2560\",alt:\"Image\",sizes:\"100vw\"}),`\n`,(0,n.jsxs)(e.h3,{id:\"mind-hanging\",children:[\"MIND HANGING\",(0,n.jsx)(e.a,{\"aria-hidden\":\"true\",tabIndex:\"-1\",href:\"#mind-hanging\",children:(0,n.jsx)(e.span,{className:\"icon icon-link\"})})]}),`\n`,(0,n.jsxs)(e.p,{children:['\"MIND HANGING\" by ',(0,n.jsx)(e.a,{href:\"https://x.com/beruangbesars\",children:\"@beruangbesars\"}),\".\"]}),`\n`,(0,n.jsxs)(e.p,{children:[\"Follow Bearbigs updates at:\",(0,n.jsx)(e.br,{}),`\n`,(0,n.jsx)(e.a,{href:\"https://thehug.xyz/artists/bearbigs\",children:\"https://thehug.xyz/artists/bearbigs\"})]}),`\n`,(0,n.jsx)(t,{src:\"https://ipfs.io/ipfs/QmPPAxTRWuj9gz4M7oZimAuNU5tYysfyFgx4XwKy9h2MdD/collective-update-end-of-january-2024-1.gif\",width:\"3840\",height:\"2560\",alt:\"Image\",sizes:\"100vw\"}),`\n`,(0,n.jsx)(e.hr,{}),`\n`,(0,n.jsxs)(e.h3,{id:\"veiled-echoes\",children:[\"VEILED ECHOES\",(0,n.jsx)(e.a,{\"aria-hidden\":\"true\",tabIndex:\"-1\",href:\"#veiled-echoes\",children:(0,n.jsx)(e.span,{className:\"icon icon-link\"})})]}),`\n`,(0,n.jsxs)(e.p,{children:['\"VEILED ECHOES\" by ',(0,n.jsx)(e.a,{href:\"https://x.com/BlackentheRed\",children:\"@BlackentheRed\"}),\".\"]}),`\n`,(0,n.jsxs)(e.p,{children:[\"Follow BlackentheRed updates at:\",(0,n.jsx)(e.br,{}),`\n`,(0,n.jsx)(e.a,{href:\"https://thehug.xyz/artists/blackenthered\",children:\"https://thehug.xyz/artists/blackenthered\"})]}),`\n`,(0,n.jsx)(t,{src:\"https://ipfs.io/ipfs/QmPPAxTRWuj9gz4M7oZimAuNU5tYysfyFgx4XwKy9h2MdD/collective-update-end-of-january-2024-2.jpeg\",width:\"3840\",height:\"2560\",alt:\"Image\",sizes:\"100vw\"}),`\n`,(0,n.jsx)(e.hr,{}),`\n`,(0,n.jsxs)(e.h3,{id:\"light-hope\",children:[\"LIGHT HOPE\",(0,n.jsx)(e.a,{\"aria-hidden\":\"true\",tabIndex:\"-1\",href:\"#light-hope\",children:(0,n.jsx)(e.span,{className:\"icon icon-link\"})})]}),`\n`,(0,n.jsxs)(e.p,{children:['\"LIGHT HOPE\" by ',(0,n.jsx)(e.a,{href:\"https://x.com/Zandista_\",children:\"@Zandista_\"}),\".\"]}),`\n`,(0,n.jsxs)(e.p,{children:[\"Follow Zandista updates at:\",(0,n.jsx)(e.br,{}),`\n`,(0,n.jsx)(e.a,{href:\"https://thehug.xyz/artists/zandista_\",children:\"https://thehug.xyz/artists/zandista_\"})]}),`\n`,(0,n.jsx)(t,{src:\"https://ipfs.io/ipfs/QmPPAxTRWuj9gz4M7oZimAuNU5tYysfyFgx4XwKy9h2MdD/collective-update-end-of-january-2024-3.jpeg\",width:\"3840\",height:\"2560\",alt:\"Image\",sizes:\"100vw\"}),`\n`,(0,n.jsx)(e.hr,{}),`\n`,(0,n.jsxs)(e.h3,{id:\"heart-of-solitude\",children:[\"HEART OF SOLITUDE\",(0,n.jsx)(e.a,{\"aria-hidden\":\"true\",tabIndex:\"-1\",href:\"#heart-of-solitude\",children:(0,n.jsx)(e.span,{className:\"icon icon-link\"})})]}),`\n`,(0,n.jsxs)(e.p,{children:['\"HEART OF SOLITUDE\" by ',(0,n.jsx)(e.a,{href:\"https://x.com/VinceHelen\",children:\"@VinceHelen\"}),\".\"]}),`\n`,(0,n.jsxs)(e.p,{children:[\"Follow VinceHelen updates at:\",(0,n.jsx)(e.br,{}),`\n`,(0,n.jsx)(e.a,{href:\"https://thehug.xyz/artists/vincehelen\",children:\"https://thehug.xyz/artists/vincehelen\"})]}),`\n`,(0,n.jsx)(t,{src:\"https://ipfs.io/ipfs/QmPPAxTRWuj9gz4M7oZimAuNU5tYysfyFgx4XwKy9h2MdD/collective-update-end-of-january-2024-4.jpeg\",width:\"3840\",height:\"2560\",alt:\"Image\",sizes:\"100vw\"}),`\n`,(0,n.jsx)(e.hr,{}),`\n`,(0,n.jsxs)(e.h3,{id:\"kawaii-chinatown\",children:[\"KAWAII CHINATOWN\",(0,n.jsx)(e.a,{\"aria-hidden\":\"true\",tabIndex:\"-1\",href:\"#kawaii-chinatown\",children:(0,n.jsx)(e.span,{className:\"icon icon-link\"})})]}),`\n`,(0,n.jsxs)(e.p,{children:['\"KAWAII CHINATOWN\" by ',(0,n.jsx)(e.a,{href:\"https://x.com/ponpop_cynn\",children:\"@ponpop_cynn\"}),\".\"]}),`\n`,(0,n.jsxs)(e.p,{children:[\"Follow Ponpop updates at:\",(0,n.jsx)(e.br,{}),`\n`,(0,n.jsx)(e.a,{href:\"https://thehug.xyz/artists/ponpop\",children:\"https://thehug.xyz/artists/ponpop\"})]}),`\n`,(0,n.jsx)(t,{src:\"https://ipfs.io/ipfs/QmPPAxTRWuj9gz4M7oZimAuNU5tYysfyFgx4XwKy9h2MdD/collective-update-end-of-january-2024-5.jpeg\",width:\"3840\",height:\"2560\",alt:\"Image\",sizes:\"100vw\"}),`\n`,(0,n.jsx)(e.hr,{}),`\n`,(0,n.jsxs)(e.h3,{id:\"neighbourhood-4\",children:[\"NEIGHBOURHOOD #4\",(0,n.jsx)(e.a,{\"aria-hidden\":\"true\",tabIndex:\"-1\",href:\"#neighbourhood-4\",children:(0,n.jsx)(e.span,{className:\"icon icon-link\"})})]}),`\n`,(0,n.jsxs)(e.p,{children:['\"NEIGHBOURHOOD #4\" (Series) by ',(0,n.jsx)(e.a,{href:\"https://x.com/hadilocoboy\",children:\"@hadilocoboy\"}),\".\"]}),`\n`,(0,n.jsxs)(e.p,{children:[\"Follow Hadiloco updates at:\",(0,n.jsx)(e.br,{}),`\n`,(0,n.jsx)(e.a,{href:\"https://thehug.xyz/artists/hadilocoboy\",children:\"https://thehug.xyz/artists/hadilocoboy\"})]}),`\n`,(0,n.jsx)(t,{src:\"https://ipfs.io/ipfs/QmPPAxTRWuj9gz4M7oZimAuNU5tYysfyFgx4XwKy9h2MdD/collective-update-end-of-january-2024-6.jpeg\",width:\"3840\",height:\"2560\",alt:\"Image\",sizes:\"100vw\"}),`\n`,(0,n.jsx)(e.hr,{}),`\n`,(0,n.jsxs)(e.h3,{id:\"king-simbolyc\",children:[\"KING SIMBOLYC\",(0,n.jsx)(e.a,{\"aria-hidden\":\"true\",tabIndex:\"-1\",href:\"#king-simbolyc\",children:(0,n.jsx)(e.span,{className:\"icon icon-link\"})})]}),`\n`,(0,n.jsx)(e.p,{children:'\"KING SIMBOLYC\" by [@jajangstd]'}),`\n`,(0,n.jsxs)(e.p,{children:[\"Follow Jajangstd updates at:\",(0,n.jsx)(e.br,{}),`\n`,(0,n.jsx)(e.a,{href:\"https://thehug.xyz/artists/jajangstd\",children:\"https://thehug.xyz/artists/jajangstd\"})]}),`\n`,(0,n.jsx)(t,{src:\"https://ipfs.io/ipfs/QmPPAxTRWuj9gz4M7oZimAuNU5tYysfyFgx4XwKy9h2MdD/collective-update-end-of-january-2024-7.jpeg\",width:\"3840\",height:\"2560\",alt:\"Image\",sizes:\"100vw\"}),`\n`,(0,n.jsx)(e.hr,{}),`\n`,(0,n.jsxs)(e.h3,{id:\"black-dimension\",children:[\"BLACK DIMENSION\",(0,n.jsx)(e.a,{\"aria-hidden\":\"true\",tabIndex:\"-1\",href:\"#black-dimension\",children:(0,n.jsx)(e.span,{className:\"icon icon-link\"})})]}),`\n`,(0,n.jsxs)(e.p,{children:['\"BLACK DIMENSION\" by ',(0,n.jsx)(e.a,{href:\"https://x.com/Saintsuffers_\",children:\"@Saintsuffers_\"}),\".\"]}),`\n`,(0,n.jsxs)(e.p,{children:[\"Follow Saintsuffres updates at:\",(0,n.jsx)(e.br,{}),`\n`,(0,n.jsx)(e.a,{href:\"https://thehug.xyz/artists/Saintsuffers\",children:\"https://thehug.xyz/artists/Saintsuffers\"})]}),`\n`,(0,n.jsx)(t,{src:\"https://ipfs.io/ipfs/QmPPAxTRWuj9gz4M7oZimAuNU5tYysfyFgx4XwKy9h2MdD/collective-update-end-of-january-2024-8.jpeg\",width:\"3840\",height:\"2560\",alt:\"Image\",sizes:\"100vw\"}),`\n`,(0,n.jsx)(e.hr,{}),`\n`,(0,n.jsxs)(e.h3,{id:\"dukun-abnxrmal\",children:[\"DUKUN ABNxRMAL\",(0,n.jsx)(e.a,{\"aria-hidden\":\"true\",tabIndex:\"-1\",href:\"#dukun-abnxrmal\",children:(0,n.jsx)(e.span,{className:\"icon icon-link\"})})]}),`\n`,(0,n.jsxs)(e.p,{children:['\"DUKUN ABNxRMAL\" by ',(0,n.jsx)(e.a,{href:\"https://x.com/Mismar___\",children:\"@Mismar___\"}),\".\"]}),`\n`,(0,n.jsxs)(e.p,{children:[\"Follow Mismas updates at:\",(0,n.jsx)(e.br,{}),`\n`,(0,n.jsx)(e.a,{href:\"https://thehug.xyz/artists/mismar\",children:\"https://thehug.xyz/artists/mismar\"})]}),`\n`,(0,n.jsx)(a,{xxx:\"https://ipfs.io/ipfs/QmPPAxTRWuj9gz4M7oZimAuNU5tYysfyFgx4XwKy9h2MdD/collective-update-end-of-january-2024-9.mp4\"}),`\n`,(0,n.jsx)(e.hr,{}),`\n`,(0,n.jsxs)(e.h3,{id:\"tension-headache\",children:[\"TENSION HEADACHE\",(0,n.jsx)(e.a,{\"aria-hidden\":\"true\",tabIndex:\"-1\",href:\"#tension-headache\",children:(0,n.jsx)(e.span,{className:\"icon icon-link\"})})]}),`\n`,(0,n.jsxs)(e.p,{children:['\"TENSION HEADACHE\" by ',(0,n.jsx)(e.a,{href:\"https://x.com/tuhanzilla\",children:\"@tuhanzilla\"}),\".\"]}),`\n`,(0,n.jsxs)(e.p,{children:[\"Follow Feransis updates at:\",(0,n.jsx)(e.br,{}),`\n`,(0,n.jsx)(e.a,{href:\"https://thehug.xyz/artists/feransis\",children:\"https://thehug.xyz/artists/feransis\"})]}),`\n`,(0,n.jsx)(t,{src:\"https://ipfs.io/ipfs/QmPPAxTRWuj9gz4M7oZimAuNU5tYysfyFgx4XwKy9h2MdD/collective-update-end-of-january-2024-10.jpeg\",width:\"3840\",height:\"2560\",alt:\"Image\",sizes:\"100vw\"}),`\n`,(0,n.jsx)(e.hr,{})]})}function N(i={}){let{wrapper:e}=i.components||{};return e?(0,n.jsx)(e,Object.assign({},i,{children:(0,n.jsx)(o,i)})):o(i)}var j=N;function l(i,e){throw new Error(\"Expected \"+(e?\"component\":\"object\")+\" `\"+i+\"` to be defined: you likely forgot to import, pass, or provide it.\")}return I(z);})();\n;return Component;"
-        },
-        "_id": "end-of-january-2024-collective-update/index.mdx",
-        "_raw": {
-          "sourceFilePath": "end-of-january-2024-collective-update/index.mdx",
-          "sourceFileName": "index.mdx",
-          "sourceFileDir": "end-of-january-2024-collective-update",
-          "contentType": "mdx",
-          "flattenedPath": "end-of-january-2024-collective-update"
-        },
-        "type": "Blog",
-        "url": "/blogs/end-of-january-2024-collective-update",
-        "readingTime": {
-          "text": "2 min read",
-          "minutes": 1.13,
-          "time": 67800,
-          "words": 226
-        },
-        "toc": [
-          {
-            "level": "two",
-            "text": "February 2024",
-            "slug": "february-2024"
-          },
-          {
-            "level": "three",
-            "text": "MIND HANGING",
-            "slug": "mind-hanging"
-          },
-          {
-            "level": "three",
-            "text": "VEILED ECHOES",
-            "slug": "veiled-echoes"
-          },
-          {
-            "level": "three",
-            "text": "LIGHT HOPE",
-            "slug": "light-hope"
-          },
-          {
-            "level": "three",
-            "text": "HEART OF SOLITUDE",
-            "slug": "heart-of-solitude"
-          },
-          {
-            "level": "three",
-            "text": "KAWAII CHINATOWN",
-            "slug": "kawaii-chinatown"
-          },
-          {
-            "level": "three",
-            "text": "NEIGHBOURHOOD #4",
-            "slug": "neighbourhood-4"
-          },
-          {
-            "level": "three",
-            "text": "KING SIMBOLYC",
-            "slug": "king-simbolyc"
-          },
-          {
-            "level": "three",
-            "text": "BLACK DIMENSION",
-            "slug": "black-dimension"
-          },
-          {
-            "level": "three",
-            "text": "DUKUN ABNxRMAL",
-            "slug": "dukun-abnxrmal"
-          },
-          {
-            "level": "three",
-            "text": "TENSION HEADACHE",
-            "slug": "tension-headache"
-          }
-        ]
-      },
-      "documentHash": "1766324702318",
-      "hasWarnings": false,
-      "documentTypeName": "Blog"
-    },
     "end-of-march-is-here/index.mdx": {
       "document": {
         "title": "End of March is Here!",
@@ -1718,6 +1616,108 @@
             "level": "three",
             "text": "Parasite",
             "slug": "parasite"
+          }
+        ]
+      },
+      "documentHash": "1766324702318",
+      "hasWarnings": false,
+      "documentTypeName": "Blog"
+    },
+    "end-of-january-2024-collective-update/index.mdx": {
+      "document": {
+        "title": "Collectives Update: End Of January 2024",
+        "publishedAt": "2024-01-28T00:00:00.000Z",
+        "updatedAt": "2024-01-28T00:00:00.000Z",
+        "description": "Good Morning Legends! Our End Of January 2024 highlight is here! Feel free to check all on this article.",
+        "image": {
+          "filePath": "../public/blogs/collective-update-end-of-january-2024.png",
+          "relativeFilePath": "../../public/blogs/collective-update-end-of-january-2024.png",
+          "format": "png",
+          "height": 1333,
+          "width": 2000,
+          "aspectRatio": 1.5003750937734435,
+          "blurhashDataUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAMAAADz0U65AAAAM1BMVEUqKipwcHCMjIxCQkK9vb12dnZ+fn6np6dhYWEzMzNoaGhOTk6ampqWlpazs7PGxsZVVVVN1qtAAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAO0lEQVR4nAXBiQHAIAgEwVWBA59o/9Vmhqfb00yEedHux5dUhh06VS8kkhrT9yZh2uliQcrDGKtcrfkPP+oBptGvauQAAAAASUVORK5CYII="
+        },
+        "isPublished": true,
+        "author": "zortan",
+        "tags": [
+          "collective update"
+        ],
+        "body": {
+          "raw": "\n## February 2024\n\nGood Morning Legends! 🥊  \nOur End of January highlight is here!  \nMany interesting pieces have been released!\n\n<Image\n  src=\"https://ipfs.io/ipfs/QmPPAxTRWuj9gz4M7oZimAuNU5tYysfyFgx4XwKy9h2MdD/collective-update-end-of-january-2024-0.jpeg\"\n  width=\"3840\"\n  height=\"2560\"\n  alt=\"Image\"\n  sizes=\"100vw\"\n/>\n\n### MIND HANGING\n\n\"MIND HANGING\" by [@beruangbesars](https://x.com/beruangbesars). \n\nFollow Bearbigs updates at:  \n[https://thehug.xyz/artists/bearbigs](https://thehug.xyz/artists/bearbigs)\n\n<Image\n  src=\"https://ipfs.io/ipfs/QmPPAxTRWuj9gz4M7oZimAuNU5tYysfyFgx4XwKy9h2MdD/collective-update-end-of-january-2024-1.gif\"\n  width=\"3840\"\n  height=\"2560\"\n  alt=\"Image\"\n  sizes=\"100vw\"\n/>\n\n---\n\n### VEILED ECHOES\n\n\"VEILED ECHOES\" by [@BlackentheRed](https://x.com/BlackentheRed).\n\nFollow BlackentheRed updates at:  \n[https://thehug.xyz/artists/blackenthered](https://thehug.xyz/artists/blackenthered)\n\n<Image\n  src=\"https://ipfs.io/ipfs/QmPPAxTRWuj9gz4M7oZimAuNU5tYysfyFgx4XwKy9h2MdD/collective-update-end-of-january-2024-2.jpeg\"\n  width=\"3840\"\n  height=\"2560\"\n  alt=\"Image\"\n  sizes=\"100vw\"\n/>\n\n---\n\n### LIGHT HOPE\n\n\"LIGHT HOPE\" by [@Zandista_](https://x.com/Zandista_).\n\nFollow Zandista updates at:  \n[https://thehug.xyz/artists/zandista_](https://thehug.xyz/artists/zandista_)\n\n<Image\n  src=\"https://ipfs.io/ipfs/QmPPAxTRWuj9gz4M7oZimAuNU5tYysfyFgx4XwKy9h2MdD/collective-update-end-of-january-2024-3.jpeg\"\n  width=\"3840\"\n  height=\"2560\"\n  alt=\"Image\"\n  sizes=\"100vw\"\n/>\n\n---\n\n### HEART OF SOLITUDE\n\n\"HEART OF SOLITUDE\" by [@VinceHelen](https://x.com/VinceHelen).\n\nFollow VinceHelen updates at:  \n[https://thehug.xyz/artists/vincehelen](https://thehug.xyz/artists/vincehelen)\n\n<Image\n  src=\"https://ipfs.io/ipfs/QmPPAxTRWuj9gz4M7oZimAuNU5tYysfyFgx4XwKy9h2MdD/collective-update-end-of-january-2024-4.jpeg\"\n  width=\"3840\"\n  height=\"2560\"\n  alt=\"Image\"\n  sizes=\"100vw\"\n/>\n\n---\n\n### KAWAII CHINATOWN\n\n\"KAWAII CHINATOWN\" by [@ponpop_cynn](https://x.com/ponpop_cynn).\n\nFollow Ponpop updates at:  \n[https://thehug.xyz/artists/ponpop](https://thehug.xyz/artists/ponpop)\n\n<Image\n  src=\"https://ipfs.io/ipfs/QmPPAxTRWuj9gz4M7oZimAuNU5tYysfyFgx4XwKy9h2MdD/collective-update-end-of-january-2024-5.jpeg\"\n  width=\"3840\"\n  height=\"2560\"\n  alt=\"Image\"\n  sizes=\"100vw\"\n/>\n\n---\n\n### NEIGHBOURHOOD #4\n\n\"NEIGHBOURHOOD #4\" (Series) by [@hadilocoboy](https://x.com/hadilocoboy).\n\nFollow Hadiloco updates at:  \n[https://thehug.xyz/artists/hadilocoboy](https://thehug.xyz/artists/hadilocoboy)\n\n<Image\n  src=\"https://ipfs.io/ipfs/QmPPAxTRWuj9gz4M7oZimAuNU5tYysfyFgx4XwKy9h2MdD/collective-update-end-of-january-2024-6.jpeg\"\n  width=\"3840\"\n  height=\"2560\"\n  alt=\"Image\"\n  sizes=\"100vw\"\n/>\n\n---\n\n### KING SIMBOLYC\n\n\"KING SIMBOLYC\" by [@jajangstd]\n\nFollow Jajangstd updates at:  \n[https://thehug.xyz/artists/jajangstd](https://thehug.xyz/artists/jajangstd)\n\n<Image\n  src=\"https://ipfs.io/ipfs/QmPPAxTRWuj9gz4M7oZimAuNU5tYysfyFgx4XwKy9h2MdD/collective-update-end-of-january-2024-7.jpeg\"\n  width=\"3840\"\n  height=\"2560\"\n  alt=\"Image\"\n  sizes=\"100vw\"\n/>\n\n---\n\n### BLACK DIMENSION\n\n\"BLACK DIMENSION\" by [@Saintsuffers_](https://x.com/Saintsuffers_).\n\nFollow Saintsuffres updates at:  \n[https://thehug.xyz/artists/Saintsuffers](https://thehug.xyz/artists/Saintsuffers)\n\n<Image\n  src=\"https://ipfs.io/ipfs/QmPPAxTRWuj9gz4M7oZimAuNU5tYysfyFgx4XwKy9h2MdD/collective-update-end-of-january-2024-8.jpeg\"\n  width=\"3840\"\n  height=\"2560\"\n  alt=\"Image\"\n  sizes=\"100vw\"\n/>\n\n---\n\n### DUKUN ABNxRMAL\n\n\"DUKUN ABNxRMAL\" by [@Mismar___](https://x.com/Mismar___).\n\nFollow Mismas updates at:  \n[https://thehug.xyz/artists/mismar](https://thehug.xyz/artists/mismar)\n\n<VideoSource xxx=\"https://ipfs.io/ipfs/QmPPAxTRWuj9gz4M7oZimAuNU5tYysfyFgx4XwKy9h2MdD/collective-update-end-of-january-2024-9.mp4\" />\n\n---\n\n### TENSION HEADACHE\n\n\"TENSION HEADACHE\" by [@tuhanzilla](https://x.com/tuhanzilla).\n\nFollow Feransis updates at:  \n[https://thehug.xyz/artists/feransis](https://thehug.xyz/artists/feransis)\n\n<Image\n  src=\"https://ipfs.io/ipfs/QmPPAxTRWuj9gz4M7oZimAuNU5tYysfyFgx4XwKy9h2MdD/collective-update-end-of-january-2024-10.jpeg\"\n  width=\"3840\"\n  height=\"2560\"\n  alt=\"Image\"\n  sizes=\"100vw\"\n/>\n\n---",
+          "code": "var Component=(()=>{var p=Object.create;var s=Object.defineProperty;var u=Object.getOwnPropertyDescriptor;var g=Object.getOwnPropertyNames;var f=Object.getPrototypeOf,y=Object.prototype.hasOwnProperty;var m=(i,e)=>()=>(e||i((e={exports:{}}).exports,e),e.exports),x=(i,e)=>{for(var t in e)s(i,t,{get:e[t],enumerable:!0})},r=(i,e,t,a)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let h of g(e))!y.call(i,h)&&h!==t&&s(i,h,{get:()=>e[h],enumerable:!(a=u(e,h))||a.enumerable});return i};var b=(i,e,t)=>(t=i!=null?p(f(i)):{},r(e||!i||!i.__esModule?s(t,\"default\",{value:i,enumerable:!0}):t,i)),I=i=>r(s({},\"__esModule\",{value:!0}),i);var c=m((M,d)=>{d.exports=_jsx_runtime});var z={};x(z,{default:()=>j,frontmatter:()=>w});var n=b(c()),w={title:\"Collectives Update: End Of January 2024\",description:\"Good Morning Legends! Our End Of January 2024 highlight is here! Feel free to check all on this article.\",image:\"../../public/blogs/collective-update-end-of-january-2024.png\",publishedAt:\"2024-01-28\",updatedAt:\"2024-01-28\",author:\"zortan\",isPublished:!0,tags:[\"collective update\"]};function o(i){let e=Object.assign({h2:\"h2\",a:\"a\",span:\"span\",p:\"p\",br:\"br\",h3:\"h3\",hr:\"hr\"},i.components),{Image:t,VideoSource:a}=e;return t||l(\"Image\",!0),a||l(\"VideoSource\",!0),(0,n.jsxs)(n.Fragment,{children:[(0,n.jsxs)(e.h2,{id:\"february-2024\",children:[\"February 2024\",(0,n.jsx)(e.a,{\"aria-hidden\":\"true\",tabIndex:\"-1\",href:\"#february-2024\",children:(0,n.jsx)(e.span,{className:\"icon icon-link\"})})]}),`\n`,(0,n.jsxs)(e.p,{children:[\"Good Morning Legends! \\u{1F94A}\",(0,n.jsx)(e.br,{}),`\n`,\"Our End of January highlight is here!\",(0,n.jsx)(e.br,{}),`\n`,\"Many interesting pieces have been released!\"]}),`\n`,(0,n.jsx)(t,{src:\"https://ipfs.io/ipfs/QmPPAxTRWuj9gz4M7oZimAuNU5tYysfyFgx4XwKy9h2MdD/collective-update-end-of-january-2024-0.jpeg\",width:\"3840\",height:\"2560\",alt:\"Image\",sizes:\"100vw\"}),`\n`,(0,n.jsxs)(e.h3,{id:\"mind-hanging\",children:[\"MIND HANGING\",(0,n.jsx)(e.a,{\"aria-hidden\":\"true\",tabIndex:\"-1\",href:\"#mind-hanging\",children:(0,n.jsx)(e.span,{className:\"icon icon-link\"})})]}),`\n`,(0,n.jsxs)(e.p,{children:['\"MIND HANGING\" by ',(0,n.jsx)(e.a,{href:\"https://x.com/beruangbesars\",children:\"@beruangbesars\"}),\".\"]}),`\n`,(0,n.jsxs)(e.p,{children:[\"Follow Bearbigs updates at:\",(0,n.jsx)(e.br,{}),`\n`,(0,n.jsx)(e.a,{href:\"https://thehug.xyz/artists/bearbigs\",children:\"https://thehug.xyz/artists/bearbigs\"})]}),`\n`,(0,n.jsx)(t,{src:\"https://ipfs.io/ipfs/QmPPAxTRWuj9gz4M7oZimAuNU5tYysfyFgx4XwKy9h2MdD/collective-update-end-of-january-2024-1.gif\",width:\"3840\",height:\"2560\",alt:\"Image\",sizes:\"100vw\"}),`\n`,(0,n.jsx)(e.hr,{}),`\n`,(0,n.jsxs)(e.h3,{id:\"veiled-echoes\",children:[\"VEILED ECHOES\",(0,n.jsx)(e.a,{\"aria-hidden\":\"true\",tabIndex:\"-1\",href:\"#veiled-echoes\",children:(0,n.jsx)(e.span,{className:\"icon icon-link\"})})]}),`\n`,(0,n.jsxs)(e.p,{children:['\"VEILED ECHOES\" by ',(0,n.jsx)(e.a,{href:\"https://x.com/BlackentheRed\",children:\"@BlackentheRed\"}),\".\"]}),`\n`,(0,n.jsxs)(e.p,{children:[\"Follow BlackentheRed updates at:\",(0,n.jsx)(e.br,{}),`\n`,(0,n.jsx)(e.a,{href:\"https://thehug.xyz/artists/blackenthered\",children:\"https://thehug.xyz/artists/blackenthered\"})]}),`\n`,(0,n.jsx)(t,{src:\"https://ipfs.io/ipfs/QmPPAxTRWuj9gz4M7oZimAuNU5tYysfyFgx4XwKy9h2MdD/collective-update-end-of-january-2024-2.jpeg\",width:\"3840\",height:\"2560\",alt:\"Image\",sizes:\"100vw\"}),`\n`,(0,n.jsx)(e.hr,{}),`\n`,(0,n.jsxs)(e.h3,{id:\"light-hope\",children:[\"LIGHT HOPE\",(0,n.jsx)(e.a,{\"aria-hidden\":\"true\",tabIndex:\"-1\",href:\"#light-hope\",children:(0,n.jsx)(e.span,{className:\"icon icon-link\"})})]}),`\n`,(0,n.jsxs)(e.p,{children:['\"LIGHT HOPE\" by ',(0,n.jsx)(e.a,{href:\"https://x.com/Zandista_\",children:\"@Zandista_\"}),\".\"]}),`\n`,(0,n.jsxs)(e.p,{children:[\"Follow Zandista updates at:\",(0,n.jsx)(e.br,{}),`\n`,(0,n.jsx)(e.a,{href:\"https://thehug.xyz/artists/zandista_\",children:\"https://thehug.xyz/artists/zandista_\"})]}),`\n`,(0,n.jsx)(t,{src:\"https://ipfs.io/ipfs/QmPPAxTRWuj9gz4M7oZimAuNU5tYysfyFgx4XwKy9h2MdD/collective-update-end-of-january-2024-3.jpeg\",width:\"3840\",height:\"2560\",alt:\"Image\",sizes:\"100vw\"}),`\n`,(0,n.jsx)(e.hr,{}),`\n`,(0,n.jsxs)(e.h3,{id:\"heart-of-solitude\",children:[\"HEART OF SOLITUDE\",(0,n.jsx)(e.a,{\"aria-hidden\":\"true\",tabIndex:\"-1\",href:\"#heart-of-solitude\",children:(0,n.jsx)(e.span,{className:\"icon icon-link\"})})]}),`\n`,(0,n.jsxs)(e.p,{children:['\"HEART OF SOLITUDE\" by ',(0,n.jsx)(e.a,{href:\"https://x.com/VinceHelen\",children:\"@VinceHelen\"}),\".\"]}),`\n`,(0,n.jsxs)(e.p,{children:[\"Follow VinceHelen updates at:\",(0,n.jsx)(e.br,{}),`\n`,(0,n.jsx)(e.a,{href:\"https://thehug.xyz/artists/vincehelen\",children:\"https://thehug.xyz/artists/vincehelen\"})]}),`\n`,(0,n.jsx)(t,{src:\"https://ipfs.io/ipfs/QmPPAxTRWuj9gz4M7oZimAuNU5tYysfyFgx4XwKy9h2MdD/collective-update-end-of-january-2024-4.jpeg\",width:\"3840\",height:\"2560\",alt:\"Image\",sizes:\"100vw\"}),`\n`,(0,n.jsx)(e.hr,{}),`\n`,(0,n.jsxs)(e.h3,{id:\"kawaii-chinatown\",children:[\"KAWAII CHINATOWN\",(0,n.jsx)(e.a,{\"aria-hidden\":\"true\",tabIndex:\"-1\",href:\"#kawaii-chinatown\",children:(0,n.jsx)(e.span,{className:\"icon icon-link\"})})]}),`\n`,(0,n.jsxs)(e.p,{children:['\"KAWAII CHINATOWN\" by ',(0,n.jsx)(e.a,{href:\"https://x.com/ponpop_cynn\",children:\"@ponpop_cynn\"}),\".\"]}),`\n`,(0,n.jsxs)(e.p,{children:[\"Follow Ponpop updates at:\",(0,n.jsx)(e.br,{}),`\n`,(0,n.jsx)(e.a,{href:\"https://thehug.xyz/artists/ponpop\",children:\"https://thehug.xyz/artists/ponpop\"})]}),`\n`,(0,n.jsx)(t,{src:\"https://ipfs.io/ipfs/QmPPAxTRWuj9gz4M7oZimAuNU5tYysfyFgx4XwKy9h2MdD/collective-update-end-of-january-2024-5.jpeg\",width:\"3840\",height:\"2560\",alt:\"Image\",sizes:\"100vw\"}),`\n`,(0,n.jsx)(e.hr,{}),`\n`,(0,n.jsxs)(e.h3,{id:\"neighbourhood-4\",children:[\"NEIGHBOURHOOD #4\",(0,n.jsx)(e.a,{\"aria-hidden\":\"true\",tabIndex:\"-1\",href:\"#neighbourhood-4\",children:(0,n.jsx)(e.span,{className:\"icon icon-link\"})})]}),`\n`,(0,n.jsxs)(e.p,{children:['\"NEIGHBOURHOOD #4\" (Series) by ',(0,n.jsx)(e.a,{href:\"https://x.com/hadilocoboy\",children:\"@hadilocoboy\"}),\".\"]}),`\n`,(0,n.jsxs)(e.p,{children:[\"Follow Hadiloco updates at:\",(0,n.jsx)(e.br,{}),`\n`,(0,n.jsx)(e.a,{href:\"https://thehug.xyz/artists/hadilocoboy\",children:\"https://thehug.xyz/artists/hadilocoboy\"})]}),`\n`,(0,n.jsx)(t,{src:\"https://ipfs.io/ipfs/QmPPAxTRWuj9gz4M7oZimAuNU5tYysfyFgx4XwKy9h2MdD/collective-update-end-of-january-2024-6.jpeg\",width:\"3840\",height:\"2560\",alt:\"Image\",sizes:\"100vw\"}),`\n`,(0,n.jsx)(e.hr,{}),`\n`,(0,n.jsxs)(e.h3,{id:\"king-simbolyc\",children:[\"KING SIMBOLYC\",(0,n.jsx)(e.a,{\"aria-hidden\":\"true\",tabIndex:\"-1\",href:\"#king-simbolyc\",children:(0,n.jsx)(e.span,{className:\"icon icon-link\"})})]}),`\n`,(0,n.jsx)(e.p,{children:'\"KING SIMBOLYC\" by [@jajangstd]'}),`\n`,(0,n.jsxs)(e.p,{children:[\"Follow Jajangstd updates at:\",(0,n.jsx)(e.br,{}),`\n`,(0,n.jsx)(e.a,{href:\"https://thehug.xyz/artists/jajangstd\",children:\"https://thehug.xyz/artists/jajangstd\"})]}),`\n`,(0,n.jsx)(t,{src:\"https://ipfs.io/ipfs/QmPPAxTRWuj9gz4M7oZimAuNU5tYysfyFgx4XwKy9h2MdD/collective-update-end-of-january-2024-7.jpeg\",width:\"3840\",height:\"2560\",alt:\"Image\",sizes:\"100vw\"}),`\n`,(0,n.jsx)(e.hr,{}),`\n`,(0,n.jsxs)(e.h3,{id:\"black-dimension\",children:[\"BLACK DIMENSION\",(0,n.jsx)(e.a,{\"aria-hidden\":\"true\",tabIndex:\"-1\",href:\"#black-dimension\",children:(0,n.jsx)(e.span,{className:\"icon icon-link\"})})]}),`\n`,(0,n.jsxs)(e.p,{children:['\"BLACK DIMENSION\" by ',(0,n.jsx)(e.a,{href:\"https://x.com/Saintsuffers_\",children:\"@Saintsuffers_\"}),\".\"]}),`\n`,(0,n.jsxs)(e.p,{children:[\"Follow Saintsuffres updates at:\",(0,n.jsx)(e.br,{}),`\n`,(0,n.jsx)(e.a,{href:\"https://thehug.xyz/artists/Saintsuffers\",children:\"https://thehug.xyz/artists/Saintsuffers\"})]}),`\n`,(0,n.jsx)(t,{src:\"https://ipfs.io/ipfs/QmPPAxTRWuj9gz4M7oZimAuNU5tYysfyFgx4XwKy9h2MdD/collective-update-end-of-january-2024-8.jpeg\",width:\"3840\",height:\"2560\",alt:\"Image\",sizes:\"100vw\"}),`\n`,(0,n.jsx)(e.hr,{}),`\n`,(0,n.jsxs)(e.h3,{id:\"dukun-abnxrmal\",children:[\"DUKUN ABNxRMAL\",(0,n.jsx)(e.a,{\"aria-hidden\":\"true\",tabIndex:\"-1\",href:\"#dukun-abnxrmal\",children:(0,n.jsx)(e.span,{className:\"icon icon-link\"})})]}),`\n`,(0,n.jsxs)(e.p,{children:['\"DUKUN ABNxRMAL\" by ',(0,n.jsx)(e.a,{href:\"https://x.com/Mismar___\",children:\"@Mismar___\"}),\".\"]}),`\n`,(0,n.jsxs)(e.p,{children:[\"Follow Mismas updates at:\",(0,n.jsx)(e.br,{}),`\n`,(0,n.jsx)(e.a,{href:\"https://thehug.xyz/artists/mismar\",children:\"https://thehug.xyz/artists/mismar\"})]}),`\n`,(0,n.jsx)(a,{xxx:\"https://ipfs.io/ipfs/QmPPAxTRWuj9gz4M7oZimAuNU5tYysfyFgx4XwKy9h2MdD/collective-update-end-of-january-2024-9.mp4\"}),`\n`,(0,n.jsx)(e.hr,{}),`\n`,(0,n.jsxs)(e.h3,{id:\"tension-headache\",children:[\"TENSION HEADACHE\",(0,n.jsx)(e.a,{\"aria-hidden\":\"true\",tabIndex:\"-1\",href:\"#tension-headache\",children:(0,n.jsx)(e.span,{className:\"icon icon-link\"})})]}),`\n`,(0,n.jsxs)(e.p,{children:['\"TENSION HEADACHE\" by ',(0,n.jsx)(e.a,{href:\"https://x.com/tuhanzilla\",children:\"@tuhanzilla\"}),\".\"]}),`\n`,(0,n.jsxs)(e.p,{children:[\"Follow Feransis updates at:\",(0,n.jsx)(e.br,{}),`\n`,(0,n.jsx)(e.a,{href:\"https://thehug.xyz/artists/feransis\",children:\"https://thehug.xyz/artists/feransis\"})]}),`\n`,(0,n.jsx)(t,{src:\"https://ipfs.io/ipfs/QmPPAxTRWuj9gz4M7oZimAuNU5tYysfyFgx4XwKy9h2MdD/collective-update-end-of-january-2024-10.jpeg\",width:\"3840\",height:\"2560\",alt:\"Image\",sizes:\"100vw\"}),`\n`,(0,n.jsx)(e.hr,{})]})}function N(i={}){let{wrapper:e}=i.components||{};return e?(0,n.jsx)(e,Object.assign({},i,{children:(0,n.jsx)(o,i)})):o(i)}var j=N;function l(i,e){throw new Error(\"Expected \"+(e?\"component\":\"object\")+\" `\"+i+\"` to be defined: you likely forgot to import, pass, or provide it.\")}return I(z);})();\n;return Component;"
+        },
+        "_id": "end-of-january-2024-collective-update/index.mdx",
+        "_raw": {
+          "sourceFilePath": "end-of-january-2024-collective-update/index.mdx",
+          "sourceFileName": "index.mdx",
+          "sourceFileDir": "end-of-january-2024-collective-update",
+          "contentType": "mdx",
+          "flattenedPath": "end-of-january-2024-collective-update"
+        },
+        "type": "Blog",
+        "url": "/blogs/end-of-january-2024-collective-update",
+        "readingTime": {
+          "text": "2 min read",
+          "minutes": 1.13,
+          "time": 67800,
+          "words": 226
+        },
+        "toc": [
+          {
+            "level": "two",
+            "text": "February 2024",
+            "slug": "february-2024"
+          },
+          {
+            "level": "three",
+            "text": "MIND HANGING",
+            "slug": "mind-hanging"
+          },
+          {
+            "level": "three",
+            "text": "VEILED ECHOES",
+            "slug": "veiled-echoes"
+          },
+          {
+            "level": "three",
+            "text": "LIGHT HOPE",
+            "slug": "light-hope"
+          },
+          {
+            "level": "three",
+            "text": "HEART OF SOLITUDE",
+            "slug": "heart-of-solitude"
+          },
+          {
+            "level": "three",
+            "text": "KAWAII CHINATOWN",
+            "slug": "kawaii-chinatown"
+          },
+          {
+            "level": "three",
+            "text": "NEIGHBOURHOOD #4",
+            "slug": "neighbourhood-4"
+          },
+          {
+            "level": "three",
+            "text": "KING SIMBOLYC",
+            "slug": "king-simbolyc"
+          },
+          {
+            "level": "three",
+            "text": "BLACK DIMENSION",
+            "slug": "black-dimension"
+          },
+          {
+            "level": "three",
+            "text": "DUKUN ABNxRMAL",
+            "slug": "dukun-abnxrmal"
+          },
+          {
+            "level": "three",
+            "text": "TENSION HEADACHE",
+            "slug": "tension-headache"
           }
         ]
       },
@@ -2048,6 +2048,68 @@
       "hasWarnings": false,
       "documentTypeName": "Blog"
     },
+    "mindblowon-toys/index.mdx": {
+      "document": {
+        "title": "Mindblowon Toys",
+        "publishedAt": "2023-09-29T00:00:00.000Z",
+        "updatedAt": "2023-09-29T00:00:00.000Z",
+        "description": "September 2023, Mindblowon Toys mendapatkan pembaruan di jajaran mainan yang mereka buat.",
+        "image": {
+          "filePath": "../public/blogs/mindblowon-toys.png",
+          "relativeFilePath": "../../public/blogs/mindblowon-toys.png",
+          "format": "png",
+          "height": 1333,
+          "width": 2000,
+          "aspectRatio": 1.5003750937734435,
+          "blurhashDataUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAMAAADz0U65AAAAIVBMVEW6urqzs7OcnJzAwMCSkpKvr6+oqKijo6N9fX1iYmLPz8/7Ah+eAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAANUlEQVR4nBXKyRHAQAgDwUEgjs0/YJf73YClANKqkpOOID2ihja7qAhyixLvMUZNwJ/tO+Y+G7wA5Xga1/EAAAAASUVORK5CYII="
+        },
+        "isPublished": true,
+        "author": "zortan",
+        "tags": [
+          "new release"
+        ],
+        "body": {
+          "raw": "\n## Mindblowon Toys\n\nSeptember 2023, **Mindblowon Toys** mendapatkan pembaruan di jajaran mainan yang mereka buat. Ada beberapa penambahan karakter yang dilakukan oleh mereka dengan melihat respos yang amat positif di rilisan sebelumnya yang habis terjual.\n\n### The Universe\n\nCek juga **Midblowon Universe** mereka ke sini: [https://mindblowon.io/](https://mindblowon.io/)\n\n---\n\n### Galeri Gambar\n\n<Image\n  src=\"https://ipfs.io/ipfs/Qme4RHiGt6CoreJd6aeBiZ9K1avsN89uwVWcE1WJzodMJd/mindblowon-toys-0.jpg\"\n  width=\"3840\"\n  height=\"2560\"\n  alt=\"Image\"\n  sizes=\"100vw\"\n/>\n\n<Image\n  src=\"https://ipfs.io/ipfs/Qme4RHiGt6CoreJd6aeBiZ9K1avsN89uwVWcE1WJzodMJd/mindblowon-toys-1.png\"\n  width=\"3840\"\n  height=\"2560\"\n  alt=\"Image\"\n  sizes=\"100vw\"\n/>\n\n---",
+          "code": "var Component=(()=>{var m=Object.create;var r=Object.defineProperty;var c=Object.getOwnPropertyDescriptor;var p=Object.getOwnPropertyNames;var b=Object.getPrototypeOf,g=Object.prototype.hasOwnProperty;var u=(e,n)=>()=>(n||e((n={exports:{}}).exports,n),n.exports),w=(e,n)=>{for(var i in n)r(e,i,{get:n[i],enumerable:!0})},s=(e,n,i,o)=>{if(n&&typeof n==\"object\"||typeof n==\"function\")for(let t of p(n))!g.call(e,t)&&t!==i&&r(e,t,{get:()=>n[t],enumerable:!(o=c(n,t))||o.enumerable});return e};var f=(e,n,i)=>(i=e!=null?m(b(e)):{},s(n||!e||!e.__esModule?r(i,\"default\",{value:e,enumerable:!0}):i,e)),y=e=>s(r({},\"__esModule\",{value:!0}),e);var h=u((I,d)=>{d.exports=_jsx_runtime});var v={};w(v,{default:()=>x,frontmatter:()=>k});var a=f(h()),k={title:\"Mindblowon Toys\",description:\"September 2023, Mindblowon Toys mendapatkan pembaruan di jajaran mainan yang mereka buat.\",image:\"../../public/blogs/mindblowon-toys.png\",publishedAt:\"2023-09-29\",updatedAt:\"2023-09-29\",author:\"zortan\",isPublished:!0,tags:[\"new release\"]};function l(e){let n=Object.assign({h2:\"h2\",a:\"a\",span:\"span\",p:\"p\",strong:\"strong\",h3:\"h3\",hr:\"hr\"},e.components),{Image:i}=n;return i||M(\"Image\",!0),(0,a.jsxs)(a.Fragment,{children:[(0,a.jsxs)(n.h2,{id:\"mindblowon-toys\",children:[\"Mindblowon Toys\",(0,a.jsx)(n.a,{\"aria-hidden\":\"true\",tabIndex:\"-1\",href:\"#mindblowon-toys\",children:(0,a.jsx)(n.span,{className:\"icon icon-link\"})})]}),`\n`,(0,a.jsxs)(n.p,{children:[\"September 2023, \",(0,a.jsx)(n.strong,{children:\"Mindblowon Toys\"}),\" mendapatkan pembaruan di jajaran mainan yang mereka buat. Ada beberapa penambahan karakter yang dilakukan oleh mereka dengan melihat respos yang amat positif di rilisan sebelumnya yang habis terjual.\"]}),`\n`,(0,a.jsxs)(n.h3,{id:\"the-universe\",children:[\"The Universe\",(0,a.jsx)(n.a,{\"aria-hidden\":\"true\",tabIndex:\"-1\",href:\"#the-universe\",children:(0,a.jsx)(n.span,{className:\"icon icon-link\"})})]}),`\n`,(0,a.jsxs)(n.p,{children:[\"Cek juga \",(0,a.jsx)(n.strong,{children:\"Midblowon Universe\"}),\" mereka ke sini: \",(0,a.jsx)(n.a,{href:\"https://mindblowon.io/\",children:\"https://mindblowon.io/\"})]}),`\n`,(0,a.jsx)(n.hr,{}),`\n`,(0,a.jsxs)(n.h3,{id:\"galeri-gambar\",children:[\"Galeri Gambar\",(0,a.jsx)(n.a,{\"aria-hidden\":\"true\",tabIndex:\"-1\",href:\"#galeri-gambar\",children:(0,a.jsx)(n.span,{className:\"icon icon-link\"})})]}),`\n`,(0,a.jsx)(i,{src:\"https://ipfs.io/ipfs/Qme4RHiGt6CoreJd6aeBiZ9K1avsN89uwVWcE1WJzodMJd/mindblowon-toys-0.jpg\",width:\"3840\",height:\"2560\",alt:\"Image\",sizes:\"100vw\"}),`\n`,(0,a.jsx)(i,{src:\"https://ipfs.io/ipfs/Qme4RHiGt6CoreJd6aeBiZ9K1avsN89uwVWcE1WJzodMJd/mindblowon-toys-1.png\",width:\"3840\",height:\"2560\",alt:\"Image\",sizes:\"100vw\"}),`\n`,(0,a.jsx)(n.hr,{})]})}function j(e={}){let{wrapper:n}=e.components||{};return n?(0,a.jsx)(n,Object.assign({},e,{children:(0,a.jsx)(l,e)})):l(e)}var x=j;function M(e,n){throw new Error(\"Expected \"+(n?\"component\":\"object\")+\" `\"+e+\"` to be defined: you likely forgot to import, pass, or provide it.\")}return y(v);})();\n;return Component;"
+        },
+        "_id": "mindblowon-toys/index.mdx",
+        "_raw": {
+          "sourceFilePath": "mindblowon-toys/index.mdx",
+          "sourceFileName": "index.mdx",
+          "sourceFileDir": "mindblowon-toys",
+          "contentType": "mdx",
+          "flattenedPath": "mindblowon-toys"
+        },
+        "type": "Blog",
+        "url": "/blogs/mindblowon-toys",
+        "readingTime": {
+          "text": "1 min read",
+          "minutes": 0.325,
+          "time": 19500,
+          "words": 65
+        },
+        "toc": [
+          {
+            "level": "two",
+            "text": "Mindblowon Toys",
+            "slug": "mindblowon-toys"
+          },
+          {
+            "level": "three",
+            "text": "The Universe",
+            "slug": "the-universe"
+          },
+          {
+            "level": "three",
+            "text": "Galeri Gambar",
+            "slug": "galeri-gambar"
+          }
+        ]
+      },
+      "documentHash": "1766324702319",
+      "hasWarnings": false,
+      "documentTypeName": "Blog"
+    },
     "nft-indonesia-progressive-web-app/index.mdx": {
       "document": {
         "title": "NFT Indonesia Progressive Web App",
@@ -2125,68 +2187,6 @@
       "hasWarnings": false,
       "documentTypeName": "Blog"
     },
-    "mindblowon-toys/index.mdx": {
-      "document": {
-        "title": "Mindblowon Toys",
-        "publishedAt": "2023-09-29T00:00:00.000Z",
-        "updatedAt": "2023-09-29T00:00:00.000Z",
-        "description": "September 2023, Mindblowon Toys mendapatkan pembaruan di jajaran mainan yang mereka buat.",
-        "image": {
-          "filePath": "../public/blogs/mindblowon-toys.png",
-          "relativeFilePath": "../../public/blogs/mindblowon-toys.png",
-          "format": "png",
-          "height": 1333,
-          "width": 2000,
-          "aspectRatio": 1.5003750937734435,
-          "blurhashDataUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAMAAADz0U65AAAAIVBMVEW6urqzs7OcnJzAwMCSkpKvr6+oqKijo6N9fX1iYmLPz8/7Ah+eAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAANUlEQVR4nBXKyRHAQAgDwUEgjs0/YJf73YClANKqkpOOID2ihja7qAhyixLvMUZNwJ/tO+Y+G7wA5Xga1/EAAAAASUVORK5CYII="
-        },
-        "isPublished": true,
-        "author": "zortan",
-        "tags": [
-          "new release"
-        ],
-        "body": {
-          "raw": "\n## Mindblowon Toys\n\nSeptember 2023, **Mindblowon Toys** mendapatkan pembaruan di jajaran mainan yang mereka buat. Ada beberapa penambahan karakter yang dilakukan oleh mereka dengan melihat respos yang amat positif di rilisan sebelumnya yang habis terjual.\n\n### The Universe\n\nCek juga **Midblowon Universe** mereka ke sini: [https://mindblowon.io/](https://mindblowon.io/)\n\n---\n\n### Galeri Gambar\n\n<Image\n  src=\"https://ipfs.io/ipfs/Qme4RHiGt6CoreJd6aeBiZ9K1avsN89uwVWcE1WJzodMJd/mindblowon-toys-0.jpg\"\n  width=\"3840\"\n  height=\"2560\"\n  alt=\"Image\"\n  sizes=\"100vw\"\n/>\n\n<Image\n  src=\"https://ipfs.io/ipfs/Qme4RHiGt6CoreJd6aeBiZ9K1avsN89uwVWcE1WJzodMJd/mindblowon-toys-1.png\"\n  width=\"3840\"\n  height=\"2560\"\n  alt=\"Image\"\n  sizes=\"100vw\"\n/>\n\n---",
-          "code": "var Component=(()=>{var m=Object.create;var r=Object.defineProperty;var c=Object.getOwnPropertyDescriptor;var p=Object.getOwnPropertyNames;var b=Object.getPrototypeOf,g=Object.prototype.hasOwnProperty;var u=(e,n)=>()=>(n||e((n={exports:{}}).exports,n),n.exports),w=(e,n)=>{for(var i in n)r(e,i,{get:n[i],enumerable:!0})},s=(e,n,i,o)=>{if(n&&typeof n==\"object\"||typeof n==\"function\")for(let t of p(n))!g.call(e,t)&&t!==i&&r(e,t,{get:()=>n[t],enumerable:!(o=c(n,t))||o.enumerable});return e};var f=(e,n,i)=>(i=e!=null?m(b(e)):{},s(n||!e||!e.__esModule?r(i,\"default\",{value:e,enumerable:!0}):i,e)),y=e=>s(r({},\"__esModule\",{value:!0}),e);var h=u((I,d)=>{d.exports=_jsx_runtime});var v={};w(v,{default:()=>x,frontmatter:()=>k});var a=f(h()),k={title:\"Mindblowon Toys\",description:\"September 2023, Mindblowon Toys mendapatkan pembaruan di jajaran mainan yang mereka buat.\",image:\"../../public/blogs/mindblowon-toys.png\",publishedAt:\"2023-09-29\",updatedAt:\"2023-09-29\",author:\"zortan\",isPublished:!0,tags:[\"new release\"]};function l(e){let n=Object.assign({h2:\"h2\",a:\"a\",span:\"span\",p:\"p\",strong:\"strong\",h3:\"h3\",hr:\"hr\"},e.components),{Image:i}=n;return i||M(\"Image\",!0),(0,a.jsxs)(a.Fragment,{children:[(0,a.jsxs)(n.h2,{id:\"mindblowon-toys\",children:[\"Mindblowon Toys\",(0,a.jsx)(n.a,{\"aria-hidden\":\"true\",tabIndex:\"-1\",href:\"#mindblowon-toys\",children:(0,a.jsx)(n.span,{className:\"icon icon-link\"})})]}),`\n`,(0,a.jsxs)(n.p,{children:[\"September 2023, \",(0,a.jsx)(n.strong,{children:\"Mindblowon Toys\"}),\" mendapatkan pembaruan di jajaran mainan yang mereka buat. Ada beberapa penambahan karakter yang dilakukan oleh mereka dengan melihat respos yang amat positif di rilisan sebelumnya yang habis terjual.\"]}),`\n`,(0,a.jsxs)(n.h3,{id:\"the-universe\",children:[\"The Universe\",(0,a.jsx)(n.a,{\"aria-hidden\":\"true\",tabIndex:\"-1\",href:\"#the-universe\",children:(0,a.jsx)(n.span,{className:\"icon icon-link\"})})]}),`\n`,(0,a.jsxs)(n.p,{children:[\"Cek juga \",(0,a.jsx)(n.strong,{children:\"Midblowon Universe\"}),\" mereka ke sini: \",(0,a.jsx)(n.a,{href:\"https://mindblowon.io/\",children:\"https://mindblowon.io/\"})]}),`\n`,(0,a.jsx)(n.hr,{}),`\n`,(0,a.jsxs)(n.h3,{id:\"galeri-gambar\",children:[\"Galeri Gambar\",(0,a.jsx)(n.a,{\"aria-hidden\":\"true\",tabIndex:\"-1\",href:\"#galeri-gambar\",children:(0,a.jsx)(n.span,{className:\"icon icon-link\"})})]}),`\n`,(0,a.jsx)(i,{src:\"https://ipfs.io/ipfs/Qme4RHiGt6CoreJd6aeBiZ9K1avsN89uwVWcE1WJzodMJd/mindblowon-toys-0.jpg\",width:\"3840\",height:\"2560\",alt:\"Image\",sizes:\"100vw\"}),`\n`,(0,a.jsx)(i,{src:\"https://ipfs.io/ipfs/Qme4RHiGt6CoreJd6aeBiZ9K1avsN89uwVWcE1WJzodMJd/mindblowon-toys-1.png\",width:\"3840\",height:\"2560\",alt:\"Image\",sizes:\"100vw\"}),`\n`,(0,a.jsx)(n.hr,{})]})}function j(e={}){let{wrapper:n}=e.components||{};return n?(0,a.jsx)(n,Object.assign({},e,{children:(0,a.jsx)(l,e)})):l(e)}var x=j;function M(e,n){throw new Error(\"Expected \"+(n?\"component\":\"object\")+\" `\"+e+\"` to be defined: you likely forgot to import, pass, or provide it.\")}return y(v);})();\n;return Component;"
-        },
-        "_id": "mindblowon-toys/index.mdx",
-        "_raw": {
-          "sourceFilePath": "mindblowon-toys/index.mdx",
-          "sourceFileName": "index.mdx",
-          "sourceFileDir": "mindblowon-toys",
-          "contentType": "mdx",
-          "flattenedPath": "mindblowon-toys"
-        },
-        "type": "Blog",
-        "url": "/blogs/mindblowon-toys",
-        "readingTime": {
-          "text": "1 min read",
-          "minutes": 0.325,
-          "time": 19500,
-          "words": 65
-        },
-        "toc": [
-          {
-            "level": "two",
-            "text": "Mindblowon Toys",
-            "slug": "mindblowon-toys"
-          },
-          {
-            "level": "three",
-            "text": "The Universe",
-            "slug": "the-universe"
-          },
-          {
-            "level": "three",
-            "text": "Galeri Gambar",
-            "slug": "galeri-gambar"
-          }
-        ]
-      },
-      "documentHash": "1766324702319",
-      "hasWarnings": false,
-      "documentTypeName": "Blog"
-    },
     "pandawa-nft-by-deksa-project/index.mdx": {
       "document": {
         "title": "Pandawa NFT by Deksa Project",
@@ -2252,6 +2252,123 @@
             "level": "three",
             "text": "Foto Galeri",
             "slug": "foto-galeri"
+          }
+        ]
+      },
+      "documentHash": "1766324702319",
+      "hasWarnings": false,
+      "documentTypeName": "Blog"
+    },
+    "penulisan-artikel-di-sini/index.mdx": {
+      "document": {
+        "title": "Judul Artikel Ditulis Di Sini Saja",
+        "publishedAt": "2022-02-20T00:00:00.000Z",
+        "updatedAt": "2022-02-20T00:00:00.000Z",
+        "description": "Deskripsi atau highlight dari keseluruhan isi artikel ditulis di sini.",
+        "image": {
+          "filePath": "../public/blogs/judul-artikel-ditulis-di-sini-saja.png",
+          "relativeFilePath": "../../public/blogs/judul-artikel-ditulis-di-sini-saja.png",
+          "format": "png",
+          "height": 1333,
+          "width": 2000,
+          "aspectRatio": 1.5003750937734435,
+          "blurhashDataUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAMAAADz0U65AAAACVBMVEU0NDRAQEBPT0+L7mv2AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAIUlEQVR4nGNgYmRgYGSEEGAayoAJMUEVMDExgACIhw0AAAdcAChRnpATAAAAAElFTkSuQmCC"
+        },
+        "isPublished": true,
+        "author": "nota",
+        "tags": [
+          "ultimate guide"
+        ],
+        "body": {
+          "raw": "\nIni adalah artikel yang berisi panduan atau tutorial untuk menulis konten di website **NFT Indonesia**. Silahkan dibaca dan dipelajari.\n\nArtikel bisa mulai ditulis menggunakan paragraf atau alinea-alinea di penulisan artikelnya. Cara menulisnya seperti paragraf ini. Bebas tidak dibatasi kata dan kalimat.\n\n---\n\nSelain paragraf juga bisa menggunakan quote, seperti berikut ini contoh menulisnya:\n\n```\n> Quote ditulis dengan diawali dengan tanda `>` di setiap baris baru. Kalau berupa paragraf, cukup sekali saja menggunakan tanda `>` seperti contoh yang sedang dibaca ini.\n> Kalau berupa baris baru, tanda `>` harus digunakan lagi di awal tulisan, seperti baris baru yang sedang dibaca ini.\n```\n\nHasilnya akan nampak seperti berikut ini:\n\n> Quote ditulis dengan diawali dengan tanda `>` di setiap baris baru. Kalau berupa paragraf, cukup sekali saja menggunakan tanda `>` seperti contoh yang sedang dibaca ini.\n> Kalau berupa baris baru, tanda `>` harus digunakan lagi di awal tulisan, seperti baris baru yang sedang dibaca ini.\n\n---\n\nUntuk mencetak tebal suatu kata atau frase, bisa menggunakan tanda `**` di depan dan di akhir kata atau frase. Contohnya seperti ini:\n\n```\n**cetak tebal**\n```\n\nHasilnya akan seperti ini: **cetak tebal**\n\n---\n\nUntuk menuliskan kata atau frase yang memilik link url, atau nge-link ke alamat url bisa menggunakan cara seperti contoh berikut ini:\n\n```\n[kata atau frase yang nge-link](#almat-url-link-nya)\n```\n\nHasilnya akan seperti berikut ini: [kata atau frase yang nge-link](#almat-url-link-nya)\n\n---\n\nLalu untuk mengakhir sebuah bagian dari artikel dan memisahkan dengan bagian lain, cukup menggunakan tanda seperti berikut ini:\n\n```\n---\n```\n\nTanda tersebut akan memunculkan sehelai garis sebagai penutup atau pembatas sebuah bagian dari artikel dengan bagian lainnya. Seperti nampak pada garis di bawah ini.\n\n---\n\nLalu untuk menulis H1, H2, H3, dan H4 bisa menggunakan tanda `#` seperti berikut ini:\n\n```\n# Header 1\n\n## Header 2\n\n### Header 3\n\n#### Header 4\n\n### Header 3\n\n## Header 2\n\n# Header 1\n```\n\nHasilnya bisa dilihat di bawah ini:\n\n# Header 1\n\n## Header 2\n\n### Header 3\n\n#### Header 4\n\n### Header 3\n\n## Header 2\n\n# Header 1\n\nSetiap H1, H2, H3, dan H4, akan otomatis digunakan sebagai daftar isi artikel sesuai hirarki H1, H2, H3, dan H4 seperti nampak di bagian daftar isi (Table Of Content) dari artikel ini.\n\n---\n\nLalu kalau ingin menuliskan sebuah daftar dengan nomor, bisa dengan cara mencantumkan nomor di depan kata atau frase sesuai urutan daftar yang akan dibuat.\n\n```\n1. Isi nomor satu.\n2. Isi nomor dua.\n3. Isi nomor tiga.\n```\n\nHasilnya seperti berikut ini:\n\n1. Isi nomor satu.\n2. Isi nomor dua.\n3. Isi nomor tiga.\n\nLalu kalau ingin menuliskan sebuah daftar tanpa nomor, bisa dengan cara menambahkan tanda `-` di depan setiap kata atau frase yang dicantumkan di dalam daftar yang akan dibuat.\n\n```\n- Isi nomor satu.\n- Isi nomor dua.\n- Isi nomor tiga.\n```\n\nHasilnya seperti berikut ini:\n\n- Isi daftar.\n- Isi daftar.\n- Isi daftar.\n\n---\n\nSelanjutnya kalau ingin menampilkan sebuah image atau gambar atau foto di dalam artikel, bisa menggunakan cara berikut ini:\n\n```\n<Image\n  src=\"https://ipfs.io/ipfs/Qme4RHiGt6CoreJd6aeBiZ9K1avsN89uwVWcE1WJzodMJd/judul-artikel-ditulis-di-sini-saja.jpg\"\n  width=\"3840\"\n  height=\"2560\"\n  alt=\"Image\"\n  sizes=\"100vw\"\n/>\n```\n\nHasilnya akan nampak seperti berikut ini:\n\n<Image\n  src=\"https://ipfs.io/ipfs/Qme4RHiGt6CoreJd6aeBiZ9K1avsN89uwVWcE1WJzodMJd/judul-artikel-ditulis-di-sini-saja.jpg\"\n  width=\"3840\"\n  height=\"2560\"\n  alt=\"Image\"\n  sizes=\"100vw\"\n/>\n\n---\n\nLalu untuk menampilkan audio player di dalam artikel bisa digunakan cara seperti berikut ini:\n\n```\n<AudioSource yyy=\"https://ipfs.io/ipfs/QmS4LEuU4Z1SjK5ae2Dk1xvfwBYhcGdzWgkzjyR2JWinxU/nft-indonesia-progressive-web-app.mp3\" />\n```\n\nHasilnya akan nampak seperti berikut ini:\n\n<AudioSource yyy=\"https://ipfs.io/ipfs/QmS4LEuU4Z1SjK5ae2Dk1xvfwBYhcGdzWgkzjyR2JWinxU/nft-indonesia-progressive-web-app.mp3\" />\n\n---\n\nYang terakhir dan yang tidak kalah pentingnya adalah menampilkan video. Jika ingin menampilkan video di dalam artikel, cukup dengan menggunakan beberapa cara berikut ini:\n\nUntuk video dari **IPFS**...\n\n```\n<VideoSource xxx=\"https://ipfs.io/ipfs/QmcVxQcFhHY86vhsBdLzZgWkG2ivPYfhQy4L7YHY2RcRr5/collective-update-december-2023-13.mp4\" />\n```\n\nHasilnya akan nampak seperti berikut ini:\n\n<VideoSource xxx=\"https://ipfs.io/ipfs/QmcVxQcFhHY86vhsBdLzZgWkG2ivPYfhQy4L7YHY2RcRr5/collective-update-december-2023-13.mp4\" />\n\nSedangkan untuk video dari **YouTube**...\n\n```\n<YouTube id=\"EbneWlPGRtU\" />\n```\n\nHasilnya akan nampak seperti berikut ini:\n\n<YouTube id=\"EbneWlPGRtU\" />\n\n---",
+          "code": "var Component=(()=>{var p=Object.create;var t=Object.defineProperty;var g=Object.getOwnPropertyDescriptor;var k=Object.getOwnPropertyNames;var m=Object.getPrototypeOf,b=Object.prototype.hasOwnProperty;var y=(n,a)=>()=>(a||n((a={exports:{}}).exports,a),a.exports),f=(n,a)=>{for(var i in a)t(n,i,{get:a[i],enumerable:!0})},c=(n,a,i,r)=>{if(a&&typeof a==\"object\"||typeof a==\"function\")for(let d of k(a))!b.call(n,d)&&d!==i&&t(n,d,{get:()=>a[d],enumerable:!(r=g(a,d))||r.enumerable});return n};var H=(n,a,i)=>(i=n!=null?p(m(n)):{},c(a||!n||!n.__esModule?t(i,\"default\",{value:n,enumerable:!0}):i,n)),x=n=>c(t({},\"__esModule\",{value:!0}),n);var u=y((S,h)=>{h.exports=_jsx_runtime});var N={};f(N,{default:()=>j,frontmatter:()=>I});var e=H(u()),I={title:\"Judul Artikel Ditulis Di Sini Saja\",description:\"Deskripsi atau highlight dari keseluruhan isi artikel ditulis di sini.\",image:\"../../public/blogs/judul-artikel-ditulis-di-sini-saja.png\",publishedAt:\"2022-02-20\",updatedAt:\"2022-02-20\",author:\"nota\",isPublished:!0,tags:[\"ultimate guide\"]};function o(n){let a=Object.assign({p:\"p\",strong:\"strong\",hr:\"hr\",div:\"div\",pre:\"pre\",code:\"code\",span:\"span\",blockquote:\"blockquote\",a:\"a\",h1:\"h1\",h2:\"h2\",h3:\"h3\",h4:\"h4\",ol:\"ol\",li:\"li\",ul:\"ul\"},n.components),{Image:i,AudioSource:r,VideoSource:d,YouTube:s}=a;return r||l(\"AudioSource\",!0),i||l(\"Image\",!0),d||l(\"VideoSource\",!0),s||l(\"YouTube\",!0),(0,e.jsxs)(e.Fragment,{children:[(0,e.jsxs)(a.p,{children:[\"Ini adalah artikel yang berisi panduan atau tutorial untuk menulis konten di website \",(0,e.jsx)(a.strong,{children:\"NFT Indonesia\"}),\". Silahkan dibaca dan dipelajari.\"]}),`\n`,(0,e.jsx)(a.p,{children:\"Artikel bisa mulai ditulis menggunakan paragraf atau alinea-alinea di penulisan artikelnya. Cara menulisnya seperti paragraf ini. Bebas tidak dibatasi kata dan kalimat.\"}),`\n`,(0,e.jsx)(a.hr,{}),`\n`,(0,e.jsx)(a.p,{children:\"Selain paragraf juga bisa menggunakan quote, seperti berikut ini contoh menulisnya:\"}),`\n`,(0,e.jsx)(a.div,{\"data-rehype-pretty-code-fragment\":\"\",children:(0,e.jsx)(a.pre,{className:\"github-dark\",style:{backgroundColor:\"#24292e\"},tabIndex:\"0\",\"data-language\":\"\",\"data-theme\":\"default\",children:(0,e.jsxs)(a.code,{\"data-language\":\"\",\"data-theme\":\"default\",children:[(0,e.jsx)(a.span,{\"data-line\":\"\",children:(0,e.jsx)(a.span,{style:{color:\"#e1e4e8\"},children:\"> Quote ditulis dengan diawali dengan tanda `>` di setiap baris baru. Kalau berupa paragraf, cukup sekali saja menggunakan tanda `>` seperti contoh yang sedang dibaca ini.\"})}),`\n`,(0,e.jsx)(a.span,{\"data-line\":\"\",children:(0,e.jsx)(a.span,{style:{color:\"#e1e4e8\"},children:\"> Kalau berupa baris baru, tanda `>` harus digunakan lagi di awal tulisan, seperti baris baru yang sedang dibaca ini.\"})})]})})}),`\n`,(0,e.jsx)(a.p,{children:\"Hasilnya akan nampak seperti berikut ini:\"}),`\n`,(0,e.jsxs)(a.blockquote,{children:[`\n`,(0,e.jsxs)(a.p,{children:[\"Quote ditulis dengan diawali dengan tanda \",(0,e.jsx)(a.code,{children:\">\"}),\" di setiap baris baru. Kalau berupa paragraf, cukup sekali saja menggunakan tanda \",(0,e.jsx)(a.code,{children:\">\"}),` seperti contoh yang sedang dibaca ini.\nKalau berupa baris baru, tanda `,(0,e.jsx)(a.code,{children:\">\"}),\" harus digunakan lagi di awal tulisan, seperti baris baru yang sedang dibaca ini.\"]}),`\n`]}),`\n`,(0,e.jsx)(a.hr,{}),`\n`,(0,e.jsxs)(a.p,{children:[\"Untuk mencetak tebal suatu kata atau frase, bisa menggunakan tanda \",(0,e.jsx)(a.code,{children:\"**\"}),\" di depan dan di akhir kata atau frase. Contohnya seperti ini:\"]}),`\n`,(0,e.jsx)(a.div,{\"data-rehype-pretty-code-fragment\":\"\",children:(0,e.jsx)(a.pre,{className:\"github-dark\",style:{backgroundColor:\"#24292e\"},tabIndex:\"0\",\"data-language\":\"\",\"data-theme\":\"default\",children:(0,e.jsx)(a.code,{\"data-language\":\"\",\"data-theme\":\"default\",children:(0,e.jsx)(a.span,{\"data-line\":\"\",children:(0,e.jsx)(a.span,{style:{color:\"#e1e4e8\"},children:\"**cetak tebal**\"})})})})}),`\n`,(0,e.jsxs)(a.p,{children:[\"Hasilnya akan seperti ini: \",(0,e.jsx)(a.strong,{children:\"cetak tebal\"})]}),`\n`,(0,e.jsx)(a.hr,{}),`\n`,(0,e.jsx)(a.p,{children:\"Untuk menuliskan kata atau frase yang memilik link url, atau nge-link ke alamat url bisa menggunakan cara seperti contoh berikut ini:\"}),`\n`,(0,e.jsx)(a.div,{\"data-rehype-pretty-code-fragment\":\"\",children:(0,e.jsx)(a.pre,{className:\"github-dark\",style:{backgroundColor:\"#24292e\"},tabIndex:\"0\",\"data-language\":\"\",\"data-theme\":\"default\",children:(0,e.jsx)(a.code,{\"data-language\":\"\",\"data-theme\":\"default\",children:(0,e.jsx)(a.span,{\"data-line\":\"\",children:(0,e.jsx)(a.span,{style:{color:\"#e1e4e8\"},children:\"[kata atau frase yang nge-link](#almat-url-link-nya)\"})})})})}),`\n`,(0,e.jsxs)(a.p,{children:[\"Hasilnya akan seperti berikut ini: \",(0,e.jsx)(a.a,{href:\"#almat-url-link-nya\",children:\"kata atau frase yang nge-link\"})]}),`\n`,(0,e.jsx)(a.hr,{}),`\n`,(0,e.jsx)(a.p,{children:\"Lalu untuk mengakhir sebuah bagian dari artikel dan memisahkan dengan bagian lain, cukup menggunakan tanda seperti berikut ini:\"}),`\n`,(0,e.jsx)(a.div,{\"data-rehype-pretty-code-fragment\":\"\",children:(0,e.jsx)(a.pre,{className:\"github-dark\",style:{backgroundColor:\"#24292e\"},tabIndex:\"0\",\"data-language\":\"\",\"data-theme\":\"default\",children:(0,e.jsx)(a.code,{\"data-language\":\"\",\"data-theme\":\"default\",children:(0,e.jsx)(a.span,{\"data-line\":\"\",children:(0,e.jsx)(a.span,{style:{color:\"#e1e4e8\"},children:\"---\"})})})})}),`\n`,(0,e.jsx)(a.p,{children:\"Tanda tersebut akan memunculkan sehelai garis sebagai penutup atau pembatas sebuah bagian dari artikel dengan bagian lainnya. Seperti nampak pada garis di bawah ini.\"}),`\n`,(0,e.jsx)(a.hr,{}),`\n`,(0,e.jsxs)(a.p,{children:[\"Lalu untuk menulis H1, H2, H3, dan H4 bisa menggunakan tanda \",(0,e.jsx)(a.code,{children:\"#\"}),\" seperti berikut ini:\"]}),`\n`,(0,e.jsx)(a.div,{\"data-rehype-pretty-code-fragment\":\"\",children:(0,e.jsx)(a.pre,{className:\"github-dark\",style:{backgroundColor:\"#24292e\"},tabIndex:\"0\",\"data-language\":\"\",\"data-theme\":\"default\",children:(0,e.jsxs)(a.code,{\"data-language\":\"\",\"data-theme\":\"default\",children:[(0,e.jsx)(a.span,{\"data-line\":\"\",children:(0,e.jsx)(a.span,{style:{color:\"#e1e4e8\"},children:\"# Header 1\"})}),`\n`,(0,e.jsx)(a.span,{\"data-line\":\"\",children:(0,e.jsx)(a.span,{style:{color:\"#e1e4e8\"}})}),`\n`,(0,e.jsx)(a.span,{\"data-line\":\"\",children:(0,e.jsx)(a.span,{style:{color:\"#e1e4e8\"},children:\"## Header 2\"})}),`\n`,(0,e.jsx)(a.span,{\"data-line\":\"\",children:(0,e.jsx)(a.span,{style:{color:\"#e1e4e8\"}})}),`\n`,(0,e.jsx)(a.span,{\"data-line\":\"\",children:(0,e.jsx)(a.span,{style:{color:\"#e1e4e8\"},children:\"### Header 3\"})}),`\n`,(0,e.jsx)(a.span,{\"data-line\":\"\",children:(0,e.jsx)(a.span,{style:{color:\"#e1e4e8\"}})}),`\n`,(0,e.jsx)(a.span,{\"data-line\":\"\",children:(0,e.jsx)(a.span,{style:{color:\"#e1e4e8\"},children:\"#### Header 4\"})}),`\n`,(0,e.jsx)(a.span,{\"data-line\":\"\",children:(0,e.jsx)(a.span,{style:{color:\"#e1e4e8\"}})}),`\n`,(0,e.jsx)(a.span,{\"data-line\":\"\",children:(0,e.jsx)(a.span,{style:{color:\"#e1e4e8\"},children:\"### Header 3\"})}),`\n`,(0,e.jsx)(a.span,{\"data-line\":\"\",children:(0,e.jsx)(a.span,{style:{color:\"#e1e4e8\"}})}),`\n`,(0,e.jsx)(a.span,{\"data-line\":\"\",children:(0,e.jsx)(a.span,{style:{color:\"#e1e4e8\"},children:\"## Header 2\"})}),`\n`,(0,e.jsx)(a.span,{\"data-line\":\"\",children:(0,e.jsx)(a.span,{style:{color:\"#e1e4e8\"}})}),`\n`,(0,e.jsx)(a.span,{\"data-line\":\"\",children:(0,e.jsx)(a.span,{style:{color:\"#e1e4e8\"},children:\"# Header 1\"})})]})})}),`\n`,(0,e.jsx)(a.p,{children:\"Hasilnya bisa dilihat di bawah ini:\"}),`\n`,(0,e.jsxs)(a.h1,{id:\"header-1\",children:[\"Header 1\",(0,e.jsx)(a.a,{\"aria-hidden\":\"true\",tabIndex:\"-1\",href:\"#header-1\",children:(0,e.jsx)(a.span,{className:\"icon icon-link\"})})]}),`\n`,(0,e.jsxs)(a.h2,{id:\"header-2\",children:[\"Header 2\",(0,e.jsx)(a.a,{\"aria-hidden\":\"true\",tabIndex:\"-1\",href:\"#header-2\",children:(0,e.jsx)(a.span,{className:\"icon icon-link\"})})]}),`\n`,(0,e.jsxs)(a.h3,{id:\"header-3\",children:[\"Header 3\",(0,e.jsx)(a.a,{\"aria-hidden\":\"true\",tabIndex:\"-1\",href:\"#header-3\",children:(0,e.jsx)(a.span,{className:\"icon icon-link\"})})]}),`\n`,(0,e.jsxs)(a.h4,{id:\"header-4\",children:[\"Header 4\",(0,e.jsx)(a.a,{\"aria-hidden\":\"true\",tabIndex:\"-1\",href:\"#header-4\",children:(0,e.jsx)(a.span,{className:\"icon icon-link\"})})]}),`\n`,(0,e.jsxs)(a.h3,{id:\"header-3-1\",children:[\"Header 3\",(0,e.jsx)(a.a,{\"aria-hidden\":\"true\",tabIndex:\"-1\",href:\"#header-3-1\",children:(0,e.jsx)(a.span,{className:\"icon icon-link\"})})]}),`\n`,(0,e.jsxs)(a.h2,{id:\"header-2-1\",children:[\"Header 2\",(0,e.jsx)(a.a,{\"aria-hidden\":\"true\",tabIndex:\"-1\",href:\"#header-2-1\",children:(0,e.jsx)(a.span,{className:\"icon icon-link\"})})]}),`\n`,(0,e.jsxs)(a.h1,{id:\"header-1-1\",children:[\"Header 1\",(0,e.jsx)(a.a,{\"aria-hidden\":\"true\",tabIndex:\"-1\",href:\"#header-1-1\",children:(0,e.jsx)(a.span,{className:\"icon icon-link\"})})]}),`\n`,(0,e.jsx)(a.p,{children:\"Setiap H1, H2, H3, dan H4, akan otomatis digunakan sebagai daftar isi artikel sesuai hirarki H1, H2, H3, dan H4 seperti nampak di bagian daftar isi (Table Of Content) dari artikel ini.\"}),`\n`,(0,e.jsx)(a.hr,{}),`\n`,(0,e.jsx)(a.p,{children:\"Lalu kalau ingin menuliskan sebuah daftar dengan nomor, bisa dengan cara mencantumkan nomor di depan kata atau frase sesuai urutan daftar yang akan dibuat.\"}),`\n`,(0,e.jsx)(a.div,{\"data-rehype-pretty-code-fragment\":\"\",children:(0,e.jsx)(a.pre,{className:\"github-dark\",style:{backgroundColor:\"#24292e\"},tabIndex:\"0\",\"data-language\":\"\",\"data-theme\":\"default\",children:(0,e.jsxs)(a.code,{\"data-language\":\"\",\"data-theme\":\"default\",children:[(0,e.jsx)(a.span,{\"data-line\":\"\",children:(0,e.jsx)(a.span,{style:{color:\"#e1e4e8\"},children:\"1. Isi nomor satu.\"})}),`\n`,(0,e.jsx)(a.span,{\"data-line\":\"\",children:(0,e.jsx)(a.span,{style:{color:\"#e1e4e8\"},children:\"2. Isi nomor dua.\"})}),`\n`,(0,e.jsx)(a.span,{\"data-line\":\"\",children:(0,e.jsx)(a.span,{style:{color:\"#e1e4e8\"},children:\"3. Isi nomor tiga.\"})})]})})}),`\n`,(0,e.jsx)(a.p,{children:\"Hasilnya seperti berikut ini:\"}),`\n`,(0,e.jsxs)(a.ol,{children:[`\n`,(0,e.jsx)(a.li,{children:\"Isi nomor satu.\"}),`\n`,(0,e.jsx)(a.li,{children:\"Isi nomor dua.\"}),`\n`,(0,e.jsx)(a.li,{children:\"Isi nomor tiga.\"}),`\n`]}),`\n`,(0,e.jsxs)(a.p,{children:[\"Lalu kalau ingin menuliskan sebuah daftar tanpa nomor, bisa dengan cara menambahkan tanda \",(0,e.jsx)(a.code,{children:\"-\"}),\" di depan setiap kata atau frase yang dicantumkan di dalam daftar yang akan dibuat.\"]}),`\n`,(0,e.jsx)(a.div,{\"data-rehype-pretty-code-fragment\":\"\",children:(0,e.jsx)(a.pre,{className:\"github-dark\",style:{backgroundColor:\"#24292e\"},tabIndex:\"0\",\"data-language\":\"\",\"data-theme\":\"default\",children:(0,e.jsxs)(a.code,{\"data-language\":\"\",\"data-theme\":\"default\",children:[(0,e.jsx)(a.span,{\"data-line\":\"\",children:(0,e.jsx)(a.span,{style:{color:\"#e1e4e8\"},children:\"- Isi nomor satu.\"})}),`\n`,(0,e.jsx)(a.span,{\"data-line\":\"\",children:(0,e.jsx)(a.span,{style:{color:\"#e1e4e8\"},children:\"- Isi nomor dua.\"})}),`\n`,(0,e.jsx)(a.span,{\"data-line\":\"\",children:(0,e.jsx)(a.span,{style:{color:\"#e1e4e8\"},children:\"- Isi nomor tiga.\"})})]})})}),`\n`,(0,e.jsx)(a.p,{children:\"Hasilnya seperti berikut ini:\"}),`\n`,(0,e.jsxs)(a.ul,{children:[`\n`,(0,e.jsx)(a.li,{children:\"Isi daftar.\"}),`\n`,(0,e.jsx)(a.li,{children:\"Isi daftar.\"}),`\n`,(0,e.jsx)(a.li,{children:\"Isi daftar.\"}),`\n`]}),`\n`,(0,e.jsx)(a.hr,{}),`\n`,(0,e.jsx)(a.p,{children:\"Selanjutnya kalau ingin menampilkan sebuah image atau gambar atau foto di dalam artikel, bisa menggunakan cara berikut ini:\"}),`\n`,(0,e.jsx)(a.div,{\"data-rehype-pretty-code-fragment\":\"\",children:(0,e.jsx)(a.pre,{className:\"github-dark\",style:{backgroundColor:\"#24292e\"},tabIndex:\"0\",\"data-language\":\"\",\"data-theme\":\"default\",children:(0,e.jsxs)(a.code,{\"data-language\":\"\",\"data-theme\":\"default\",children:[(0,e.jsx)(a.span,{\"data-line\":\"\",children:(0,e.jsx)(a.span,{style:{color:\"#e1e4e8\"},children:\"<Image\"})}),`\n`,(0,e.jsx)(a.span,{\"data-line\":\"\",children:(0,e.jsx)(a.span,{style:{color:\"#e1e4e8\"},children:'  src=\"https://ipfs.io/ipfs/Qme4RHiGt6CoreJd6aeBiZ9K1avsN89uwVWcE1WJzodMJd/judul-artikel-ditulis-di-sini-saja.jpg\"'})}),`\n`,(0,e.jsx)(a.span,{\"data-line\":\"\",children:(0,e.jsx)(a.span,{style:{color:\"#e1e4e8\"},children:'  width=\"3840\"'})}),`\n`,(0,e.jsx)(a.span,{\"data-line\":\"\",children:(0,e.jsx)(a.span,{style:{color:\"#e1e4e8\"},children:'  height=\"2560\"'})}),`\n`,(0,e.jsx)(a.span,{\"data-line\":\"\",children:(0,e.jsx)(a.span,{style:{color:\"#e1e4e8\"},children:'  alt=\"Image\"'})}),`\n`,(0,e.jsx)(a.span,{\"data-line\":\"\",children:(0,e.jsx)(a.span,{style:{color:\"#e1e4e8\"},children:'  sizes=\"100vw\"'})}),`\n`,(0,e.jsx)(a.span,{\"data-line\":\"\",children:(0,e.jsx)(a.span,{style:{color:\"#e1e4e8\"},children:\"/>\"})})]})})}),`\n`,(0,e.jsx)(a.p,{children:\"Hasilnya akan nampak seperti berikut ini:\"}),`\n`,(0,e.jsx)(i,{src:\"https://ipfs.io/ipfs/Qme4RHiGt6CoreJd6aeBiZ9K1avsN89uwVWcE1WJzodMJd/judul-artikel-ditulis-di-sini-saja.jpg\",width:\"3840\",height:\"2560\",alt:\"Image\",sizes:\"100vw\"}),`\n`,(0,e.jsx)(a.hr,{}),`\n`,(0,e.jsx)(a.p,{children:\"Lalu untuk menampilkan audio player di dalam artikel bisa digunakan cara seperti berikut ini:\"}),`\n`,(0,e.jsx)(a.div,{\"data-rehype-pretty-code-fragment\":\"\",children:(0,e.jsx)(a.pre,{className:\"github-dark\",style:{backgroundColor:\"#24292e\"},tabIndex:\"0\",\"data-language\":\"\",\"data-theme\":\"default\",children:(0,e.jsx)(a.code,{\"data-language\":\"\",\"data-theme\":\"default\",children:(0,e.jsx)(a.span,{\"data-line\":\"\",children:(0,e.jsx)(a.span,{style:{color:\"#e1e4e8\"},children:'<AudioSource yyy=\"https://ipfs.io/ipfs/QmS4LEuU4Z1SjK5ae2Dk1xvfwBYhcGdzWgkzjyR2JWinxU/nft-indonesia-progressive-web-app.mp3\" />'})})})})}),`\n`,(0,e.jsx)(a.p,{children:\"Hasilnya akan nampak seperti berikut ini:\"}),`\n`,(0,e.jsx)(r,{yyy:\"https://ipfs.io/ipfs/QmS4LEuU4Z1SjK5ae2Dk1xvfwBYhcGdzWgkzjyR2JWinxU/nft-indonesia-progressive-web-app.mp3\"}),`\n`,(0,e.jsx)(a.hr,{}),`\n`,(0,e.jsx)(a.p,{children:\"Yang terakhir dan yang tidak kalah pentingnya adalah menampilkan video. Jika ingin menampilkan video di dalam artikel, cukup dengan menggunakan beberapa cara berikut ini:\"}),`\n`,(0,e.jsxs)(a.p,{children:[\"Untuk video dari \",(0,e.jsx)(a.strong,{children:\"IPFS\"}),\"...\"]}),`\n`,(0,e.jsx)(a.div,{\"data-rehype-pretty-code-fragment\":\"\",children:(0,e.jsx)(a.pre,{className:\"github-dark\",style:{backgroundColor:\"#24292e\"},tabIndex:\"0\",\"data-language\":\"\",\"data-theme\":\"default\",children:(0,e.jsx)(a.code,{\"data-language\":\"\",\"data-theme\":\"default\",children:(0,e.jsx)(a.span,{\"data-line\":\"\",children:(0,e.jsx)(a.span,{style:{color:\"#e1e4e8\"},children:'<VideoSource xxx=\"https://ipfs.io/ipfs/QmcVxQcFhHY86vhsBdLzZgWkG2ivPYfhQy4L7YHY2RcRr5/collective-update-december-2023-13.mp4\" />'})})})})}),`\n`,(0,e.jsx)(a.p,{children:\"Hasilnya akan nampak seperti berikut ini:\"}),`\n`,(0,e.jsx)(d,{xxx:\"https://ipfs.io/ipfs/QmcVxQcFhHY86vhsBdLzZgWkG2ivPYfhQy4L7YHY2RcRr5/collective-update-december-2023-13.mp4\"}),`\n`,(0,e.jsxs)(a.p,{children:[\"Sedangkan untuk video dari \",(0,e.jsx)(a.strong,{children:\"YouTube\"}),\"...\"]}),`\n`,(0,e.jsx)(a.div,{\"data-rehype-pretty-code-fragment\":\"\",children:(0,e.jsx)(a.pre,{className:\"github-dark\",style:{backgroundColor:\"#24292e\"},tabIndex:\"0\",\"data-language\":\"\",\"data-theme\":\"default\",children:(0,e.jsx)(a.code,{\"data-language\":\"\",\"data-theme\":\"default\",children:(0,e.jsx)(a.span,{\"data-line\":\"\",children:(0,e.jsx)(a.span,{style:{color:\"#e1e4e8\"},children:'<YouTube id=\"EbneWlPGRtU\" />'})})})})}),`\n`,(0,e.jsx)(a.p,{children:\"Hasilnya akan nampak seperti berikut ini:\"}),`\n`,(0,e.jsx)(s,{id:\"EbneWlPGRtU\"}),`\n`,(0,e.jsx)(a.hr,{})]})}function v(n={}){let{wrapper:a}=n.components||{};return a?(0,e.jsx)(a,Object.assign({},n,{children:(0,e.jsx)(o,n)})):o(n)}var j=v;function l(n,a){throw new Error(\"Expected \"+(a?\"component\":\"object\")+\" `\"+n+\"` to be defined: you likely forgot to import, pass, or provide it.\")}return x(N);})();\n;return Component;"
+        },
+        "_id": "penulisan-artikel-di-sini/index.mdx",
+        "_raw": {
+          "sourceFilePath": "penulisan-artikel-di-sini/index.mdx",
+          "sourceFileName": "index.mdx",
+          "sourceFileDir": "penulisan-artikel-di-sini",
+          "contentType": "mdx",
+          "flattenedPath": "penulisan-artikel-di-sini"
+        },
+        "type": "Blog",
+        "url": "/blogs/penulisan-artikel-di-sini",
+        "readingTime": {
+          "text": "4 min read",
+          "minutes": 3.07,
+          "time": 184200,
+          "words": 614
+        },
+        "toc": [
+          {
+            "level": "one",
+            "text": "Header 1",
+            "slug": "header-1"
+          },
+          {
+            "level": "two",
+            "text": "Header 2",
+            "slug": "header-2"
+          },
+          {
+            "level": "three",
+            "text": "Header 3",
+            "slug": "header-3"
+          },
+          {
+            "level": "three",
+            "text": "Header 4",
+            "slug": "header-4"
+          },
+          {
+            "level": "three",
+            "text": "Header 3",
+            "slug": "header-3-1"
+          },
+          {
+            "level": "two",
+            "text": "Header 2",
+            "slug": "header-2-1"
+          },
+          {
+            "level": "one",
+            "text": "Header 1",
+            "slug": "header-1-1"
+          },
+          {
+            "level": "one",
+            "text": "Header 1",
+            "slug": "header-1-2"
+          },
+          {
+            "level": "two",
+            "text": "Header 2",
+            "slug": "header-2-2"
+          },
+          {
+            "level": "three",
+            "text": "Header 3",
+            "slug": "header-3-2"
+          },
+          {
+            "level": "three",
+            "text": "Header 4",
+            "slug": "header-4-1"
+          },
+          {
+            "level": "three",
+            "text": "Header 3",
+            "slug": "header-3-3"
+          },
+          {
+            "level": "two",
+            "text": "Header 2",
+            "slug": "header-2-3"
+          },
+          {
+            "level": "one",
+            "text": "Header 1",
+            "slug": "header-1-3"
           }
         ]
       },
@@ -2401,123 +2518,6 @@
             "level": "three",
             "text": "Going Far",
             "slug": "going-far"
-          }
-        ]
-      },
-      "documentHash": "1766324702319",
-      "hasWarnings": false,
-      "documentTypeName": "Blog"
-    },
-    "penulisan-artikel-di-sini/index.mdx": {
-      "document": {
-        "title": "Judul Artikel Ditulis Di Sini Saja",
-        "publishedAt": "2022-02-20T00:00:00.000Z",
-        "updatedAt": "2022-02-20T00:00:00.000Z",
-        "description": "Deskripsi atau highlight dari keseluruhan isi artikel ditulis di sini.",
-        "image": {
-          "filePath": "../public/blogs/judul-artikel-ditulis-di-sini-saja.png",
-          "relativeFilePath": "../../public/blogs/judul-artikel-ditulis-di-sini-saja.png",
-          "format": "png",
-          "height": 1333,
-          "width": 2000,
-          "aspectRatio": 1.5003750937734435,
-          "blurhashDataUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAMAAADz0U65AAAACVBMVEU0NDRAQEBPT0+L7mv2AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAIUlEQVR4nGNgYmRgYGSEEGAayoAJMUEVMDExgACIhw0AAAdcAChRnpATAAAAAElFTkSuQmCC"
-        },
-        "isPublished": true,
-        "author": "nota",
-        "tags": [
-          "ultimate guide"
-        ],
-        "body": {
-          "raw": "\nIni adalah artikel yang berisi panduan atau tutorial untuk menulis konten di website **NFT Indonesia**. Silahkan dibaca dan dipelajari.\n\nArtikel bisa mulai ditulis menggunakan paragraf atau alinea-alinea di penulisan artikelnya. Cara menulisnya seperti paragraf ini. Bebas tidak dibatasi kata dan kalimat.\n\n---\n\nSelain paragraf juga bisa menggunakan quote, seperti berikut ini contoh menulisnya:\n\n```\n> Quote ditulis dengan diawali dengan tanda `>` di setiap baris baru. Kalau berupa paragraf, cukup sekali saja menggunakan tanda `>` seperti contoh yang sedang dibaca ini.\n> Kalau berupa baris baru, tanda `>` harus digunakan lagi di awal tulisan, seperti baris baru yang sedang dibaca ini.\n```\n\nHasilnya akan nampak seperti berikut ini:\n\n> Quote ditulis dengan diawali dengan tanda `>` di setiap baris baru. Kalau berupa paragraf, cukup sekali saja menggunakan tanda `>` seperti contoh yang sedang dibaca ini.\n> Kalau berupa baris baru, tanda `>` harus digunakan lagi di awal tulisan, seperti baris baru yang sedang dibaca ini.\n\n---\n\nUntuk mencetak tebal suatu kata atau frase, bisa menggunakan tanda `**` di depan dan di akhir kata atau frase. Contohnya seperti ini:\n\n```\n**cetak tebal**\n```\n\nHasilnya akan seperti ini: **cetak tebal**\n\n---\n\nUntuk menuliskan kata atau frase yang memilik link url, atau nge-link ke alamat url bisa menggunakan cara seperti contoh berikut ini:\n\n```\n[kata atau frase yang nge-link](#almat-url-link-nya)\n```\n\nHasilnya akan seperti berikut ini: [kata atau frase yang nge-link](#almat-url-link-nya)\n\n---\n\nLalu untuk mengakhir sebuah bagian dari artikel dan memisahkan dengan bagian lain, cukup menggunakan tanda seperti berikut ini:\n\n```\n---\n```\n\nTanda tersebut akan memunculkan sehelai garis sebagai penutup atau pembatas sebuah bagian dari artikel dengan bagian lainnya. Seperti nampak pada garis di bawah ini.\n\n---\n\nLalu untuk menulis H1, H2, H3, dan H4 bisa menggunakan tanda `#` seperti berikut ini:\n\n```\n# Header 1\n\n## Header 2\n\n### Header 3\n\n#### Header 4\n\n### Header 3\n\n## Header 2\n\n# Header 1\n```\n\nHasilnya bisa dilihat di bawah ini:\n\n# Header 1\n\n## Header 2\n\n### Header 3\n\n#### Header 4\n\n### Header 3\n\n## Header 2\n\n# Header 1\n\nSetiap H1, H2, H3, dan H4, akan otomatis digunakan sebagai daftar isi artikel sesuai hirarki H1, H2, H3, dan H4 seperti nampak di bagian daftar isi (Table Of Content) dari artikel ini.\n\n---\n\nLalu kalau ingin menuliskan sebuah daftar dengan nomor, bisa dengan cara mencantumkan nomor di depan kata atau frase sesuai urutan daftar yang akan dibuat.\n\n```\n1. Isi nomor satu.\n2. Isi nomor dua.\n3. Isi nomor tiga.\n```\n\nHasilnya seperti berikut ini:\n\n1. Isi nomor satu.\n2. Isi nomor dua.\n3. Isi nomor tiga.\n\nLalu kalau ingin menuliskan sebuah daftar tanpa nomor, bisa dengan cara menambahkan tanda `-` di depan setiap kata atau frase yang dicantumkan di dalam daftar yang akan dibuat.\n\n```\n- Isi nomor satu.\n- Isi nomor dua.\n- Isi nomor tiga.\n```\n\nHasilnya seperti berikut ini:\n\n- Isi daftar.\n- Isi daftar.\n- Isi daftar.\n\n---\n\nSelanjutnya kalau ingin menampilkan sebuah image atau gambar atau foto di dalam artikel, bisa menggunakan cara berikut ini:\n\n```\n<Image\n  src=\"https://ipfs.io/ipfs/Qme4RHiGt6CoreJd6aeBiZ9K1avsN89uwVWcE1WJzodMJd/judul-artikel-ditulis-di-sini-saja.jpg\"\n  width=\"3840\"\n  height=\"2560\"\n  alt=\"Image\"\n  sizes=\"100vw\"\n/>\n```\n\nHasilnya akan nampak seperti berikut ini:\n\n<Image\n  src=\"https://ipfs.io/ipfs/Qme4RHiGt6CoreJd6aeBiZ9K1avsN89uwVWcE1WJzodMJd/judul-artikel-ditulis-di-sini-saja.jpg\"\n  width=\"3840\"\n  height=\"2560\"\n  alt=\"Image\"\n  sizes=\"100vw\"\n/>\n\n---\n\nLalu untuk menampilkan audio player di dalam artikel bisa digunakan cara seperti berikut ini:\n\n```\n<AudioSource yyy=\"https://ipfs.io/ipfs/QmS4LEuU4Z1SjK5ae2Dk1xvfwBYhcGdzWgkzjyR2JWinxU/nft-indonesia-progressive-web-app.mp3\" />\n```\n\nHasilnya akan nampak seperti berikut ini:\n\n<AudioSource yyy=\"https://ipfs.io/ipfs/QmS4LEuU4Z1SjK5ae2Dk1xvfwBYhcGdzWgkzjyR2JWinxU/nft-indonesia-progressive-web-app.mp3\" />\n\n---\n\nYang terakhir dan yang tidak kalah pentingnya adalah menampilkan video. Jika ingin menampilkan video di dalam artikel, cukup dengan menggunakan beberapa cara berikut ini:\n\nUntuk video dari **IPFS**...\n\n```\n<VideoSource xxx=\"https://ipfs.io/ipfs/QmcVxQcFhHY86vhsBdLzZgWkG2ivPYfhQy4L7YHY2RcRr5/collective-update-december-2023-13.mp4\" />\n```\n\nHasilnya akan nampak seperti berikut ini:\n\n<VideoSource xxx=\"https://ipfs.io/ipfs/QmcVxQcFhHY86vhsBdLzZgWkG2ivPYfhQy4L7YHY2RcRr5/collective-update-december-2023-13.mp4\" />\n\nSedangkan untuk video dari **YouTube**...\n\n```\n<YouTube id=\"EbneWlPGRtU\" />\n```\n\nHasilnya akan nampak seperti berikut ini:\n\n<YouTube id=\"EbneWlPGRtU\" />\n\n---",
-          "code": "var Component=(()=>{var p=Object.create;var t=Object.defineProperty;var g=Object.getOwnPropertyDescriptor;var k=Object.getOwnPropertyNames;var m=Object.getPrototypeOf,b=Object.prototype.hasOwnProperty;var y=(n,a)=>()=>(a||n((a={exports:{}}).exports,a),a.exports),f=(n,a)=>{for(var i in a)t(n,i,{get:a[i],enumerable:!0})},c=(n,a,i,r)=>{if(a&&typeof a==\"object\"||typeof a==\"function\")for(let d of k(a))!b.call(n,d)&&d!==i&&t(n,d,{get:()=>a[d],enumerable:!(r=g(a,d))||r.enumerable});return n};var H=(n,a,i)=>(i=n!=null?p(m(n)):{},c(a||!n||!n.__esModule?t(i,\"default\",{value:n,enumerable:!0}):i,n)),x=n=>c(t({},\"__esModule\",{value:!0}),n);var u=y((S,h)=>{h.exports=_jsx_runtime});var N={};f(N,{default:()=>j,frontmatter:()=>I});var e=H(u()),I={title:\"Judul Artikel Ditulis Di Sini Saja\",description:\"Deskripsi atau highlight dari keseluruhan isi artikel ditulis di sini.\",image:\"../../public/blogs/judul-artikel-ditulis-di-sini-saja.png\",publishedAt:\"2022-02-20\",updatedAt:\"2022-02-20\",author:\"nota\",isPublished:!0,tags:[\"ultimate guide\"]};function o(n){let a=Object.assign({p:\"p\",strong:\"strong\",hr:\"hr\",div:\"div\",pre:\"pre\",code:\"code\",span:\"span\",blockquote:\"blockquote\",a:\"a\",h1:\"h1\",h2:\"h2\",h3:\"h3\",h4:\"h4\",ol:\"ol\",li:\"li\",ul:\"ul\"},n.components),{Image:i,AudioSource:r,VideoSource:d,YouTube:s}=a;return r||l(\"AudioSource\",!0),i||l(\"Image\",!0),d||l(\"VideoSource\",!0),s||l(\"YouTube\",!0),(0,e.jsxs)(e.Fragment,{children:[(0,e.jsxs)(a.p,{children:[\"Ini adalah artikel yang berisi panduan atau tutorial untuk menulis konten di website \",(0,e.jsx)(a.strong,{children:\"NFT Indonesia\"}),\". Silahkan dibaca dan dipelajari.\"]}),`\n`,(0,e.jsx)(a.p,{children:\"Artikel bisa mulai ditulis menggunakan paragraf atau alinea-alinea di penulisan artikelnya. Cara menulisnya seperti paragraf ini. Bebas tidak dibatasi kata dan kalimat.\"}),`\n`,(0,e.jsx)(a.hr,{}),`\n`,(0,e.jsx)(a.p,{children:\"Selain paragraf juga bisa menggunakan quote, seperti berikut ini contoh menulisnya:\"}),`\n`,(0,e.jsx)(a.div,{\"data-rehype-pretty-code-fragment\":\"\",children:(0,e.jsx)(a.pre,{className:\"github-dark\",style:{backgroundColor:\"#24292e\"},tabIndex:\"0\",\"data-language\":\"\",\"data-theme\":\"default\",children:(0,e.jsxs)(a.code,{\"data-language\":\"\",\"data-theme\":\"default\",children:[(0,e.jsx)(a.span,{\"data-line\":\"\",children:(0,e.jsx)(a.span,{style:{color:\"#e1e4e8\"},children:\"> Quote ditulis dengan diawali dengan tanda `>` di setiap baris baru. Kalau berupa paragraf, cukup sekali saja menggunakan tanda `>` seperti contoh yang sedang dibaca ini.\"})}),`\n`,(0,e.jsx)(a.span,{\"data-line\":\"\",children:(0,e.jsx)(a.span,{style:{color:\"#e1e4e8\"},children:\"> Kalau berupa baris baru, tanda `>` harus digunakan lagi di awal tulisan, seperti baris baru yang sedang dibaca ini.\"})})]})})}),`\n`,(0,e.jsx)(a.p,{children:\"Hasilnya akan nampak seperti berikut ini:\"}),`\n`,(0,e.jsxs)(a.blockquote,{children:[`\n`,(0,e.jsxs)(a.p,{children:[\"Quote ditulis dengan diawali dengan tanda \",(0,e.jsx)(a.code,{children:\">\"}),\" di setiap baris baru. Kalau berupa paragraf, cukup sekali saja menggunakan tanda \",(0,e.jsx)(a.code,{children:\">\"}),` seperti contoh yang sedang dibaca ini.\nKalau berupa baris baru, tanda `,(0,e.jsx)(a.code,{children:\">\"}),\" harus digunakan lagi di awal tulisan, seperti baris baru yang sedang dibaca ini.\"]}),`\n`]}),`\n`,(0,e.jsx)(a.hr,{}),`\n`,(0,e.jsxs)(a.p,{children:[\"Untuk mencetak tebal suatu kata atau frase, bisa menggunakan tanda \",(0,e.jsx)(a.code,{children:\"**\"}),\" di depan dan di akhir kata atau frase. Contohnya seperti ini:\"]}),`\n`,(0,e.jsx)(a.div,{\"data-rehype-pretty-code-fragment\":\"\",children:(0,e.jsx)(a.pre,{className:\"github-dark\",style:{backgroundColor:\"#24292e\"},tabIndex:\"0\",\"data-language\":\"\",\"data-theme\":\"default\",children:(0,e.jsx)(a.code,{\"data-language\":\"\",\"data-theme\":\"default\",children:(0,e.jsx)(a.span,{\"data-line\":\"\",children:(0,e.jsx)(a.span,{style:{color:\"#e1e4e8\"},children:\"**cetak tebal**\"})})})})}),`\n`,(0,e.jsxs)(a.p,{children:[\"Hasilnya akan seperti ini: \",(0,e.jsx)(a.strong,{children:\"cetak tebal\"})]}),`\n`,(0,e.jsx)(a.hr,{}),`\n`,(0,e.jsx)(a.p,{children:\"Untuk menuliskan kata atau frase yang memilik link url, atau nge-link ke alamat url bisa menggunakan cara seperti contoh berikut ini:\"}),`\n`,(0,e.jsx)(a.div,{\"data-rehype-pretty-code-fragment\":\"\",children:(0,e.jsx)(a.pre,{className:\"github-dark\",style:{backgroundColor:\"#24292e\"},tabIndex:\"0\",\"data-language\":\"\",\"data-theme\":\"default\",children:(0,e.jsx)(a.code,{\"data-language\":\"\",\"data-theme\":\"default\",children:(0,e.jsx)(a.span,{\"data-line\":\"\",children:(0,e.jsx)(a.span,{style:{color:\"#e1e4e8\"},children:\"[kata atau frase yang nge-link](#almat-url-link-nya)\"})})})})}),`\n`,(0,e.jsxs)(a.p,{children:[\"Hasilnya akan seperti berikut ini: \",(0,e.jsx)(a.a,{href:\"#almat-url-link-nya\",children:\"kata atau frase yang nge-link\"})]}),`\n`,(0,e.jsx)(a.hr,{}),`\n`,(0,e.jsx)(a.p,{children:\"Lalu untuk mengakhir sebuah bagian dari artikel dan memisahkan dengan bagian lain, cukup menggunakan tanda seperti berikut ini:\"}),`\n`,(0,e.jsx)(a.div,{\"data-rehype-pretty-code-fragment\":\"\",children:(0,e.jsx)(a.pre,{className:\"github-dark\",style:{backgroundColor:\"#24292e\"},tabIndex:\"0\",\"data-language\":\"\",\"data-theme\":\"default\",children:(0,e.jsx)(a.code,{\"data-language\":\"\",\"data-theme\":\"default\",children:(0,e.jsx)(a.span,{\"data-line\":\"\",children:(0,e.jsx)(a.span,{style:{color:\"#e1e4e8\"},children:\"---\"})})})})}),`\n`,(0,e.jsx)(a.p,{children:\"Tanda tersebut akan memunculkan sehelai garis sebagai penutup atau pembatas sebuah bagian dari artikel dengan bagian lainnya. Seperti nampak pada garis di bawah ini.\"}),`\n`,(0,e.jsx)(a.hr,{}),`\n`,(0,e.jsxs)(a.p,{children:[\"Lalu untuk menulis H1, H2, H3, dan H4 bisa menggunakan tanda \",(0,e.jsx)(a.code,{children:\"#\"}),\" seperti berikut ini:\"]}),`\n`,(0,e.jsx)(a.div,{\"data-rehype-pretty-code-fragment\":\"\",children:(0,e.jsx)(a.pre,{className:\"github-dark\",style:{backgroundColor:\"#24292e\"},tabIndex:\"0\",\"data-language\":\"\",\"data-theme\":\"default\",children:(0,e.jsxs)(a.code,{\"data-language\":\"\",\"data-theme\":\"default\",children:[(0,e.jsx)(a.span,{\"data-line\":\"\",children:(0,e.jsx)(a.span,{style:{color:\"#e1e4e8\"},children:\"# Header 1\"})}),`\n`,(0,e.jsx)(a.span,{\"data-line\":\"\",children:(0,e.jsx)(a.span,{style:{color:\"#e1e4e8\"}})}),`\n`,(0,e.jsx)(a.span,{\"data-line\":\"\",children:(0,e.jsx)(a.span,{style:{color:\"#e1e4e8\"},children:\"## Header 2\"})}),`\n`,(0,e.jsx)(a.span,{\"data-line\":\"\",children:(0,e.jsx)(a.span,{style:{color:\"#e1e4e8\"}})}),`\n`,(0,e.jsx)(a.span,{\"data-line\":\"\",children:(0,e.jsx)(a.span,{style:{color:\"#e1e4e8\"},children:\"### Header 3\"})}),`\n`,(0,e.jsx)(a.span,{\"data-line\":\"\",children:(0,e.jsx)(a.span,{style:{color:\"#e1e4e8\"}})}),`\n`,(0,e.jsx)(a.span,{\"data-line\":\"\",children:(0,e.jsx)(a.span,{style:{color:\"#e1e4e8\"},children:\"#### Header 4\"})}),`\n`,(0,e.jsx)(a.span,{\"data-line\":\"\",children:(0,e.jsx)(a.span,{style:{color:\"#e1e4e8\"}})}),`\n`,(0,e.jsx)(a.span,{\"data-line\":\"\",children:(0,e.jsx)(a.span,{style:{color:\"#e1e4e8\"},children:\"### Header 3\"})}),`\n`,(0,e.jsx)(a.span,{\"data-line\":\"\",children:(0,e.jsx)(a.span,{style:{color:\"#e1e4e8\"}})}),`\n`,(0,e.jsx)(a.span,{\"data-line\":\"\",children:(0,e.jsx)(a.span,{style:{color:\"#e1e4e8\"},children:\"## Header 2\"})}),`\n`,(0,e.jsx)(a.span,{\"data-line\":\"\",children:(0,e.jsx)(a.span,{style:{color:\"#e1e4e8\"}})}),`\n`,(0,e.jsx)(a.span,{\"data-line\":\"\",children:(0,e.jsx)(a.span,{style:{color:\"#e1e4e8\"},children:\"# Header 1\"})})]})})}),`\n`,(0,e.jsx)(a.p,{children:\"Hasilnya bisa dilihat di bawah ini:\"}),`\n`,(0,e.jsxs)(a.h1,{id:\"header-1\",children:[\"Header 1\",(0,e.jsx)(a.a,{\"aria-hidden\":\"true\",tabIndex:\"-1\",href:\"#header-1\",children:(0,e.jsx)(a.span,{className:\"icon icon-link\"})})]}),`\n`,(0,e.jsxs)(a.h2,{id:\"header-2\",children:[\"Header 2\",(0,e.jsx)(a.a,{\"aria-hidden\":\"true\",tabIndex:\"-1\",href:\"#header-2\",children:(0,e.jsx)(a.span,{className:\"icon icon-link\"})})]}),`\n`,(0,e.jsxs)(a.h3,{id:\"header-3\",children:[\"Header 3\",(0,e.jsx)(a.a,{\"aria-hidden\":\"true\",tabIndex:\"-1\",href:\"#header-3\",children:(0,e.jsx)(a.span,{className:\"icon icon-link\"})})]}),`\n`,(0,e.jsxs)(a.h4,{id:\"header-4\",children:[\"Header 4\",(0,e.jsx)(a.a,{\"aria-hidden\":\"true\",tabIndex:\"-1\",href:\"#header-4\",children:(0,e.jsx)(a.span,{className:\"icon icon-link\"})})]}),`\n`,(0,e.jsxs)(a.h3,{id:\"header-3-1\",children:[\"Header 3\",(0,e.jsx)(a.a,{\"aria-hidden\":\"true\",tabIndex:\"-1\",href:\"#header-3-1\",children:(0,e.jsx)(a.span,{className:\"icon icon-link\"})})]}),`\n`,(0,e.jsxs)(a.h2,{id:\"header-2-1\",children:[\"Header 2\",(0,e.jsx)(a.a,{\"aria-hidden\":\"true\",tabIndex:\"-1\",href:\"#header-2-1\",children:(0,e.jsx)(a.span,{className:\"icon icon-link\"})})]}),`\n`,(0,e.jsxs)(a.h1,{id:\"header-1-1\",children:[\"Header 1\",(0,e.jsx)(a.a,{\"aria-hidden\":\"true\",tabIndex:\"-1\",href:\"#header-1-1\",children:(0,e.jsx)(a.span,{className:\"icon icon-link\"})})]}),`\n`,(0,e.jsx)(a.p,{children:\"Setiap H1, H2, H3, dan H4, akan otomatis digunakan sebagai daftar isi artikel sesuai hirarki H1, H2, H3, dan H4 seperti nampak di bagian daftar isi (Table Of Content) dari artikel ini.\"}),`\n`,(0,e.jsx)(a.hr,{}),`\n`,(0,e.jsx)(a.p,{children:\"Lalu kalau ingin menuliskan sebuah daftar dengan nomor, bisa dengan cara mencantumkan nomor di depan kata atau frase sesuai urutan daftar yang akan dibuat.\"}),`\n`,(0,e.jsx)(a.div,{\"data-rehype-pretty-code-fragment\":\"\",children:(0,e.jsx)(a.pre,{className:\"github-dark\",style:{backgroundColor:\"#24292e\"},tabIndex:\"0\",\"data-language\":\"\",\"data-theme\":\"default\",children:(0,e.jsxs)(a.code,{\"data-language\":\"\",\"data-theme\":\"default\",children:[(0,e.jsx)(a.span,{\"data-line\":\"\",children:(0,e.jsx)(a.span,{style:{color:\"#e1e4e8\"},children:\"1. Isi nomor satu.\"})}),`\n`,(0,e.jsx)(a.span,{\"data-line\":\"\",children:(0,e.jsx)(a.span,{style:{color:\"#e1e4e8\"},children:\"2. Isi nomor dua.\"})}),`\n`,(0,e.jsx)(a.span,{\"data-line\":\"\",children:(0,e.jsx)(a.span,{style:{color:\"#e1e4e8\"},children:\"3. Isi nomor tiga.\"})})]})})}),`\n`,(0,e.jsx)(a.p,{children:\"Hasilnya seperti berikut ini:\"}),`\n`,(0,e.jsxs)(a.ol,{children:[`\n`,(0,e.jsx)(a.li,{children:\"Isi nomor satu.\"}),`\n`,(0,e.jsx)(a.li,{children:\"Isi nomor dua.\"}),`\n`,(0,e.jsx)(a.li,{children:\"Isi nomor tiga.\"}),`\n`]}),`\n`,(0,e.jsxs)(a.p,{children:[\"Lalu kalau ingin menuliskan sebuah daftar tanpa nomor, bisa dengan cara menambahkan tanda \",(0,e.jsx)(a.code,{children:\"-\"}),\" di depan setiap kata atau frase yang dicantumkan di dalam daftar yang akan dibuat.\"]}),`\n`,(0,e.jsx)(a.div,{\"data-rehype-pretty-code-fragment\":\"\",children:(0,e.jsx)(a.pre,{className:\"github-dark\",style:{backgroundColor:\"#24292e\"},tabIndex:\"0\",\"data-language\":\"\",\"data-theme\":\"default\",children:(0,e.jsxs)(a.code,{\"data-language\":\"\",\"data-theme\":\"default\",children:[(0,e.jsx)(a.span,{\"data-line\":\"\",children:(0,e.jsx)(a.span,{style:{color:\"#e1e4e8\"},children:\"- Isi nomor satu.\"})}),`\n`,(0,e.jsx)(a.span,{\"data-line\":\"\",children:(0,e.jsx)(a.span,{style:{color:\"#e1e4e8\"},children:\"- Isi nomor dua.\"})}),`\n`,(0,e.jsx)(a.span,{\"data-line\":\"\",children:(0,e.jsx)(a.span,{style:{color:\"#e1e4e8\"},children:\"- Isi nomor tiga.\"})})]})})}),`\n`,(0,e.jsx)(a.p,{children:\"Hasilnya seperti berikut ini:\"}),`\n`,(0,e.jsxs)(a.ul,{children:[`\n`,(0,e.jsx)(a.li,{children:\"Isi daftar.\"}),`\n`,(0,e.jsx)(a.li,{children:\"Isi daftar.\"}),`\n`,(0,e.jsx)(a.li,{children:\"Isi daftar.\"}),`\n`]}),`\n`,(0,e.jsx)(a.hr,{}),`\n`,(0,e.jsx)(a.p,{children:\"Selanjutnya kalau ingin menampilkan sebuah image atau gambar atau foto di dalam artikel, bisa menggunakan cara berikut ini:\"}),`\n`,(0,e.jsx)(a.div,{\"data-rehype-pretty-code-fragment\":\"\",children:(0,e.jsx)(a.pre,{className:\"github-dark\",style:{backgroundColor:\"#24292e\"},tabIndex:\"0\",\"data-language\":\"\",\"data-theme\":\"default\",children:(0,e.jsxs)(a.code,{\"data-language\":\"\",\"data-theme\":\"default\",children:[(0,e.jsx)(a.span,{\"data-line\":\"\",children:(0,e.jsx)(a.span,{style:{color:\"#e1e4e8\"},children:\"<Image\"})}),`\n`,(0,e.jsx)(a.span,{\"data-line\":\"\",children:(0,e.jsx)(a.span,{style:{color:\"#e1e4e8\"},children:'  src=\"https://ipfs.io/ipfs/Qme4RHiGt6CoreJd6aeBiZ9K1avsN89uwVWcE1WJzodMJd/judul-artikel-ditulis-di-sini-saja.jpg\"'})}),`\n`,(0,e.jsx)(a.span,{\"data-line\":\"\",children:(0,e.jsx)(a.span,{style:{color:\"#e1e4e8\"},children:'  width=\"3840\"'})}),`\n`,(0,e.jsx)(a.span,{\"data-line\":\"\",children:(0,e.jsx)(a.span,{style:{color:\"#e1e4e8\"},children:'  height=\"2560\"'})}),`\n`,(0,e.jsx)(a.span,{\"data-line\":\"\",children:(0,e.jsx)(a.span,{style:{color:\"#e1e4e8\"},children:'  alt=\"Image\"'})}),`\n`,(0,e.jsx)(a.span,{\"data-line\":\"\",children:(0,e.jsx)(a.span,{style:{color:\"#e1e4e8\"},children:'  sizes=\"100vw\"'})}),`\n`,(0,e.jsx)(a.span,{\"data-line\":\"\",children:(0,e.jsx)(a.span,{style:{color:\"#e1e4e8\"},children:\"/>\"})})]})})}),`\n`,(0,e.jsx)(a.p,{children:\"Hasilnya akan nampak seperti berikut ini:\"}),`\n`,(0,e.jsx)(i,{src:\"https://ipfs.io/ipfs/Qme4RHiGt6CoreJd6aeBiZ9K1avsN89uwVWcE1WJzodMJd/judul-artikel-ditulis-di-sini-saja.jpg\",width:\"3840\",height:\"2560\",alt:\"Image\",sizes:\"100vw\"}),`\n`,(0,e.jsx)(a.hr,{}),`\n`,(0,e.jsx)(a.p,{children:\"Lalu untuk menampilkan audio player di dalam artikel bisa digunakan cara seperti berikut ini:\"}),`\n`,(0,e.jsx)(a.div,{\"data-rehype-pretty-code-fragment\":\"\",children:(0,e.jsx)(a.pre,{className:\"github-dark\",style:{backgroundColor:\"#24292e\"},tabIndex:\"0\",\"data-language\":\"\",\"data-theme\":\"default\",children:(0,e.jsx)(a.code,{\"data-language\":\"\",\"data-theme\":\"default\",children:(0,e.jsx)(a.span,{\"data-line\":\"\",children:(0,e.jsx)(a.span,{style:{color:\"#e1e4e8\"},children:'<AudioSource yyy=\"https://ipfs.io/ipfs/QmS4LEuU4Z1SjK5ae2Dk1xvfwBYhcGdzWgkzjyR2JWinxU/nft-indonesia-progressive-web-app.mp3\" />'})})})})}),`\n`,(0,e.jsx)(a.p,{children:\"Hasilnya akan nampak seperti berikut ini:\"}),`\n`,(0,e.jsx)(r,{yyy:\"https://ipfs.io/ipfs/QmS4LEuU4Z1SjK5ae2Dk1xvfwBYhcGdzWgkzjyR2JWinxU/nft-indonesia-progressive-web-app.mp3\"}),`\n`,(0,e.jsx)(a.hr,{}),`\n`,(0,e.jsx)(a.p,{children:\"Yang terakhir dan yang tidak kalah pentingnya adalah menampilkan video. Jika ingin menampilkan video di dalam artikel, cukup dengan menggunakan beberapa cara berikut ini:\"}),`\n`,(0,e.jsxs)(a.p,{children:[\"Untuk video dari \",(0,e.jsx)(a.strong,{children:\"IPFS\"}),\"...\"]}),`\n`,(0,e.jsx)(a.div,{\"data-rehype-pretty-code-fragment\":\"\",children:(0,e.jsx)(a.pre,{className:\"github-dark\",style:{backgroundColor:\"#24292e\"},tabIndex:\"0\",\"data-language\":\"\",\"data-theme\":\"default\",children:(0,e.jsx)(a.code,{\"data-language\":\"\",\"data-theme\":\"default\",children:(0,e.jsx)(a.span,{\"data-line\":\"\",children:(0,e.jsx)(a.span,{style:{color:\"#e1e4e8\"},children:'<VideoSource xxx=\"https://ipfs.io/ipfs/QmcVxQcFhHY86vhsBdLzZgWkG2ivPYfhQy4L7YHY2RcRr5/collective-update-december-2023-13.mp4\" />'})})})})}),`\n`,(0,e.jsx)(a.p,{children:\"Hasilnya akan nampak seperti berikut ini:\"}),`\n`,(0,e.jsx)(d,{xxx:\"https://ipfs.io/ipfs/QmcVxQcFhHY86vhsBdLzZgWkG2ivPYfhQy4L7YHY2RcRr5/collective-update-december-2023-13.mp4\"}),`\n`,(0,e.jsxs)(a.p,{children:[\"Sedangkan untuk video dari \",(0,e.jsx)(a.strong,{children:\"YouTube\"}),\"...\"]}),`\n`,(0,e.jsx)(a.div,{\"data-rehype-pretty-code-fragment\":\"\",children:(0,e.jsx)(a.pre,{className:\"github-dark\",style:{backgroundColor:\"#24292e\"},tabIndex:\"0\",\"data-language\":\"\",\"data-theme\":\"default\",children:(0,e.jsx)(a.code,{\"data-language\":\"\",\"data-theme\":\"default\",children:(0,e.jsx)(a.span,{\"data-line\":\"\",children:(0,e.jsx)(a.span,{style:{color:\"#e1e4e8\"},children:'<YouTube id=\"EbneWlPGRtU\" />'})})})})}),`\n`,(0,e.jsx)(a.p,{children:\"Hasilnya akan nampak seperti berikut ini:\"}),`\n`,(0,e.jsx)(s,{id:\"EbneWlPGRtU\"}),`\n`,(0,e.jsx)(a.hr,{})]})}function v(n={}){let{wrapper:a}=n.components||{};return a?(0,e.jsx)(a,Object.assign({},n,{children:(0,e.jsx)(o,n)})):o(n)}var j=v;function l(n,a){throw new Error(\"Expected \"+(a?\"component\":\"object\")+\" `\"+n+\"` to be defined: you likely forgot to import, pass, or provide it.\")}return x(N);})();\n;return Component;"
-        },
-        "_id": "penulisan-artikel-di-sini/index.mdx",
-        "_raw": {
-          "sourceFilePath": "penulisan-artikel-di-sini/index.mdx",
-          "sourceFileName": "index.mdx",
-          "sourceFileDir": "penulisan-artikel-di-sini",
-          "contentType": "mdx",
-          "flattenedPath": "penulisan-artikel-di-sini"
-        },
-        "type": "Blog",
-        "url": "/blogs/penulisan-artikel-di-sini",
-        "readingTime": {
-          "text": "4 min read",
-          "minutes": 3.07,
-          "time": 184200,
-          "words": 614
-        },
-        "toc": [
-          {
-            "level": "one",
-            "text": "Header 1",
-            "slug": "header-1"
-          },
-          {
-            "level": "two",
-            "text": "Header 2",
-            "slug": "header-2"
-          },
-          {
-            "level": "three",
-            "text": "Header 3",
-            "slug": "header-3"
-          },
-          {
-            "level": "three",
-            "text": "Header 4",
-            "slug": "header-4"
-          },
-          {
-            "level": "three",
-            "text": "Header 3",
-            "slug": "header-3-1"
-          },
-          {
-            "level": "two",
-            "text": "Header 2",
-            "slug": "header-2-1"
-          },
-          {
-            "level": "one",
-            "text": "Header 1",
-            "slug": "header-1-1"
-          },
-          {
-            "level": "one",
-            "text": "Header 1",
-            "slug": "header-1-2"
-          },
-          {
-            "level": "two",
-            "text": "Header 2",
-            "slug": "header-2-2"
-          },
-          {
-            "level": "three",
-            "text": "Header 3",
-            "slug": "header-3-2"
-          },
-          {
-            "level": "three",
-            "text": "Header 4",
-            "slug": "header-4-1"
-          },
-          {
-            "level": "three",
-            "text": "Header 3",
-            "slug": "header-3-3"
-          },
-          {
-            "level": "two",
-            "text": "Header 2",
-            "slug": "header-2-3"
-          },
-          {
-            "level": "one",
-            "text": "Header 1",
-            "slug": "header-1-3"
           }
         ]
       },
