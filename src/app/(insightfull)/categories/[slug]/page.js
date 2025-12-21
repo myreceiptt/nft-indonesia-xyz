@@ -1,5 +1,5 @@
 import RiSoll from "@/src/components/Elements/RiSoll";
-import { allBlogs } from "@/.contentlayer/generated";
+import { getAllBlogs } from "@/src/lib/blogs";
 import BlogLayoutThree from "@/src/components/Blog/BlogLayoutThree";
 import Categories from "@/src/components/Blog/Categories";
 import GithubSlugger, { slug } from "github-slugger";
@@ -7,6 +7,7 @@ import GithubSlugger, { slug } from "github-slugger";
 const slugger = new GithubSlugger();
 
 export async function generateStaticParams() {
+  const allBlogs = await getAllBlogs();
   const categories = [];
   const paths = [{ slug: "all" }];
 
@@ -26,15 +27,17 @@ export async function generateStaticParams() {
 }
 
 export async function generateMetadata({ params }) {
+  const currentSlug = params?.slug || "all";
   return {
-    title: `Activities: ${params.slug.replaceAll("-", " ")}`,
+    title: `Activities: ${currentSlug.replaceAll("-", " ")}`,
     description: `Read more about ${
-      params.slug === "all" ? "work in progress" : params.slug
+      currentSlug === "all" ? "work in progress" : currentSlug
     } activities through our collection of all published content.`,
   };
 }
 
-const CategoryPage = ({ params }) => {
+const CategoryPage = async ({ params }) => {
+  const allBlogs = await getAllBlogs();
   // Separating logic to create list of categories from all blogs
   const allCategories = ["all"]; // Initialize with 'all' category
   allBlogs.forEach((blog) => {

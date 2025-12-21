@@ -1,6 +1,6 @@
 import RiSoll from "@/src/components/Elements/RiSoll";
 import AboutCoverSection from "@/src/components/About/AboutCoverSection";
-import { allBlogs } from "@/.contentlayer/generated";
+import { getAllBlogs } from "@/src/lib/blogs";
 import Categories from "@/src/components/Blog/Categories";
 import { slug } from "github-slugger";
 import Link from "next/link";
@@ -10,7 +10,8 @@ export const metadata = {
   description: `What is NFT Indonesia? What They Want? What They Do? What They Have? Who Are Their Team?`,
 };
 
-export default function AboutUs({ params }) {
+export default async function AboutUs({ params }) {
+  const allBlogs = await getAllBlogs();
   // Separating logic to create list of categories from all blogs
   const allCategories = ["all"]; // Initialize with 'all' category
   allBlogs.forEach((blog) => {
