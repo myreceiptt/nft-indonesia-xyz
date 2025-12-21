@@ -7,7 +7,7 @@ import { slug } from "github-slugger";
 const BlogLayoutThree = ({ blog }) => {
   return (
     <div className="group flex flex-col items-center text-dark dark:text-light">
-      <Link href={blog.url} className="h-full rounded-xl overflow-hidden">
+      <Link href={blog.url} prefetch={false} className="h-full rounded-xl overflow-hidden">
         <Image
           src={blog.image.filePath.replace("../public", "")}
           placeholder="blur"
@@ -26,7 +26,7 @@ const BlogLayoutThree = ({ blog }) => {
             #{slug(blog.tags[0])}
           </Link>
         </span>
-        <Link href={blog.url} className="inline-block my-1">
+        <Link href={blog.url} prefetch={false} className="inline-block my-1">
           <h2 className="font-semibold capitalize text-base sm:text-lg">
             <span className="bg-gradient-to-r from-dark/50 to-dark/50 dark:from-light/50 dark:to-light/50 bg-[length:0px_3px] group-hover:bg-[length:100%_3px] bg-left-bottom bg-no-repeat transition-[background-size] duration-500">
               {blog.title}
