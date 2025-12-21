@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://www.nftindonesia.xyz
+
+# Sitemaps
+Sitemap: https://www.nftindonesia.xyz/sitemap.xml

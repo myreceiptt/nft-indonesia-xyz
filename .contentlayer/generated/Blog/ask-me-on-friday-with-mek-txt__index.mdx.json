@@ -1,0 +1,57 @@
+{
+  "title": "Ask Me On Friday With MEK.TXT",
+  "publishedAt": "2024-09-17T00:00:00.000Z",
+  "updatedAt": "2024-09-17T00:00:00.000Z",
+  "description": "X Space Ask Me On Friday NFT Indonesia. Ngobrol santai dan sharing bareng MEK.txt tentang Doggo Dog Lab.",
+  "image": {
+    "filePath": "../public/blogs/ask-me-on-friday-mex-txt.png",
+    "relativeFilePath": "../../public/blogs/ask-me-on-friday-mex-txt.png",
+    "format": "png",
+    "height": 1333,
+    "width": 2000,
+    "aspectRatio": 1.5003750937734435,
+    "blurhashDataUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAMAAADz0U65AAAABlBMVEUzMzM/Pz/iGfx5AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAGElEQVR4nGNggAFGGAVlQHgwDiYDRR0DAAG8AAsSDruYAAAAAElFTkSuQmCC"
+  },
+  "isPublished": true,
+  "author": "zortan",
+  "tags": [
+    "ask me on friday"
+  ],
+  "body": {
+    "raw": "\n## Gabut Nih!!!!\n\nGM! \n\nHalo, men-temen! **Ask Me On Friday** kali ini akan menghadirkan mas MEK.txt dan kita akan ngobrol-ngobrol santai sambil sharing-sharing seputar \"[**Doggo Dog Lab**](https://x.com/DOGGODOG_lab)\".\n\nYoks, di-bookmark dan di-schedule dulu X-Space-nya biar nanti hari Jum'at tanggal 20 September 2024 gak ketinggalan dan bisa mendengarkan ngobrol santai kita, serta kalau men-temen kalau ada pertanyaan juga bisa langsung ditanyakan.\n\nX account MEK.txt: [@michaelmicasso](https://x.com/michaelmicasso)\nX account NFT Indonesia: [@NFTindonesia_](https://x.com/NFTindonesia_)\n\n---\n\n### Link X Space\n\nSesi **Ask Me On Friday** akan berlangsung hari Jum'at, 20 September 2024. Berikut ini link X-Space yang sudah dijadwalkan:\n\n[https://x.com/i/spaces/1LyxBgkgdeOKN](https://x.com/i/spaces/1LyxBgkgdeOKN)\n\n---\n\n### Poster Publikasi\n\n<Image\n  src=\"https://ipfs.io/ipfs/QmZMD6VyjwRAt69rbTXravqSQoXzwNsg1FeTr9rt6DF7X8/ask-me-on-friday-mex-txt-0.png\"\n  width=\"3840\"\n  height=\"2560\"\n  alt=\"Image\"\n  sizes=\"100vw\"\n/>\n\n<Image\n  src=\"https://ipfs.io/ipfs/QmZMD6VyjwRAt69rbTXravqSQoXzwNsg1FeTr9rt6DF7X8/ask-me-on-friday-mex-txt-1.png\"\n  width=\"3840\"\n  height=\"2560\"\n  alt=\"Image\"\n  sizes=\"100vw\"\n/>\n\n---",
+    "code": "var Component=(()=>{var l=Object.create;var r=Object.defineProperty;var g=Object.getOwnPropertyDescriptor;var p=Object.getOwnPropertyNames;var m=Object.getPrototypeOf,u=Object.prototype.hasOwnProperty;var k=(e,n)=>()=>(n||e((n={exports:{}}).exports,n),n.exports),b=(e,n)=>{for(var i in n)r(e,i,{get:n[i],enumerable:!0})},o=(e,n,i,s)=>{if(n&&typeof n==\"object\"||typeof n==\"function\")for(let t of p(n))!u.call(e,t)&&t!==i&&r(e,t,{get:()=>n[t],enumerable:!(s=g(n,t))||s.enumerable});return e};var x=(e,n,i)=>(i=e!=null?l(m(e)):{},o(n||!e||!e.__esModule?r(i,\"default\",{value:e,enumerable:!0}):i,e)),f=e=>o(r({},\"__esModule\",{value:!0}),e);var h=k((w,d)=>{d.exports=_jsx_runtime});var N={};b(N,{default:()=>X,frontmatter:()=>y});var a=x(h()),y={title:\"Ask Me On Friday With MEK.TXT\",description:\"X Space Ask Me On Friday NFT Indonesia. Ngobrol santai dan sharing bareng MEK.txt tentang Doggo Dog Lab.\",image:\"../../public/blogs/ask-me-on-friday-mex-txt.png\",publishedAt:\"2024-09-17\",updatedAt:\"2024-09-17\",author:\"zortan\",isPublished:!0,tags:[\"ask me on friday\"]};function c(e){let n=Object.assign({h2:\"h2\",a:\"a\",span:\"span\",p:\"p\",strong:\"strong\",hr:\"hr\",h3:\"h3\"},e.components),{Image:i}=n;return i||F(\"Image\",!0),(0,a.jsxs)(a.Fragment,{children:[(0,a.jsxs)(n.h2,{id:\"gabut-nih\",children:[\"Gabut Nih!!!!\",(0,a.jsx)(n.a,{\"aria-hidden\":\"true\",tabIndex:\"-1\",href:\"#gabut-nih\",children:(0,a.jsx)(n.span,{className:\"icon icon-link\"})})]}),`\n`,(0,a.jsx)(n.p,{children:\"GM!\"}),`\n`,(0,a.jsxs)(n.p,{children:[\"Halo, men-temen! \",(0,a.jsx)(n.strong,{children:\"Ask Me On Friday\"}),' kali ini akan menghadirkan mas MEK.txt dan kita akan ngobrol-ngobrol santai sambil sharing-sharing seputar \"',(0,a.jsx)(n.a,{href:\"https://x.com/DOGGODOG_lab\",children:(0,a.jsx)(n.strong,{children:\"Doggo Dog Lab\"})}),'\".']}),`\n`,(0,a.jsx)(n.p,{children:\"Yoks, di-bookmark dan di-schedule dulu X-Space-nya biar nanti hari Jum'at tanggal 20 September 2024 gak ketinggalan dan bisa mendengarkan ngobrol santai kita, serta kalau men-temen kalau ada pertanyaan juga bisa langsung ditanyakan.\"}),`\n`,(0,a.jsxs)(n.p,{children:[\"X account MEK.txt: \",(0,a.jsx)(n.a,{href:\"https://x.com/michaelmicasso\",children:\"@michaelmicasso\"}),`\nX account NFT Indonesia: `,(0,a.jsx)(n.a,{href:\"https://x.com/NFTindonesia_\",children:\"@NFTindonesia_\"})]}),`\n`,(0,a.jsx)(n.hr,{}),`\n`,(0,a.jsxs)(n.h3,{id:\"link-x-space\",children:[\"Link X Space\",(0,a.jsx)(n.a,{\"aria-hidden\":\"true\",tabIndex:\"-1\",href:\"#link-x-space\",children:(0,a.jsx)(n.span,{className:\"icon icon-link\"})})]}),`\n`,(0,a.jsxs)(n.p,{children:[\"Sesi \",(0,a.jsx)(n.strong,{children:\"Ask Me On Friday\"}),\" akan berlangsung hari Jum'at, 20 September 2024. Berikut ini link X-Space yang sudah dijadwalkan:\"]}),`\n`,(0,a.jsx)(n.p,{children:(0,a.jsx)(n.a,{href:\"https://x.com/i/spaces/1LyxBgkgdeOKN\",children:\"https://x.com/i/spaces/1LyxBgkgdeOKN\"})}),`\n`,(0,a.jsx)(n.hr,{}),`\n`,(0,a.jsxs)(n.h3,{id:\"poster-publikasi\",children:[\"Poster Publikasi\",(0,a.jsx)(n.a,{\"aria-hidden\":\"true\",tabIndex:\"-1\",href:\"#poster-publikasi\",children:(0,a.jsx)(n.span,{className:\"icon icon-link\"})})]}),`\n`,(0,a.jsx)(i,{src:\"https://ipfs.io/ipfs/QmZMD6VyjwRAt69rbTXravqSQoXzwNsg1FeTr9rt6DF7X8/ask-me-on-friday-mex-txt-0.png\",width:\"3840\",height:\"2560\",alt:\"Image\",sizes:\"100vw\"}),`\n`,(0,a.jsx)(i,{src:\"https://ipfs.io/ipfs/QmZMD6VyjwRAt69rbTXravqSQoXzwNsg1FeTr9rt6DF7X8/ask-me-on-friday-mex-txt-1.png\",width:\"3840\",height:\"2560\",alt:\"Image\",sizes:\"100vw\"}),`\n`,(0,a.jsx)(n.hr,{})]})}function M(e={}){let{wrapper:n}=e.components||{};return n?(0,a.jsx)(n,Object.assign({},e,{children:(0,a.jsx)(c,e)})):c(e)}var X=M;function F(e,n){throw new Error(\"Expected \"+(n?\"component\":\"object\")+\" `\"+e+\"` to be defined: you likely forgot to import, pass, or provide it.\")}return f(N);})();\n;return Component;"
+  },
+  "_id": "ask-me-on-friday-with-mek-txt/index.mdx",
+  "_raw": {
+    "sourceFilePath": "ask-me-on-friday-with-mek-txt/index.mdx",
+    "sourceFileName": "index.mdx",
+    "sourceFileDir": "ask-me-on-friday-with-mek-txt",
+    "contentType": "mdx",
+    "flattenedPath": "ask-me-on-friday-with-mek-txt"
+  },
+  "type": "Blog",
+  "url": "/blogs/ask-me-on-friday-with-mek-txt",
+  "readingTime": {
+    "text": "1 min read",
+    "minutes": 0.56,
+    "time": 33600,
+    "words": 112
+  },
+  "toc": [
+    {
+      "level": "two",
+      "text": "Gabut Nih!!!!",
+      "slug": "gabut-nih"
+    },
+    {
+      "level": "three",
+      "text": "Link X Space",
+      "slug": "link-x-space"
+    },
+    {
+      "level": "three",
+      "text": "Poster Publikasi",
+      "slug": "poster-publikasi"
+    }
+  ]
+}
