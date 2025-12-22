@@ -1,6 +1,43 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+@plugin "@tailwindcss/forms";
+
+
+@theme {
+  --color-dark: #1b1b1b;
+  --color-light: #fff;
+  --color-accent: #7b00d3;
+  --color-accentDark: #ffdb4d;
+  --color-gray: #747474;
+
+  --font-mr: var(--font-mr);
+  --font-in: var(--font-in);
+
+  --breakpoint-xs: 480px;
+  --breakpoint-xxs: 320px;
+  --breakpoint-sxl: 1180px;
+
+  --animation-roll: roll 20s linear infinite;
+}
+
+@keyframes roll {
+  0% {
+    transform: translateX(100%);
+  }
+  25% {
+    transform: translateX(50%);
+  }
+  50% {
+    transform: translateX(0%);
+  }
+  75% {
+    transform: translateX(-50%);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+}
+
 
 html {
   scroll-behavior: smooth;
