@@ -10,7 +10,8 @@ export const metadata = {
   description: `What is NFT Indonesia? What They Want? What They Do? What They Have? Who Are Their Team?`,
 };
 
-export default async function AboutUs({ params }) {
+export default async function AboutUs() {
+  const currentSlug = "all";
   const allBlogs = await getAllBlogs();
   // Separating logic to create list of categories from all blogs
   const allCategories = ["all"]; // Initialize with 'all' category
@@ -39,7 +40,7 @@ export default async function AboutUs({ params }) {
             We enjoyed our various activities, including...
           </span>
         </div>
-        <Categories categories={allCategories} currentSlug={params.slug} />
+        <Categories categories={allCategories} currentSlug={currentSlug} />
         <div className="px-5 sm:px-10 md:px-24 sxl:px-32 border-b-2 border-solid border-dark dark:border-light">
           <span className="mt-2 inline-block mb-6">
             Want to collaborate? Reach us{" "}

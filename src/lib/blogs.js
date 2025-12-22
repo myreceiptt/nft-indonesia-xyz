@@ -44,9 +44,29 @@ function buildToc(raw) {
 async function getImageData(imagePath, fileDir) {
   if (!imagePath || typeof imagePath !== "string") return null;
 
+  const normalized = imagePath.replace(/\\/g, "/");
+  const isRemote = normalized.startsWith("http://") || normalized.startsWith("https://");
+
+  let publicPath = normalized;
+  if (!isRemote) {
+    if (publicPath.includes("/public/")) {
+      publicPath = publicPath.split("/public/")[1];
+    } else if (publicPath.startsWith("../public/") || publicPath.startsWith("./public/")) {
+      publicPath = publicPath.replace(/^(\.\.\/)+public\//, "");
+      publicPath = publicPath.replace(/^\.\/public\//, "");
+    } else if (publicPath.startsWith("public/")) {
+      publicPath = publicPath.replace(/^public\//, "");
+    }
+    if (!publicPath.startsWith("/")) publicPath = `/${publicPath}`;
+  }
+
+  if (isRemote) {
+    return { filePath: publicPath };
+  }
+
   const resolved = path.resolve(fileDir, imagePath);
   if (!fs.existsSync(resolved)) {
-    return { filePath: imagePath };
+    return { filePath: publicPath };
   }
 
   const image = sharp(resolved);
@@ -60,7 +80,7 @@ async function getImageData(imagePath, fileDir) {
   const blurDataURL = `data:image/${mime};base64,${buffer.toString("base64")}`;
 
   return {
-    filePath: imagePath,
+    filePath: publicPath,
     width,
     height,
     blurhashDataUrl: blurDataURL,

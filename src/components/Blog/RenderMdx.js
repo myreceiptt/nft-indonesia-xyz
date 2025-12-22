@@ -1,26 +1,24 @@
 import React from "react";
 import { compileMDX } from "next-mdx-remote/rsc";
 import rehypeAutolinkHeadings from "rehype-autolink-headings";
-import rehypePrettyCode from "rehype-pretty-code";
 import rehypeSlug from "rehype-slug";
-import remarkGfm from "remark-gfm";
-import Image from "next/image";
 import VideoSource from "./VideoSource";
 import YouTube from "./YouTube";
 import AudioSource from "./AudioSource";
 import CustomLink from "./CustomLink";
 
+const MdxImage = (props) => (
+  // Use a plain img to avoid runtime issues with MDX + next/image
+  // eslint-disable-next-line @next/next/no-img-element
+  <img {...props} />
+);
+
 const mdxComponents = {
-  Image,
+  Image: MdxImage,
   VideoSource,
   YouTube,
   AudioSource,
   a: CustomLink,
-};
-
-const codeOptions = {
-  theme: "github-dark",
-  grid: false,
 };
 
 const RenderMdx = async ({ source }) => {
@@ -29,12 +27,7 @@ const RenderMdx = async ({ source }) => {
     components: mdxComponents,
     options: {
       mdxOptions: {
-        remarkPlugins: [remarkGfm],
-        rehypePlugins: [
-          rehypeSlug,
-          [rehypeAutolinkHeadings, { behavior: "append" }],
-          [rehypePrettyCode, codeOptions],
-        ],
+        rehypePlugins: [rehypeSlug, [rehypeAutolinkHeadings, { behavior: "append" }]],
       },
     },
   });

@@ -3,9 +3,12 @@ import RenderMdx from "@/src/components/Blog/RenderMdx";
 import Tag from "@/src/components/Elements/Tag";
 import siteMetadata from "@/src/utils/siteMetaData";
 import { getAllBlogs, getBlogBySlug } from "@/src/lib/blogs";
-import { slug } from "github-slugger";
+import { slug as slugify } from "github-slugger";
 import Image from "next/image";
 import { notFound } from "next/navigation";
+
+export const dynamic = "force-static";
+export const dynamicParams = false;
 
 export async function generateStaticParams() {
   const allBlogs = await getAllBlogs();
@@ -13,7 +16,8 @@ export async function generateStaticParams() {
 }
 
 export async function generateMetadata({ params }) {
-  const blog = await getBlogBySlug(params.slug);
+  const { slug: slugParam } = await params;
+  const blog = await getBlogBySlug(slugParam);
   if (!blog) {
     return;
   }
@@ -25,7 +29,7 @@ export async function generateMetadata({ params }) {
   if (blog.image) {
     imageList =
       typeof blog.image.filePath === "string"
-        ? [siteMetadata.siteUrl + blog.image.filePath.replace("../public", "")]
+        ? [siteMetadata.siteUrl + blog.image.filePath]
         : blog.image;
   }
   const ogImages = imageList.map((img) => {
@@ -59,7 +63,8 @@ export async function generateMetadata({ params }) {
 }
 
 export default async function BlogPage({ params }) {
-  const blog = await getBlogBySlug(params.slug);
+  const { slug: slugParam } = await params;
+  const blog = await getBlogBySlug(slugParam);
 
   if (!blog) {
     notFound();
@@ -69,7 +74,7 @@ export default async function BlogPage({ params }) {
   if (blog.image) {
     imageList =
       typeof blog.image.filePath === "string"
-        ? [siteMetadata.siteUrl + blog.image.filePath.replace("../public", "")]
+        ? [siteMetadata.siteUrl + blog.image.filePath]
         : blog.image;
   }
 
@@ -100,8 +105,8 @@ export default async function BlogPage({ params }) {
         <div className="mb-8 text-center relative w-full h-[70vh] bg-dark">
           <div className="w-full z-10 flex flex-col items-center justify-center absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2">
             <Tag
-              name={`#${slug(blog.tags[0])}`}
-              link={`/categories/${slug(blog.tags[0])}`}
+              name={`#${slugify(blog.tags[0])}`}
+              link={`/categories/${slugify(blog.tags[0])}`}
               className="px-6 text-sm py-2"
             />
             <h1 className="inline-block mt-6 font-semibold capitalize text-light text-2xl md:text-3xl lg:text-5xl !leading-normal relative w-5/6">
@@ -110,7 +115,7 @@ export default async function BlogPage({ params }) {
           </div>
           <div className="absolute top-0 left-0 right-0 bottom-0 h-full bg-dark/60 dark:bg-dark/40" />
           <Image
-            src={blog.image.filePath.replace("../public", "")}
+            src={blog.image.filePath}
             placeholder="blur"
             blurDataURL={blog.image.blurhashDataUrl}
             alt={blog.title}
@@ -121,7 +126,7 @@ export default async function BlogPage({ params }) {
             sizes="100vw"
           />
         </div>
-        <BlogDetails blog={blog} slug={params.slug} />
+        <BlogDetails blog={blog} slug={slugParam} />
 
         <div className="grid grid-cols-12 gap-y-8 lg:gap-8 sxl:gap-16 mt-8 px-5 md:px-10">
           <div className="col-span-12  lg:col-span-4">

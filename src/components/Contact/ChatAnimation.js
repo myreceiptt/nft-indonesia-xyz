@@ -1,15 +1,17 @@
 "use client";
-import React from "react";
-import { DotLottiePlayer } from "@dotlottie/react-player";
-import "@dotlottie/react-player/dist/index.css";
+import React, { useEffect } from "react";
 
 const ChatAnimation = () => {
+  useEffect(() => {
+    import("@dotlottie/player-component");
+  }, []);
+
   return (
-    <DotLottiePlayer
+    <dotlottie-player
       src="/animation_bubble_chat.lottie"
       autoplay
       loop
-    ></DotLottiePlayer>
+    ></dotlottie-player>
   );
 };
 

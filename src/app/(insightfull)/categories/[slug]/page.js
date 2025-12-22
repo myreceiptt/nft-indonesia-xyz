@@ -2,9 +2,12 @@ import RiSoll from "@/src/components/Elements/RiSoll";
 import { getAllBlogs } from "@/src/lib/blogs";
 import BlogLayoutThree from "@/src/components/Blog/BlogLayoutThree";
 import Categories from "@/src/components/Blog/Categories";
-import GithubSlugger, { slug } from "github-slugger";
+import GithubSlugger, { slug as slugify } from "github-slugger";
 
 const slugger = new GithubSlugger();
+
+export const dynamic = "force-static";
+export const dynamicParams = false;
 
 export async function generateStaticParams() {
   const allBlogs = await getAllBlogs();
@@ -27,7 +30,8 @@ export async function generateStaticParams() {
 }
 
 export async function generateMetadata({ params }) {
-  const currentSlug = params?.slug || "all";
+  const { slug: slugParam } = await params;
+  const currentSlug = slugParam || "all";
   return {
     title: `Activities: ${currentSlug.replaceAll("-", " ")}`,
     description: `Read more about ${
@@ -37,12 +41,13 @@ export async function generateMetadata({ params }) {
 }
 
 const CategoryPage = async ({ params }) => {
+  const { slug: slugParam } = await params;
   const allBlogs = await getAllBlogs();
   // Separating logic to create list of categories from all blogs
   const allCategories = ["all"]; // Initialize with 'all' category
   allBlogs.forEach((blog) => {
     blog.tags.forEach((tag) => {
-      const slugified = slug(tag);
+      const slugified = slugify(tag);
       if (!allCategories.includes(slugified)) {
         allCategories.push(slugified);
       }
@@ -54,23 +59,23 @@ const CategoryPage = async ({ params }) => {
 
   // Step 2: Filter blogs based on the current category (params.slug)
   const blogs = allBlogs.filter((blog) => {
-    if (params.slug === "all") {
+    if (slugParam === "all") {
       return true; // Include all blogs if 'all' category is selected
     }
-    return blog.tags.some((tag) => slug(tag) === params.slug);
+    return blog.tags.some((tag) => slugify(tag) === slugParam);
   });
 
   return (
     <article className="flex flex-col text-dark dark:text-light mb-16 sm:mb-24">
       <div className="px-5 sm:px-10 md:px-24 sxl:px-32 flex flex-col">
         <h1 className="mt-6 font-semibold text-2xl md:text-4xl lg:text-5xl">
-          #{params.slug}
+          #{slugParam}
         </h1>
         <span className="mt-2 inline-block">
           Discover more activities and expand your experiences!
         </span>
       </div>
-      <Categories categories={allCategories} currentSlug={params.slug} />
+      <Categories categories={allCategories} currentSlug={slugParam} />
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 grid-rows-2 gap-16 pt-5 sm:pt-10 md:pt-24 sxl:pt-32 px-5 sm:px-10 md:px-24 sxl:px-32 border-t-2 border-solid border-dark dark:border-light">
         {blogs.map((blog, index) => (
           <article key={index} className="col-span-1 row-span-1 relative">
