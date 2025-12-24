@@ -89,7 +89,7 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 Images storage list:
 
-- https://ipfs.io/ipfs/Qme4RHiGt6CoreJd6aeBiZ9K1avsN89uwVWcE1WJzodMJd/
+- [Images List](s.io/ipfs/Qme4RHiGt6CoreJd6aeBiZ9K1avsN89uwVWcE1WJzodMJd/)
 
 Regards,
 
