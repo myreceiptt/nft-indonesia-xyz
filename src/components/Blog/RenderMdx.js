@@ -9,8 +9,7 @@ import CustomLink from "./CustomLink";
 
 const MdxImage = (props) => (
   // Use a plain img to avoid runtime issues with MDX + next/image
-  // eslint-disable-next-line @next/next/no-img-element
-  <img {...props} />
+    <img {...props} />
 );
 
 const mdxComponents = {
