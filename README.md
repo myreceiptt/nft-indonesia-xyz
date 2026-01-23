@@ -1,5 +1,29 @@
 # NFT Indonesia Website
 
+## About This Repo
+
+`nft-indonesia-xyz` is the official website and publishing hub for NFT Indonesia. It provides a fast, SEO-friendly site for articles, archives, and project information, with a content pipeline that supports rich posts (MDX/Markdown), code highlighting, and structured categories.
+
+### Purpose & Scope
+
+- Publish and curate long-form content (articles, announcements, documentation-style posts).
+- Keep content navigable and discoverable via categories, slugs, and sitemap generation.
+- Maintain a stable, production-ready website with predictable builds and deployments.
+
+### Technology
+
+- Framework: **Next.js** + **React**
+- Content: **MDX/Markdown-based** posts with frontmatter (`gray-matter`)
+- Rendering: static generation where appropriate + sitemap generation (`next-sitemap`)
+- Styling: **Tailwind CSS**
+- Tooling: **npm**, **ESLint**, **TypeScript**
+- Deployment: **Vercel**
+
+### How We Maintain Quality
+
+- We follow **Prof. NOTA Evergreen Standard**: safe monthly updates and scheduled quarterly majors, keeping Node version for Vercel compatibility.
+- We validate changes with audit + lint + build, and document runs under `EVERGREENING/completion-log-*.md`.
+
 ---
 
 ---
